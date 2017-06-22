@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Source material for the Corpus of Historical Mapudungun</title>
+    <link>https://benmolineaux.github.io/bookshelf/post/</link>
+    <description>Recent content in Posts on Source material for the Corpus of Historical Mapudungun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 03 Feb 1706 16:45:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://benmolineaux.github.io/bookshelf/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Andrés Febres: Gramática</title>
+      <link>https://benmolineaux.github.io/bookshelf/post/febres/</link>
+      <pubDate>Wed, 03 Feb 1706 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/post/febres/</guid>
+      <description>Transcribed Yes.</description>
+    </item>
+    
+    <item>
+      <title>Luís de Valdivia: Sermones</title>
+      <link>https://benmolineaux.github.io/bookshelf/post/valdiviasermones/</link>
+      <pubDate>Wed, 03 Feb 1621 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/post/valdiviasermones/</guid>
+      <description>Transcribed Yes.</description>
+    </item>
+    
+    <item>
+      <title>Luis de Valdivia: Gramática</title>
+      <link>https://benmolineaux.github.io/bookshelf/post/vadiviagramatica/</link>
+      <pubDate>Fri, 03 Feb 1606 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/post/vadiviagramatica/</guid>
+      <description>Transcribed Yes. FITS project</description>
+    </item>
+    
+  </channel>
+</rss>
