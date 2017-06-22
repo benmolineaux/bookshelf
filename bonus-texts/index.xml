@@ -2,95 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonus texts on Source material for the Corpus of Historical Mapudungun</title>
-    <link>https://benmolineaux.github.io/bookshelf/bonus-texts/</link>
+    <link>https://benmolineaux.github.io/bookshelf/bonus-texts/index.xml</link>
     <description>Recent content in Bonus texts on Source material for the Corpus of Historical Mapudungun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 03 Feb 1913 16:45:54 +0000</lastBuildDate>
-    
-	<atom:link href="https://benmolineaux.github.io/bookshelf/bonus-texts/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://benmolineaux.github.io/bookshelf/bonus-texts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Manuel Manquilef: A la Raza Araucana (Lillo, ms)</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/manquileflillo/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/ManquilefLillo/</link>
       <pubDate>Mon, 03 Feb 1913 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/manquileflillo/</guid>
-      <description>Transcribed? No.</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/ManquilefLillo/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Alejandro Cañas: Estudios en Veliche</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/ca%C3%B1as/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Ca%C3%B1as/</link>
       <pubDate>Fri, 03 Feb 1911 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/ca%C3%B1as/</guid>
-      <description>Transcribed? No.</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Ca%C3%B1as/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Raoul de La Grasserie: Grammaire Langue Auca</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/grasserie/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Grasserie/</link>
       <pubDate>Thu, 03 Feb 1898 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/grasserie/</guid>
-      <description>Transcribed? No.</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Grasserie/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Federico Barbará: Manual o vocabulario de la lengua pampa</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/barbara/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Barbara/</link>
       <pubDate>Sun, 03 Feb 1878 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/barbara/</guid>
-      <description>Transcribed? No.</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Barbara/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Guillermo Cox: Viaje a la Patagonia</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/cox/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Cox/</link>
       <pubDate>Tue, 03 Feb 1863 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/cox/</guid>
-      <description>Transcribed? No. Relevant from p.242</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Cox/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.
+Relevant from p.242&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Antonio Hernández Calzada: Confesionario</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/hernandez/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Hernandez/</link>
       <pubDate>Fri, 03 Feb 1843 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/hernandez/</guid>
-      <description>Transcribed? No.</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Hernandez/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Serviliano Orbanel: Doctrina Cristiana (ms)</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/orbanel/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Orbanel/</link>
       <pubDate>Tue, 03 Feb 1778 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/orbanel/</guid>
-      <description>Transcribed? No.</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Orbanel/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Thomas Falkner: A description of Patagonia</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/falkner/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Falkner/</link>
       <pubDate>Thu, 03 Feb 1774 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/falkner/</guid>
-      <description>Transcribed? No.
-See pages 132-150, on Language.</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Falkner/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
+
+&lt;p&gt;See pages 132-150, on Language.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Andrés Febres: Gramática</title>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Febres/</link>
+      <pubDate>Fri, 03 Feb 1764 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Febres/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; Yes. Available through the Online Beagle Library at &lt;a href=&#34;http://darwin-online.org.uk/content/frameset?pageseq=1&amp;amp;itemID=A709&amp;amp;viewtype=text&#34;&gt;Darwin Online&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Elias Herckmans: Vocabulary</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/herckmans/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Herckmans/</link>
       <pubDate>Tue, 03 Feb 1643 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/herckmans/</guid>
-      <description>Transcribed? No. Edition by Rodolfo R. Schuller, 1907</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Herckmans/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.
+Edition by Rodolfo R. Schuller, 1907&lt;/p&gt;
+</description>
     </item>
     
   </channel>
