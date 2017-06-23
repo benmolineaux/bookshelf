@@ -2,166 +2,222 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source material for the Corpus of Historical Mapudungun</title>
-    <link>https://benmolineaux.github.io/bookshelf/index.xml</link>
+    <link>https://benmolineaux.github.io/bookshelf/</link>
     <description>Recent content on Source material for the Corpus of Historical Mapudungun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 03 Feb 1930 16:45:54 +0000</lastBuildDate>
-    <atom:link href="https://benmolineaux.github.io/bookshelf/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://benmolineaux.github.io/bookshelf/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Ernesto Wilhelm de Moeschach: Pascual Coña</title>
-      <link>https://benmolineaux.github.io/bookshelf/core-texts/PascualCo%C3%B1a/</link>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/pascualco%C3%B1a/</link>
       <pubDate>Mon, 03 Feb 1930 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/core-texts/PascualCo%C3%B1a/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.
-edited further by Rudolf Lenz
-&amp;ldquo;Vida y costumbres de los indígenas araucanos de la segunda mitad del Siglo XIX&amp;rdquo;&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/pascualco%C3%B1a/</guid>
+      <description>Transcribed? No. edited further by Rudolf Lenz &amp;ldquo;Vida y costumbres de los indígenas araucanos de la segunda mitad del Siglo XIX&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Manuel Manquilef: A la Raza Araucana (Lillo, ms)</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/ManquilefLillo/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/manquileflillo/</link>
       <pubDate>Mon, 03 Feb 1913 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/ManquilefLillo/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/manquileflillo/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Tomás Guevara: Folklore Araucano</title>
-      <link>https://benmolineaux.github.io/bookshelf/core-texts/GuevaraFamilias/</link>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/guevarafamilias/</link>
       <pubDate>Mon, 03 Feb 1913 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/core-texts/GuevaraFamilias/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/guevarafamilias/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Alejandro Cañas: Estudios en Veliche</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Ca%C3%B1as/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/ca%C3%B1as/</link>
       <pubDate>Fri, 03 Feb 1911 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Ca%C3%B1as/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/ca%C3%B1as/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Manuel Manquilef: Comentarios del Pueblo Araucano</title>
-      <link>https://benmolineaux.github.io/bookshelf/core-texts/ManquilefComentarios/</link>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/manquilefcomentarios/</link>
       <pubDate>Fri, 03 Feb 1911 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/core-texts/ManquilefComentarios/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/manquilefcomentarios/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Tomás Guevara: Folklore Araucano</title>
-      <link>https://benmolineaux.github.io/bookshelf/core-texts/GuevaraFolklore/</link>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/guevarafolklore/</link>
       <pubDate>Fri, 03 Feb 1911 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/core-texts/GuevaraFolklore/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/guevarafolklore/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Félix de Augusta: Lecturas Araucanas</title>
-      <link>https://benmolineaux.github.io/bookshelf/core-texts/AugustaLecturas/</link>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/augustalecturas/</link>
       <pubDate>Thu, 03 Feb 1910 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/core-texts/AugustaLecturas/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/augustalecturas/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Félix de Augusta: Gramática Araucana</title>
-      <link>https://benmolineaux.github.io/bookshelf/core-texts/AugustaGramatica/</link>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/augustagramatica/</link>
       <pubDate>Tue, 03 Feb 1903 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/core-texts/AugustaGramatica/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/augustagramatica/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Félix de Augusta: Nidolke dəŋu Dios ñi Nùtram</title>
-      <link>https://benmolineaux.github.io/bookshelf/core-texts/AugustaDios/</link>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/augustadios/</link>
       <pubDate>Tue, 03 Feb 1903 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/core-texts/AugustaDios/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/augustadios/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Rudolf Lenz (ed): Manual de Piedad</title>
-      <link>https://benmolineaux.github.io/bookshelf/core-texts/ManualPiedad/</link>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/manualpiedad/</link>
       <pubDate>Fri, 03 Feb 1899 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/core-texts/ManualPiedad/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/manualpiedad/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Raoul de La Grasserie: Grammaire Langue Auca</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Grasserie/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/grasserie/</link>
       <pubDate>Thu, 03 Feb 1898 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Grasserie/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/grasserie/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Rudolf Lenz: Estudios Araucanos</title>
-      <link>https://benmolineaux.github.io/bookshelf/core-texts/LenzEstudios/</link>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/lenzestudios/</link>
       <pubDate>Wed, 03 Feb 1897 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/core-texts/LenzEstudios/</guid>
-      <description>&lt;p&gt;A collection of late-19th-century texts compiled by Lenz himself in different regions of Chile.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/lenzestudios/</guid>
+      <description>A collection of late-19th-century texts compiled by Lenz himself in different regions of Chile.
+Transcribed? No.</description>
     </item>
     
     <item>
       <title>Federico Barbará: Manual o vocabulario de la lengua pampa</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Barbara/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/barbara/</link>
       <pubDate>Sun, 03 Feb 1878 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Barbara/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/barbara/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
     <item>
       <title>Guillermo Cox: Viaje a la Patagonia</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Cox/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/cox/</link>
       <pubDate>Tue, 03 Feb 1863 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Cox/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.
-Relevant from p.242&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/cox/</guid>
+      <description>Transcribed? No. Relevant from p.242</description>
     </item>
     
     <item>
       <title>Antonio Hernández Calzada: Confesionario</title>
-      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/Hernandez/</link>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/hernandez/</link>
       <pubDate>Fri, 03 Feb 1843 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/Hernandez/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Transcribed?&lt;/em&gt; No.&lt;/p&gt;
-</description>
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/hernandez/</guid>
+      <description>Transcribed? No.</description>
+    </item>
+    
+    <item>
+      <title>Serviliano Orbanel: Doctrina Cristiana (ms)</title>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/orbanel/</link>
+      <pubDate>Tue, 03 Feb 1778 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/orbanel/</guid>
+      <description>Transcribed? No.</description>
+    </item>
+    
+    <item>
+      <title>Bernard Havestadt: Chilidugu Vol.1</title>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/havestadt1/</link>
+      <pubDate>Sat, 03 Feb 1776 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/havestadt1/</guid>
+      <description>Transcribed? No.</description>
+    </item>
+    
+    <item>
+      <title>Bernard Havestadt: Chilidugu Vol.2</title>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/havestadt2/</link>
+      <pubDate>Sat, 03 Feb 1776 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/havestadt2/</guid>
+      <description>Transcribed? No.</description>
+    </item>
+    
+    <item>
+      <title>Thomas Falkner: A description of Patagonia</title>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/falkner/</link>
+      <pubDate>Thu, 03 Feb 1774 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/falkner/</guid>
+      <description>Transcribed? No.
+See pages 132-150, on Language.</description>
+    </item>
+    
+    <item>
+      <title>Andrés Febres: Gramática</title>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/febres/</link>
+      <pubDate>Fri, 03 Feb 1764 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/febres/</guid>
+      <description>Transcribed? Yes. Available through the Online Beagle Library at Darwin Online</description>
+    </item>
+    
+    <item>
+      <title>Elias Herckmans: Vocabulary</title>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/herckmans/</link>
+      <pubDate>Tue, 03 Feb 1643 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/herckmans/</guid>
+      <description>Transcribed? No. Edition by Rodolfo R. Schuller, 1907</description>
+    </item>
+    
+    <item>
+      <title>Luís de Valdivia: Sermones</title>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/valdiviasermones/</link>
+      <pubDate>Wed, 03 Feb 1621 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/valdiviasermones/</guid>
+      <description>Transcribed? No.</description>
+    </item>
+    
+    <item>
+      <title>Luis de Valdivia: Arte y Gramática</title>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/vadiviagramatica/</link>
+      <pubDate>Fri, 03 Feb 1606 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/vadiviagramatica/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
   </channel>
