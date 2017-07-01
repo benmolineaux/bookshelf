@@ -6,10 +6,46 @@
     <description>Recent content in Grammar on Source material for the Corpus of Historical Mapudungun</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 03 Feb 1764 16:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 1903 16:45:54 +0000</lastBuildDate>
     
 	<atom:link href="https://benmolineaux.github.io/bookshelf/tags/grammar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Félix de Augusta: Gramática Araucana</title>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/augustagramatica/</link>
+      <pubDate>Tue, 03 Feb 1903 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/augustagramatica/</guid>
+      <description>Transcribed? No.</description>
+    </item>
+    
+    <item>
+      <title>Raoul de La Grasserie: Grammaire Langue Auca</title>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/grasserie/</link>
+      <pubDate>Thu, 03 Feb 1898 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/grasserie/</guid>
+      <description>Transcribed? No.</description>
+    </item>
+    
+    <item>
+      <title>Federico Barbará: Manual o vocabulario de la lengua pampa</title>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/barbara/</link>
+      <pubDate>Sun, 03 Feb 1878 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/barbara/</guid>
+      <description>Transcribed? No.</description>
+    </item>
+    
+    <item>
+      <title>Bernard Havestadt: Chilidugu Vol.1</title>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/havestadt1/</link>
+      <pubDate>Sat, 03 Feb 1776 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/havestadt1/</guid>
+      <description>Transcribed? No.</description>
+    </item>
     
     <item>
       <title>Andrés Febres: Gramática</title>
@@ -18,6 +54,15 @@
       
       <guid>https://benmolineaux.github.io/bookshelf/core-texts/febres/</guid>
       <description>Transcribed? Yes. Available through the Online Beagle Library at Darwin Online</description>
+    </item>
+    
+    <item>
+      <title>Luis de Valdivia: Arte y Gramática</title>
+      <link>https://benmolineaux.github.io/bookshelf/core-texts/vadiviagramatica/</link>
+      <pubDate>Fri, 03 Feb 1606 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/core-texts/vadiviagramatica/</guid>
+      <description>Transcribed? No.</description>
     </item>
     
   </channel>

@@ -118,6 +118,42 @@
   </url>
   
   <url>
+    <loc>https://benmolineaux.github.io/bookshelf/categories/17th-century/</loc>
+    <lastmod>1643-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/categories/18th-century/</loc>
+    <lastmod>1778-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/categories/19th-century/</loc>
+    <lastmod>1899-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/categories/20th-century/</loc>
+    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/tags/academic-study/</loc>
+    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/tags/biography/</loc>
+    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://benmolineaux.github.io/bookshelf/bonus-texts/</loc>
     <lastmod>1913-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
@@ -125,6 +161,7 @@
   
   <url>
     <loc>https://benmolineaux.github.io/bookshelf/categories/</loc>
+    <lastmod>1643-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,8 +172,32 @@
   </url>
   
   <url>
+    <loc>https://benmolineaux.github.io/bookshelf/tags/ethnographic-material/</loc>
+    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://benmolineaux.github.io/bookshelf/tags/grammar/</loc>
-    <lastmod>1764-02-03T16:45:54+00:00</lastmod>
+    <lastmod>1903-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/tags/huilliche/</loc>
+    <lastmod>1911-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/tags/manuscript/</loc>
+    <lastmod>1913-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/tags/religious-texts/</loc>
+    <lastmod>1903-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -148,7 +209,13 @@
   
   <url>
     <loc>https://benmolineaux.github.io/bookshelf/tags/</loc>
-    <lastmod>1764-02-03T16:45:54+00:00</lastmod>
+    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/tags/travel-account/</loc>
+    <lastmod>1863-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -161,6 +228,12 @@
   <url>
     <loc>https://benmolineaux.github.io/bookshelf/tags/verse/</loc>
     <lastmod>1913-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/tags/wordlist/</loc>
+    <lastmod>1643-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   

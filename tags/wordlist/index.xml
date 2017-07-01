@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordlist on Source material for the Corpus of Historical Mapudungun</title>
+    <link>https://benmolineaux.github.io/bookshelf/tags/wordlist/</link>
+    <description>Recent content in Wordlist on Source material for the Corpus of Historical Mapudungun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 03 Feb 1643 16:45:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://benmolineaux.github.io/bookshelf/tags/wordlist/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elias Herckmans: Vocabulary</title>
+      <link>https://benmolineaux.github.io/bookshelf/bonus-texts/herckmans/</link>
+      <pubDate>Tue, 03 Feb 1643 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/bonus-texts/herckmans/</guid>
+      <description>Transcribed? No. Edition by Rodolfo R. Schuller, 1907</description>
+    </item>
+    
+  </channel>
+</rss>
