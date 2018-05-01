@@ -3,17 +3,20 @@ CHM
 https://benmolineaux.github.io/bookshelf/
 --------------------------------------------------------
 TEXT: 02 (Spanish only)
-TITLE: Sermón en Lenuga de Chile
-AUTHOR: Luys de Valdivia
+TITLE: Sermon en Lenuga de Chile
+AUTHOR: Luis de Valdivia
 YEAR: 1621 (1st Edition)
 CATEGORY: Religious Texts
 ORIGINAL DOCUMENT: Biblioteca Nacional de Chile (id MC: MC0013037/id BN: 64592)
 DOCUMENT SCAN: http://www.memoriachilena.cl/602/w3-article-8484.html
 TEXT OCR: Google Cloud Vision
 OCR CORRECTIONS: Benjamin Molineaux
+WORD COUNT: 18,000 (approx)
 VERSION: 0.1 
 --------------------------------------------------------
-COMMENTS: Long and short <s> are merged throughout the text. Most abbreviations have been expanded.
+COMMENTS: 
+-Most abbreviations have been expanded.
+-Long and short <s> are merged throughout the transcript. 
 --------------------------------------------------------
 
 PAG 1

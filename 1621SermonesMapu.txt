@@ -3,8 +3,8 @@ CHM
 https://benmolineaux.github.io/bookshelf/
 --------------------------------------------------------
 TEXT: 02 (Mapudungun only)
-TITLE: Sermón en Lenuga de Chile
-AUTHOR: Luys de Valdivia
+TITLE: Sermon en Lenuga de Chile
+AUTHOR: Luis de Valdivia
 YEAR: 1621 (1st Edition)
 CATEGORY: Religious Texts
 ORIGINAL DOCUMENT: Biblioteca Nacional de Chile (id MC: MC0013037/id BN: 64592)
@@ -12,9 +12,14 @@ DOCUMENT SCAN: http://www.memoriachilena.cl/602/w3-article-8484.html
 TEXT OCR: Google Cloud Vision
 OCR CORRECTIONS: Benjamin Molineaux
 ENCODING: Unicode (UFT-8)
+WORD COUNT: 20,000 (approx)
 VERSION: 0.1 
 --------------------------------------------------------
-COMMENTS: Long and short <s> are merged throughout the text. The transcription <t[r]> represents the rare <t> grapheme with a superscript hook. <·l> represents a hook or curl preceding the <l>. Where the scan of the text was partially intelligeable, we have consulted Toribio Medina's 1897 facsimile edition and given this interpretation in brackets.
+COMMENTS: 
+-Where the scan of the text was only partially intelligeable, we have consulted Toribio Medina's 1897 facsimile edition and given the interpretation theirin, using square brackets.
+-Long and short <s> are merged throughout the transcripiton of the text. 
+-The transcription <t[r]> represents the rare <t> grapheme with a superscript hook. 
+-What is transcribed as <·l> represents a hook or curl preceding the <l> in the original. 
 --------------------------------------------------------
 
 PAG i
