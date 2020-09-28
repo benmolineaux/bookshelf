@@ -1,0 +1,2769 @@
+CHM  
+-Corpus of Historical Mapudungun (Corpus Histórico del Mapudungun)
+https://benmolineaux.github.io/bookshelf/
+--------------------------------------------------------
+TEXT: 02 (Mapudungun only)
+TITLE: Sermon en Lenuga de Chile
+AUTHOR: Luis de Valdivia
+YEAR: 1621 (1st Edition)
+CATEGORY: Religious Texts
+ORIGINAL DOCUMENT: Biblioteca Nacional de Chile (id MC: MC0013037/id BN: 64592)
+DOCUMENT SCAN: http://www.memoriachilena.cl/602/w3-article-8484.html
+TEXT OCR: Google Cloud Vision
+OCR CORRECTIONS: Benjamin Molineaux
+ENCODING: Unicode (UFT-8)
+WORD COUNT: 20,000 (approx)
+VERSION: 0.1 
+--------------------------------------------------------
+COMMENTS: 
+-Where the scan of the text was only partially intelligeable, we have consulted Toribio Medina's 1897 facsimile edition and given the interpretation theirin, using square brackets.
+-Long and short <s> are merged throughout the transcripiton of the text. 
+-The transcription <t[r]> represents the rare <t> grapheme with a superscript hook. 
+-What is transcribed as <·l> represents a hook or curl preceding the <l> in the original. 
+--------------------------------------------------------
+
+PAG i
+SERMON
+EN LENGVA
+DE CHILE, DE LOS MYS-
+TERIOS DE NVESTRA SANTA
+FE CATHOLICA, PARA PREDICARLA
+A LOS INDIOS INFIELES DEL REYNO
+DE CHILE, DIVIDIDO EN NVEVE
+partes pequeñas, acomodadas a
+su capacidad.
+COMPVESTO POR EL P. LVYS DE VAL[DIVIA]
+Compañia de Iesus, Perfecto de los estudios m[]
+de S. A[mbrosio]
+
+PAG ii
+LICENCIAL DEL SE-
+ñor Obispo de Valladolid.
+DAmos licencia para que se imprima este sermō, por
+la satisfaccion que tenemos de la persona del Pa-
+dre Luys de Valdivia, que lo ha hecho. En Valladolid a
+a 8. de Otubre de 1621. 
+Don Enrique Obispo de Valladolid.
+
+punto de la immortalidad del alma, y co-
+
+[grau]edad del pecado.
+--------------------------------------------------------
+
+PAG 1
+SERMON PRIMERO
+DE LA IMMORTALIDAD DEL ALMA,
+y como ay otra vida despues de esta, y en ella premio
+a los buenos, y castigo eterno a los malos
+para siempre.
+
+
+DIOS ta ñi mùpin dùgu (inche ñi ayù-
+ñel pu puñiеmа) сùра gеnelаbіn, рieуmn
+ta cùpan. Cùme gels ta quimbilmn,
+ayùbilmn cay, vill ella que dugu meu
+tamn pllù ta montuay.
+1 ¶ Allcùmollechi, ta quimin ta huenu rùpù, vey-
+tamn mogenllechi. Allcùgetuli, chem cam cùme ge-
+lu, tamn ynaytuael,chem cam hueragelu tamn
+ynaytunòael; ta quimaymn.
+2 ¶ Vata Dios ta ñi dugu meu quimelgeimn.
+Veycay ta inche, chumgechi ta pu Patiru meu ta
+genelabimn, ta piuyeyta Señor Iesu Christo; genelu-
+paiñ.
+3 ¶ Yune (pu peni) tamn che gen deuma quimlley
+mn; chumgechi inche, ca que pu huinca cay che geyñ
+Vill pu che pu ancameu ta pilù geyñ, vachige meu
+comù t[r]uualnolu ve; calùlno ve, voruno ve; va-
+chi ancamgelay taiñ pllu. Huelu pllù meu moge-
+queyñ, dùguqueyñ, ayuqueyñ, quimqueyñ, duamtu-
+queyñ, aldù dùgu cay ta vemqueyñ. Anca meu ti-
+payùm ta pllù, ta iñ ·lan meu; ta lalu anca quim lay
+negùmulay, quiñe cura mgey, moncoll tue mgey
+cay.
+
+4 ¶ Vachi pllù (pu votùm ema) anca meu ta tipa-
+yùm, ablay, ·lalay; chumgechi abi ta ñi ·lan meu,
+Cauallo
+
+PAG 2 
+- SERMON PRIMERO,
+Cauallo pllù, tehua pllù, hueque pllù cay: Vey ta ñi-
+blahuera lepùntun meu, Cauallo, tehua, hueque cay
+ta ñi anca ·lalu ùtùventubimn; raquihuelabimn
+cay; anca egu ñi pllù abquey ta Cauallo, hueque cay
+ta piqueimn. Vemgelayñ ta iñ chegen, ta yñ anca
+meu tipayùm ta yñ pllù, ta mogey; ta ca mogen meu
+ta poùy:
+5 ¶ Veymo cay mgenquenmayay, pepi ablayay:
+veyñivlay tamn anca ·lalu raquiquebimn, rùgal-
+quebimn cay, lepùntun meu ùtùvtunmaquel abimn.
+Chem ñivla cam ve? pllù ta petu mogequey deu
+ta ñi anca meu ñi tipayùm,raquigeyùm tañi anca,
+tepequey cay ta pllù.
+6 ¶ Ta mn purumache ta cuyvi (Dios ñi dugu
+quimnobulurume; aldù gñeñcagebulu cay) huelu ta
+ñi pepi abnon ta pllù, tipayùm ta che ñi anca meu
+piquebuygn, tutebuygn cay. Va cay Christiano pu che
+tañii raquiel ta Dios ñi dugu (pepi huerinolu, pepi
+coyllatunolu ca va) pij cay cha.
+7 ¶ Ca gey ta mogen abvalnolu, able vachi
+yune mogen, pijta Dios ñi dugu; vachi yune
+mogen meu ta che ta huerilcanolu, ca mogen
+meu ta Dios meu mgengue tepeay; urcutuay,
+culligeay cay: Huelu huera gelu chi che Dios ta
+illculcaquebilu ta ñi huerilcan meu vachi
+yune mogen meu; mgenque cućantulgeay ta ca mo-
+gen meu.
+¶ Aldù ùiaù dugu tva may, ta iñ duam meu
+ta chaùy. Pimollechi may, ta cùme que che ta
+ñi culligen ta ca mogen meu, ta ñi cùme mo-
+geuyeyùm vachi yune mogen mеu, сumеlаycаm?
+Huera que che cay ta ñi cut[r]antulgen ta ca mogen
+meu
+
+PAG 3
+De QVE AY OTRA VIDA.
+meu tañi huerilcauyeyùm vachi yune mogen meu,
+cùmelay cam vecay?
+8 ¶ Mollquiñe huent[t]u ta pu votùm gelu,tañi
+ruca meu, cùmelcaquebita ñi quiñe votùm cùme
+gelu; ca votùm may ta huera gelu tùpubi. 9. ¶ Ta
+pu apo cay vill pucara meu cume raquiquebi ta cù
+me que che, tagnecaquebilu apo tañi piel; hueraque-
+che may, mùpituqnenolu ta ñi pigeel ta apo meu,
+devtugey t[r]ùpugequey cay. 10. ¶ Chemo cam
+ve? Ta cùme gelu ta cullin pituy, mañumvali: hue
+ragelu may cullin pitulay, cut[r]antulgen pituy.
+11 ¶ Vamgechi cay ta (pu votùm) ema vachi
+aldù vùta Apo Dios, ta huenu meu, vill mapu meu
+cay tamlelu, ñi aldù cùme apo geyùm, ta ñi aldù
+ùiaù geyùm tañi duam, naupa quintuquey ta vill
+pu che, vachinaù meu mogequelu, cùme mogequey
+chey? huera mogequey chey? ta cùme que che veyta
+ñi piel ta genecaquelu, ta culliay ta huenu mapu
+meu; huera queche may, veyta ñi piel gnecaqueno-
+lu cut[r]anrulyabi ta minu tue meu. 
+12 ¶ Vachi Dios vill pu che ñi chao llechi, vill
+ta votùmyebi; chumgechivotùm adyebi ta ñi chao.
+vamgechi cay ta che adyebi ta Dios ta ñi chao.
+Dios (raquidu inche mgepe ta che tañi pllù meù) ta-
+piuyey: chem cam huera gelu quimpe ta che (inche
+mgelu) piuyeycay: gepe cay ta che ñi duam meu ta
+dullùn, ta dullùam cùme que dugu (inche mgelu)
+piuyeycay cha: pepi abquilepe che ñi pllù, mgengue
+mogepe (inche mgelu) piuyey ca cha; pllù meu peval-
+gellechi (chumgechi quidupeun ta inche) piuyey cay
+ta Dios. 13 ¶ Vachi dugu meu cay ta Dios
+ca quepu mogeluchi dugu, ta hueque, ta uñùm ta
+challua
+
+PAG 4
+
+SERMON PRIMERO,
+challua votùmyelabi, ta ñi adyenobiyùm ta Dios
+egn: Chedque may votùm yebi, vey ta ñi pllùdque
+ta adyebi ta Dios. 14. ¶ Cùme geyùm cay
+ta Dios, ùiaù duam geyum cay vill puche ñi chao
+geyùm cay ta ñi pu votùm cùme gelu tañi mùpi-
+tuqueeteu, cùmelcabi, cullibi cay, huera que che
+may ta ñi mupitunoeteu cutantulbi: ¶ Cùme-
+lay cam ve? Aldù cumey. piaymn vill eymn, chu-
+cheymgelu, pilayaymn.
+15 ¶ Cùme cochintumn veula veycùy ta hue
+raque che vill ple meu, ta huincùquelu ca che ta ñi
+cullin, damentuquelu, ca che ta ñi domo mùntuque-
+lu, aldulcauquelu carumequechi ta huerilcaquelu
+huelu va meu aldù cullin gelu alaù tepequelu pu ve
+vill vachi huera que che callirumepraabuy? cu-
+t[r]antulgelaabuy cam ta ñi venten vùta huerilcan
+meu? ¶ Dios cay ta ñi aldu ùiaù duam ge-
+yum vachi huera que che cut[r]antulcalaabubi, mlepe
+piabuy, vuta apogeyùm? ¶ Mù rume; vey-
+meu (pu peñi) ta ñi gen ta ca mogen aldù mupinlle-
+chi, veymeu cut[r]antulgeay ta huera que che, cut[r]an-
+tulgeuyenolu vachi yune mogen meu, va ta ñi cu-
+t[r]antugen meu egnmgenque ta ñi huerilcan ta cu-
+lliaygñ.
+
+16 ¶ Cùme que che may hueluqnogechi aldù cù
+me mogebulu vachi yune mogen meu aldù cuñù-
+valgechi miaubulu, ñi anca meu aldù cut[r]anyau-
+bulu, tañi allvùlcaquebueteu ca che meu, chu pino-
+bulu huelu vill pu che cùmelcaquebulu, ta Dios ta
+ñi piel mùpituquebulu, ca mogen meu chumgea-
+buygn? gelaabuy ta ñi mañumabueteu: calli rume
+praabuy vill tañi cùme vemuyeel egn? ¶ Mu
+may
+
+PAG 5
+DE QVE AY OTRA VIDA.
+may veyta ñivla aldù mùpin llechi, ta ñi gen ta
+ca mogen veymeu ta Dios cùme que che ta cùme cu
+lliay quidu pegeluay ta cùme queche meu ta mgen-
+que ñi tepeam egn.
+
+17 ¶ Vùta Dios may gen huenu, gen tue cay,
+vill ta pegevalu pegevalnolu chi dugù vemvoe,
+Veyñiivla quidu inche mgepe tañi chegelel chi che
+tapiuyey, vachi ta ñi yune mogen meu, ta che ta
+quimaeneu, ta uvohianeu, vill ta ñi piel chi dùgu
+gnecanmaaeneu, piuyey ta Dios. ¶ Vey meu
+cay ta che vata ñi cùme vemel meu, ca mogen
+meu mgenquenmayalu culligeay, vituay cay ta ùr
+cùtun, ta vill ta cùme que dùgu huenu meu gelu,
+piuyey cay ta Dios. ¶ Huelu vill ca que du-
+gu, ta huenu mapu ta labquen, ta tue mapu, ta pu
+leuvu, pu ùñùm, pu challua pu hueque cay, ta рu
+theñivla quidu ñi votùm gelu ñi cùmeleam ta
+che, pin meu,ta eli ta Dios. ¶ Tume chey ta che
+cùpauvchinobile ta Dios, vey ta ñi pielchi dùgu
+mùpituduamnobile, vey egu aldù ùllcuay ta Dios
+ta ñi mañumnobiùm ta ñi venten cunelcauyee-
+teu.
+18 ¶ Cùme allcùmollen ta eymn chey, van-
+ten gepe, ca dùgu cay pihuelaaeymn, elcamn ta mn
+duam meu, va tamn pillebin, ta ñi gen ta Dios: ta
+gen vill dùgu, vill vemvoe, vey ta ñi aldù cù-
+me gen: ta ñi ùiaù duamgen cay ta Dios, ta ñi cù-
+melcaqueel ta cùme que che, tañi cut[r]antulqueel ta
+huera que che. Able vachi mogen, ta ñi genta ca
+mogen, vey meu pouay ta iñ pllù, cùme que pllù ta
+cùmetepen dùgu (gloria) elugeay ta Dios meu pe-
+biùm ta Dios: hueraque pllù may mgenque abqui
+duam
+
+PAG 6
+
+SERMON SEGVNDO,
+duamegechi cut[r]antulgeay.
+19 ¶ Inangechi Veula inche egu, ta mn quiñe
+duam meu vill eymn uvchibimn ta Dios, miùm-
+biyùm cay, vey ta pibimn: A Señor Dios, veycù
+huenu pray ta mi gen, llitulay, ablayay cay, eymi
+meu chegelgeiñ ta mi quimgeam ta inchiñ meu pe-
+geam cay ta huenu meu, cuñùval pu che inchiñ pi-
+chique gein rume, eymi meu mùtùmgelleyñ, mi vo-
+tùm mgelu ayùgelleyñ. Puche iñ duam meu compe
+tañi dugu, pigeca; ayùgellechi ampelgellechi ta pu-
+che meu vey egùn meu cay vill ta ñi piel chi dùgu
+opulgepeca, pigeca Dios ema: veyta pilmi, ta huenu
+mogen ta abnoalu (ta iñ chelcagen ta ñi ab lleue) vi
+tuayñ. Amen.
+SERMON SEGVNDO
+DE LA GRAVEDAD DEL PE
+cado, por lo mucho que a Dios ofende
+y al hombre daña, y por los castigos .
+que Dios ha hecho en este mun-
+do por pecados. 
+TVme chey duamtuymn, (pu peñi ema)
+casermon meu, ta ñi gen ta ca mogen,
+able vachi mogen, ta piuyeeymn ta cù
+paùyen. Veymeu ta in pu pllù mo-
+gey ta mgenque. Teye vùta apo Dios vill du-
+gu vemvoe, ta ñi uvchiqueeteu cùme que pu
+che meu cùme tependugu abnoluchi ùrcùtun cay ra
+eluquebi; tañi aldù ayùbiyùm ta che;quidu tañi gen
+mgelu
+
+PAG 7
+
+DE LA GRAVEDAD DEL PECADO.
+mgelu ta ñi gelbiyùm ta che cay ta Dios, votùmye-
+bi cay. Vamgechi cay tapu che meu veyta ñi cùme
+votùm gelu, ta ñi pielchi dugu mùpituquelu pu ve,
+vùta que dùgu cùme gelu mgenquenmayalu nieel-
+canmabi: huall quiñe queun rume pepi raquinoalu,
+quiñe duam rume pepi duamtunoalu vachi cùme
+que dùgu.
+2 ¶ Veula may chemchi dugu ñivla ta pu che ta
+venten cùme dugu gucùmbign, venten ella que du
+gu meu (raquivalnolu pu ve) ùtùvnaùygn ta
+piaeymn, tа сùраn. Vill huera gen, pu che tañi vill
+gucùmgen cay chuchi dugu meu ta mley ta cùpage-
+neleymn: tamn quimam, veymeu tamn ñultuam
+сау,montun сау tаmn quintuаm. 
+3 ¶ Vill tamn huera gen huerilcan llechi.
+¶ Chem cam ta huerilcan quimimn cam? Qui-
+maymn, allcùtumn. Dios tañi piel chi dugu mupitu-
+non, taiñ cùmentubiel chi dugudque ta ynaytun,
+va ta huerilcan, taiñ ayùel ta vempran, Dios ta ñi
+ayùel may ta vemnon, vey ta ñi piel chi dugu gne-
+canon, va ta huerilcan llechi. Ta chuquin,
+ta damentum ta coillajuramentoquen Pillan ta
+vbchin, Huecuvue cay, ca che ta allvùlin vill tva
+huerilcan llechi. Chem rume ta, hueluqnobilu Dios ta
+ñi ayùel, veyta ñi piel cay, huerilcan llechi.
+4 ¶ Chunten gey cheyta huerilcan ta ñi huera
+gen, vey meu tamn allvùlgequen ta eymn quim-
+duamilmn, ymelclegechi quimaymn ta veula: quim
+yùm ùdeabimn ñulmatuabimn cay ta huerilcan.
+¶ Vata Dios ñi piel vùtayhuay (piam) vuña-
+puelbita che, veymo lagùmbi: vamgei cay ta hue-
+rilcan ta vuñapuelbi ta pllù. ¶ Pñu cut[r]an
+mgey
+
+PAG 8
+
+OUR SERMON SEGVNDO.
+mgey cay ta huerilcan, yney mo quepu vùli ta pñu
+layecùumey, vamgechi cay ta yneymo quepu ta
+vùli ta huerilcan, lay ta ñi pllù.
+5 ¶ Chumquey ta ·lantamn anca meu, veychi
+dùgu cay ta vemquey tahuerilcan tamn pllù meu.
+Ta ·lan anca ta cùylulbi, porelbi, huera numùlcabi.
+Pelabimn cam ta hue mallùen, tañi ·lanonula, te-
+mo gebulu, gelabuy ta ca domo, venten temo gelu:
+Deu ta ñi layùm may cùilu getuy, huera numùy:
+yney cam cagetulbi vachi domo? ·lan may. Quiñe
+huent[r]u cay hue che pelabimn cam ta yune ñi ·lanon
+ula, allca gebulu, aldù yavùgebuy: deu ta ñi ·layùm
+may, quimnolu, amonolu, ta pnobilmn rune, chem
+pilay chaùtunmaulay. Chumgechi cagetui vachi
+- huent[r]ù? ·lan meu gucùmi ta ñi mogen, ta ñi qui-
+min, tañi yavùgen, vill pu che cay ta ñulqueygn ta
+·lalu anca meu, llùcantubign cay. Vata ·lan ñi ve-
+mel. Vamgechi cay ta huerilcan pllù tañi mogen ta
+entubi: quidu Dios mogelbi ta pllù chumgechi pllù ta
+mogelbi ta anca, tipayùm anca meu ta pllù, ·lay ta
+iñ anca, tipayùm cay ta Dios, vey tañi gracia cay ta
+iñ pllù meu ·lay ta iñ pllù: cùilu getuy cay ta pllù, por
+getuy rugalgepe infierno meu ca pigey, mgenq ta
+ni cut[r]antugeam. Pllù ñi ·lan may huerilcan llechi,
+veychi cùilulbi, porelbi cay ta pllù: vamtipalbi ta
+pllù meu ta Dios, vey ta ñi gracia cay ta entubi.
+6 ¶ Ta vùta qtal meu ñultulaimn cam? Ptù
+gequillechi, pilaymn? Talca meu, ispada mew cay ta
+ñulquelaymn? Lagùmgequillechi, pilaymn? Ta vù-
+ta que bilu meu, yhuay meu cay montulaymn cam?
+Vuñapuelgequillechi, pilaymn? Chemo cam huerilcan
+meu ñultuquelaymn, montuquelaymn cay? Talca
+meu
+
+PAG 9
+DE LA GRAVEDAD DEL PECADO.
+meu ispada meu, qtal meu yhuay meu cay allvulge-
+abulmn rume, nochi ta huerilcan meu ta allvulgea-
+buimn gatu.
+7. ¶ Quiñe hue cùdu, hùe macuñ chey ta gebul-
+mi, cùme ca·l meu ta vueuqueel, ta huyrigetuel, ta
+callvù ta colù ta chod. Veymo ca che vachi cùme
+ecull ta porelbubile, lluquiñelbubile, ùllcumpelaabu-
+bimi cam veychi che ta mi cùdù ta lluquiñelmae-
+teu? Vaingechi cay ta huerilcan porelbi ta iñ pllù; ge-
+non huerilcanula aldù temogebulu, taliù gebuy, cum
+gebuy cay, quidu Dios ta iñ cuù meu geregebuy hue-
+ritugebuy tay ta pllù: huerilcan meu may curù ge-
+tuy, porgetuy, lluquiñ cay. Chemo cam ta huerilcan
+meu ùllcuquelaymi? venten tami allvuleteu. Tami
+pllù meu? Vill cùdu meu aldù cùme gele rume, nolay
+cam ta pllù:
+8 ¶ Cùpa quimimn ta chem cam ta huerilcan;
+allcùtumn ca cha. Huerilcan ñivla tavaycoyegey-
+mn pu diablo meu, diablo cay ta denchoyebimn, hue-
+rilcan ñivla cayñetubimn ta Dios: Huerilcan ñivla,
+ptùgepe infierno meu mgenque, pigequeymn. Hueril
+can meu ·lalu, mgenque cut[r]antu geay lubay taqtal
+meu abnonquechi huarùlùle rume ta che vey meu,
+tañi cut[r]antuvalgen ta ñi huerilcan ñivla abculli-
+layay; tañi hueluqnohuyebiùm ta Dios. Veycù hue-
+ragey ta huerilcan, huera ùlmeyegepe ca va, ñi ven
+ten hueralcaquebiùm ta che ta huerilcauyelu.
+9 ¶ Pimoanchey anca tañi ·lan comùtuvali,
+ta ·lalu anca tañi cùilugetun, ñi porgetun pege-
+vali deu tañi ·lan ta che. Huelu pllù ta ñi ·lan hue
+rilcan ñivla, tañi cùilu getun cay ta pllù, ñi porel-
+getun cay ta pllù, comùtuvalnolu, dulle mgen antù
+hue-
+
+PAG 10
+
+CA SERMON SEGVNDO:
+huerilcaqueiñ aldù mita, vey meu cay ta yqueiñ,
+pùtuqueyñ, dùguqueyn, chumgechi huerilcanon ula
+yquebuyñ putuquebuyñ. Chemo cam ta hueralcage-
+queimn ta huerilcan mo ta pigequeiñ, veyta comù-
+tulaiñ gatu? A pu votum ema, pimochi cay? Ta mn
+pu pllù comùtulabimn cay, vey ta mn comùtunon
+meu rume, ta gen ta mn pllù ta mùpiltuqueimn,
+chumgechi tamn ge meu comùtulaymn tamn pllù;
+vamgechi cay ta huerilcan tamn ge meu comùtu-
+laymn, pllù ñi cut[r]anlle ta huerilcan, ta mn hueril-
+caquen may ta quimlleymn, tamn damentuquen ca
+che ta ñi domo meu, tamn allvulquen taca que che,
+tamn huincùquen cay. Chemo cam ta vey quim-
+lleymn? Tamn pu duam meu gùlamgelleymn hueril-
+cauyeymi pigelleymn, ùnatugelleymn cay, vey meu
+yeһuequeymn, llùcaqueymn сау,tа [v]uqueymn сау tа
+huerilcan, quimgequilepe ca va, piqueimn.
+10 ¶ Chemo cam yehuequeymn? Ta huerilcan
+ta elcantuduamqueymn? Ta ñi huera geyùm ta hue
+rilcan; Iney ta ñi huera gen, ta lacùtun, ta chuquin,
+ta damentun, ta lagùmchen ta pieymn meu? Ta mn
+pu duam meu vey pij ta Dios, pepi huavùlvanolu
+tañi huera gen cava. Aldù ùlleupebin, cay ñetubin
+cay ta huerilcaquelu chi pu che, ùdebin cay ta ñi
+huerilcan egn puve, pij ta Dios ta ñi vùta nemel
+meu, huerilcaquelu ta Dios ta vey ñi piel chi dùgu
+cay ta hueluqnobilu.
+11 ¶ Taquidu tami votùm tami cù liùel, ta
+mi remelel, ta mi yavutuelcay, mùpitunobuelmu,
+gnecanobuelmu cay; veymo lucarubuelmu cay,
+mamùll meu cay mt[r]agulbuelmu; chumabuymi, va
+chi huera votùm mo? Chem piabuimi? Vanten
+hue-
+
+PAG 11
+
+DE LA GRAVEDAD DEL PECADO.
+huera gen chem pituabuy?
+12 ¶ Ta ñi dencho ñi cullin ta chuquile ta qui-
+ñe yana, lucatubile caytave, chumayta ñi dencho,
+ùllculayayte? Tùpulayabì ta ñi yana tahuem huera
+gelu? Tamn chao lle ta Dios, tamn gelcaeteu, tamn
+gelcapeeteu cay, mogelcapeeteu cay, tamn dencho
+cay lle ta Dios, tamn apo lle ve cay vey ta ñi ruca
+meu ta mleymn: (vill tue mapu vey ñi ruca gatu)
+venten ta mn cùmelcageuyen meu ta Dios meu;
+venteñ vùta apo geyùm cay ta Dios, mù dugu
+meu gatu ùllculaabuy te? Eymi damentuque voe, ta
+eymi golliquevoe, ta mi pichi tepen ñibla mi anca
+meu, Dios tañi piel ta illambimi, ta mi pichi ùllcun
+meu, ta ca che (tami peñi gelu ve) ta huera ùlme-
+yebimi rùgulùbimi cay. Ta mi puchi hueun meu chu-
+quimi, Dios ta ñi piel cay ta yllambimi: ùllcupela-
+aeymu cam ta Dios? Hueluqnoaeymu cam? Vem-
+gealu mupin mù dùgu mo gatu, eymi meu ta aldù
+ùllcuay ta Dios.
+13. ¶ Chunten chey pij tamn duam ta ùllcul-
+cayabi ta Dios ta che, ta Pillan ta ùjruquelu? uvchi
+quelu cay, mt[r]ùmquebilu cay ve? Dios mo may ùcal
+uvchiquebilu ve? Huecuvue cay ùjtuquebilu? ra-
+quiquebilu cay ve? Veymo cay ta che cùpa ynaytu-
+quenolu ta ñi piel ta Dios? pu Patiru ñi piel cay ta
+gnecaquenolu? ñi cut[r]an meu cay ñi duamyeel chi dù
+gu meu cay, ta calcugelu chi pu Machi, pu vucha
+ramtumequelu? Pivalnolu gatu chunteni vachi
+hueraque pu che meu Dios tañi ùllcuquen, ta ñi ñou-
+quen cay.
+14 ¶ Quimn ca cha, aldù llecavali ta Dios,
+ñounquechi tùpunmaquebi ta huerilcan, ta tùpu-
+quebi
+
+PAG 12
+
+SERMON SEGVNDO, 
+quebi ta huerilcavoe geluchi che cay. Cuyvi huera
+que pu Angel vey egn ta ñi vùta huerilcan ñivla,
+(aldù pramunten gebulu pu ve) ta Satanas egu (ta
+ñi apo em egu ve) ùtufnacùmgeuyeygùn ta huenu
+meu infierno mapu gechi ad meu, vill egùn cay (yu-
+ne aldù temo gelulu) aldù cùilu Diablo getulu pu
+ve Vallechi ta Dios tañi yune ùllcun noun cay ra
+huerilcan ñibla.
+15 ¶ Сuуvicay taiñ lli pu che, ta iñ yunеп рu
+chao (Adam yunen huent[r]u, Eua cay yunen domo
+pigebulu pu ve) quiñe aldù cùme mapu meu Paray
+so pigebulu (aldù vùn mamùll meu, cùme numubu-
+lu chi lahuen rayùen meu cay opubuy veychi ma-
+pu) ta Dios meu ta gùyuntugeuyeygu ta ñi huerilcan
+egu ñivla; ta Dios ñi piel ta gne canouyeygu pu ve.
+Veychi huerilcan ñivla, vill inchiñ ta iñ che gen A-
+dam ta Eua cay tañi yall gen cùdaulcagequeiñ, cu-
+ñù valcagequeiñ lavalqueyñ cay. Vallechi cay ca ta
+ñi ùllcun ta Dios ta huerilcan meu.
+16 ¶ Cagechi cay ta cuyvi vill maputupu che
+vùta magin meu ta villuyeygn, meli mari antù
+pun egu maùy, ta huenu pichi tùglauyey rume, co
+meu cay ta vill pu cheta ùrbiuyeygn, llùmuyeygn
+cay, ta ñi huerilcan egn ñiivla aldù goyde miaubuy-
+gn, aldù domoculme gebuy ta pu huent[r]u, huelu mge-
+chi cay aldù huent[r]u culme gebuy ta pu domo, vey
+ñivla aldù ùllcuùyey ta Dios, vill ta abi ta che; pu-
+rachedque montuy, veychi pura che meu ta vill ta
+lleùqueiñ ta inchiñ. Vallechi cay ta Dios ta ñi ùllcùu
+ta huerilcan meu ta cagelù.
+17 ¶ Yùgechicay ta cahuerilcan ñivla ùllcuuyey
+ta Dios pepi ùjtuvalnolu vachi huerilcan, ta ñi aldù
+yehuen-
+
+PAG 13
+
+DE LA GRAVEDAD DEL PECADO.
+yehuengeyùm ta hueye huerilcan pigelu, miauque-
+buy ta pu huent[r]u pu huent[r]u meu, domo gebule mge-
+lu; veymo cay ta pu domo miauquebuy ta pu domo
+meu huent[r]u gebule mgeln, huelugechi pu huent[r]u pu
+domo egu ùcalubuygu, quimulabuygu: quechu vùta
+carata abita Sodoma, Gomorra cay pigebulu ta
+mù vùta cara; vey chi huerilcan meu (veycù vu
+tallebuy ve) ta pepilvoe Dios ta ñi noun meu, hue-
+nu meu ta naùy ta cùtal vachi cùtal meu aylenge-
+tuj ta vill pu che, vill pu domo egu pu huent[r]u, vill
+pu pñeñ cay, ta cùtal ñi hueyhuin meu lùbuyeygn,
+tubquen getuygn cay. Quiñe rume ta montulay, va
+llechi cay ta ñi ùllcun ta Dios ta huerilcan ñivla.
+Ablaabun inche, ta vill tañi ùllcun ta Dios ta cuy-
+vi pu che ñi huerilcan ñivla, cùpa nùtamtubuelmn.
+Vintempe, vata chay ta munape.
+18 ¶ Pu peñi ema, pu lamuen ema cochintumn
+ca cha, chunten ùllcupebi ta Dios ta huerilcavoe ge-
+chi pu che, chunten cay ta huerilcavoe gechi pu che
+ta noulcaquebita Dios ta ñi huerilcan meu. Vey ñibla
+huerilcan meu ñultumn ca cha. Cuyvi tamn hueril-
+can meu cay gùmamn ca: huerilcaprauyeyñ pimn
+ca; huerilcatun meu quintumontumn ca; vamgechi
+Dios tañi ùllcun meu vachi yunen mogen meu,ca
+mogen meu cay ta montuaymn. Dios ñi mapu cay
+abnoalu chi ùrcùtun cay mgenquenmayalu chite-
+pen cay ta comutun ta Dios cay ta vituaymn.
+Amen.
+SER-
+
+PAG 14
+
+SERMON TERCERO.
+DEL REMEDIO QVE
+DIOS TRAZO PARA EL
+pecado que fue la Encarnacion
+del Hijo deDios.
+HVerilcan ta ñi cùylu gen, vey egu cay
+ta iñ allvùlgen, ta ñi ùllcuquen cay ta
+Dios ta huerilcan meu, ca Sermon meu
+tа рiеуmn са сùраuуеп. Ado may ta
+chumgechi inchiñ ta iñ che gen ta montùayñ tahue-
+rilcan meu, pieymn ta cùpan. 
+2 ¶ Нuеmа quim mn ca cha, (рu реñі еmа) ta
+huerilcan ñivla ta pu che meu ta aldù ùllcule rume
+ta Dios; huelu ta ñi aldù ahuùche gen meu ta Dios,
+vurenyebi cayta puche ta venten allvùlgequelu ta
+huerilcan meu, ta mgenq', pt[r]valgelu cay ta minu
+tue mo Dios cay ta vachi cut[r]antulgen meu ta hue-
+rilcan cay ta ñi cùun gen meu ta pu che cùpa mon-
+tulbi.
+3 ¶ Vill mapu meu aldùy ta pu che ta huerilcan
+meu ta opulelu, ta vill ta iñ che gen ta Adam ta
+Eua meu cay ta lleùqueiñ, vachi epu che ñi hueril-
+can cùtu, vill ta ñi yall egu ta huerilcavalquein,ta
+huerilcayam ta gùllunaùlleyñ, ta iñ huem llalliñ
+gen meu ta huerilcaqueyn, ·lavalquein cay, Dios
+meu ta yunen huerilcan meu ta lape, tapigeuyeiñ.
+Veychi vill dùgu meu ta Dios ta toquiluvalnolu ta
+ñi cùmegen meu; entuam ta vill pu che ñi hueril-
+can, aldù cùme tuy ta gùnen, aldù lemquelu, tepeu-
+cùvalu
+
+PAG 15
+
+DEL REMEDIO DEL PECADO.
+cùvalu cay ve. Vachigunen may ta iñ apo Iesu Chri
+sto llechi, vachi apo meu vill ta iñ Christiano pu
+che gen ta mùpiltuqueiñ, ta vfchiqueiñ, ta geñma-
+yequeyñ, vill cùme gelu chi dùgu yetaùqueyñ
+4 ¶ Vachi Señor Iesu Christo meùdque ta hue-
+rilcan meu ta montuy ta iñ pllù cùme dùgu may
+tayñ pllù ñi cut[r]an meu (huerilcan lle ve) ñi ampin-
+mageam, ta Señor Iesu Christo cùpalmauyeyñmeu.
+Vey cay ta San Juan Bautista meu ta pigeuyey. Ma
+vechi ta Dios tañi maltahueque vill mapu meu ta
+entuhuerilcanquevoe. Va cay ñi ùllcun ta Dios ta
+anùlquevoe. Va cay ta Dios meu ta ñi ayùgeam ta
+che, che meu cay tañi ayùgeam cay ta Dios ta -vin-
+maquevoe llechi. Ta minche huenu mapu ta ca ùj, ta
+gelay, vey ta ñi ùjdque ta iñ pepi monteulateu. Ta
+huenu mapumeu cùpa pralijn, mgenque ta iñ te-
+peam; ta quimin ta Señor Iesu Christo, veyta ayùn
+cay, ta vfchin, ta genecan aldù culmeyevali.
+5 ¶ Veula may (ñi ayùvalel pu peñi ema) ta
+yney cam Señor Iesu Christo ta piùàyn, va ta deu
+ta villili; chumgechi ta mn huerilcan ta Señor Iesu
+Christo meu ta entugeaymn gnelùàyñ. Llituchi, hue
+ma va ta quimmn ca cha, ta mupin gechi Dios,
+ra mogechi Dios cay ta ñi votùm lle ta Iesu Chris-
+to; vey cay ta mgenque gebulu,gealucay, ta Dios
+chao egu, ta Espiritu Santo egu cay ta quiñe qui-
+dudque Dios llechi; quiñedq' gen quiñedque tepen-
+cay ta lle ve. Taiñ Christiano puche gen ta iñ mu
+piltun, ta vamgey vachi dugu, ta py:ta pepi hue-
+rinolu ta ñi dùga ta Dios, Vey py cay cha. 
+6 Señor Iesu Christo cay eymn mgelu mu
+pin
+
+PAG 16
+
+SERMON TERCERO.
+pin che llechi, ta inche mgelu cay. Va ta Dios ñi vo-
+tùm geyùm, cùme duam meu ta dullùuyey ta ñi
+chegepatun, ta huerilcan meu ta montulam ta pu
+che. Ta vill pepilvoegeyùm, һuеnu meu ta naùpa-
+yey, Apo Señora Santa Maria mgen vrigen ta ñi
+pue meu cay ta veymo chegelgeùyey, ta ñi chegel-
+gen, Espiritu Santo ñi dugunmeu tuy cava, veycù
+digatun dùgu. Huema yunepauyey ta Angel San
+Gabriel ta huenu meu, quidu Dios ta ñi huerquen
+em ve, Dios votùm ta ñi cùpa ehegepatun nù-
+tamtupauyey ta Santa Maria meu, hue mallùen
+pehuent[r]unobulu ymelclebulu, udaunobulu ñi anca
+em ve. Vachi vanten lib gechi mallùen ta ñi nù-
+tamtupabueteu ta San Gabriel allcùn meu Mave-
+chi ta inche, Apo Dios ñi reùche gen inche, inche ñi
+рuе meu va ta ñi рivalgen, ta vemgepe tа рiuуеу.
+Veychi mutау meu Santa Maria ñi pu pue mo gebu-
+lu chi mollvùn, digatungechi pichi pñeñ huent[r]u ñi
+anca getuy, vachi piohi pñeñ pu аnca meu; сùme
+pllù ta eli ta Dios. Veymo ta Dios votùm vachihue
+pllù anca egu meu ta tavùy, vamgeuyey ta ñi che-
+gepatunta Dios, vachi Dios votùm chegepatulu,
+vey tvalley ta Iesu Christo. 
+7 ¶ Ayla cùllen ñі ñuque, ta ñi pue meu geu-
+yeu-capu pñeñ mgelu! Veymo Betlem pigechi mapu
+meu coñigeuyey, ta digatungechi, ta ñi ñuque
+may tañi coñibiùm, deu ta ñi coñibiùm cay, vdau-
+lay ta ñi anca, ymelclebuy, chumgechi ge-
+buy ta ñi anca ñi coñinon ula ta vachi Señora
+Santa Maria ta hue mallùen pehuent[r]unobulu,
+vamgechi cay ta gebuy, peru ta coñibuy deu ta ñi
+coñiyum cay, mgenque ymelelebulu ve. Vill lemvoe
+chi
+
+PAG 17
+
+DEL REMEDIO DEL PECADO.
+chi Dios ta ñi vemel emca va. Ta ñi pichi pñeñ
+geyùm ta Señor Iesu Christo hue ta ñi coñiel em ta
+huequе рu саmаñ meu,tapu аро Rey meu сау, ta
+pu Angel meu cay ta uvchingechi ta raquigeu-
+yey. Temyecùumeuyey ta Señor Iesu Christo, deu ta
+ñi tem che geyùm, ta ape cùla mari tipantunmabuy
+ta ñi lli mogen cùtu, Dios ta ñi dùgu genelcauyebi
+tapu che meu; ta huenu rùpù meu ta giuluyebi ta pu
+ve.
+8 ¶ Aldù tepeucùvalbulu ta ñi aldus digatu-
+queel chi dugu,ta cućantabulu chipus che mogerul-
+quebuy ta Señor Iesu Christo, cùnto gechi pu che rùl-
+tubi ta ñi amon; tùco gechi pu che ta nortubi ta ñi
+cuù; querogechì pu che dùgulelbi, pilu gechi pu che
+pelolcabi, deu ta ·lauyebulu chi pu che mo elutubi ta
+ñi lihue cay, ta huente tue mapu meu ta amoquebulu
+mgelu; vamgechi cay ta huente labquen meuta a-
+mobulu. Vill magequeelchi dùgu cay, ta cùpayalu-
+chi dùgu cay, ta acunobulu ula; ta ñi acùn ta aldùn
+mabuy, gnedùguquebuy. Ca vùtaquechi dùgu al-
+dù tùpeucùvalu digatungechi ta quidu, ñi dùgumod
+que vemquebuy ta iñ Señor Iesu Christo.
+9 ¶ Aldù cùmegebuy cay ta ñi vemquebuel ta vill
+caq, dùgu vill ta ñi mogen meu; pichihuerilcauye-
+lay rùme; aldù ayùvalbuy caque puche meu ta ñi dù
+gucanmo, ta vill pu che cùmelcaquebubi, cuñùval-
+gechi pu che, llallingechi puche cay,ta chaùtunma-
+queuyebi ta yavùtuqueuyebi cay. Llecùpamn inche.
+mo ta vùrenyeaeymn perdonayaeymn ta huerilca-
+quevoe gechi puche meu ta piquebuy. Vey egn cay ta
+deuma ta vñotubulu ta Dios meu, ta ùcal huerilca-
+quebuygn, ta votùm mgelu ta ayùquebubi, ñi pu
+que
+
+PAG 18
+
+SERMON TERCERO.
+Quе meu сùра соnùmbuy tupuve, mgenque сауtа
+Dios chao meu ta huerilcaquevoe gechi puche dùgun
+maquebuy, vey egn ñivla cay ta aldù gmaquebuy.
+Veychi dùgu meu cay ta aldù huerilcavoegechi pu-
+che, cunùvalgechi pu che cay, ta ynaytuquebubign
+ta Señor Iesu Christo, vey chi cay aldù ayùngechi
+ta yetaùquebuy ta puche. 
+10 ¶ Vechi mapu meu ta ñi mlequebuyùm ta S.
+Iesu Christo caqueche aldù hueragebuy, aldù ñocau-
+bulu aldù ùtirquevoe, coill atuquevoe puve, aldù
+cùnigechi hueluqnobubi ta Señor Iesu Christo, tage-
+non duam gechi dùgu ta veychi huera que pu che
+(Phariseos pigebulu puve) cùñaquebuygn datuque-
+buygn ta Señor Iesu Christo aldù cùpa lagùmque-
+buygnve. Señor Iesu Christo may (vill vachi dù-
+gu gebulu rùme) ùllcupelabi ta vachi huera puche,
+nougelabuy, vill tva chu pinon meu ta vancha
+duam meu ta yebùbi, inchiñ ta iñbla, venten ta iñ
+ayùeteu meu: va ta ñi ñomclen, ñi chupiquenon rù-
+me, ñi huimgechi duam ta iñ inaytuam ta gebui.
+Vamgechi ta mogeuyey ta cùla mari cùla huente ti-
+pantu. Abquechi may quidu ñi duam meu ñi lagùm
+gen ta dullùugey montulam ta pu che tañi hueril-
+can meu egn. Veyñivla cay ta quiñe ta ñi quimel-
+queuyebuel chi che meu (Iudas pigebulu) eùemge-
+uyey. Aldù mù romten che mù teg lagùmten che ge-
+buy vachi coilla Apostol Iudas, vachi cay ta S. Iesu
+Christo ta ñi cay ñequebueteu chi pu che ta ñi cuù
+meu ta vey ta ulli.  Veymo cay aldù ùmtugechi ta ñi
+pu ùmtu meu ta cut[ra]antulgeuyey, vanengechi cay
+ta yehuelcageuyey inchiñ ta iñvla vùncùngechi
+cay ta t[r]upucageuyey, aldù yùg gebulu chi cavùñ
+meu
+
+PAG 19
+
+meu tañi lonco meu huayuntugeuyey,tavquentugeu-
+yey, huatavtcugeuyey cay ta monolu chi pu che meu:
+coillaque dùgu chadmaprageuyey. Inangechi cay
+ta aldù vanebulu chi mamull cruz ta ñi yupi meu
+tа mеñсugеuуеу, veymо саy, ta epu chuquique-
+voe gechi pu che ñi ragin mo elgemeuyey. Caluario
+pigechi Mahuida meu, cruz meu clauo tculelgeuyey
+veymo cay aldù yavùgechi cùť[r]antulgeuyey ta ñi
+pucayne meu aldù cay ta yehuelcageuyey. Veychi
+cruz meu cay ta Dios ta ñi chao meu(ta mgenque
+gebulu gealu cay ve) ta ñi allvulquebueteu chi pu
+che ñellipungechi dùgunmabi. Vill ta ñi vtuntuel
+chi mollvùn tañi anca meu vill inchin ta iñ hue-
+rilcavoe gen ñivla elutubi ta ñi chao meu. ·Lauyey
+veymo deu ta ñi ·lan meu,rùgalgeuyey ta ñi anca
+veymo cùlan antù meu ta mogetuy, contuyùm tañi
+anca meu ta ñi pllù, aldù alegebuy ta ñi anca, alel-
+buy cay, antù ñi alen gen meu ñochi ale gebuy ñochi
+alelbuy cay.
+11 ¶ ñilanon ula ta Señor Iesu Christo aldù
+chi cay dùgucaqueyùm ta ñi quimelbuel chipu Apo
+stol meu, ta·layan ta inche cruz meu, cùlan antù
+meu cay mogetuan, tapiuyebuy. Va quidu cay ta al-
+dù cuyvi ñi chegepatunon ula ta Dios votùm, ta
+pu Profeta Dios ta ñi aleluyeel em, ta ·layay cruz
+meu, veymo cùlan antù meu ta mogetuay ta Se-
+ñor Iesu Christo, veytva Dios ñi votùm ta amole
+tipantu chegepatualu ta piuyebuygn vill tva ta
+ñi piel egn ta opulgeuyey ta ymelclechi.
+12 ¶ Veymo cay ta deu ta ñi mogetun meu,
+melimari antù meu aldu mita ta ñi pu Apostol
+meu vill ta ñi quimelquebuel chi puche meu cayta
+ñi
+
+PAG 20
+SERMON TERCERO, JE
+ñilanon ula ta ñi ynayquebuetcu chiche meu ta pe-
+geluy, ta ñi mogetun ta ñi mupiltuam egn. Vill ca-
+que dùgu ta quimvalbulu ta prayam ta huenu ma-
+pu meu, ta tuteam ta huenu rùpù ta quimelbuy ta
+pu egn meu ve. Va cay ta Señor Iesu Christo ta
+ñi рu Apostol mеu tа ñi piùyen. Vill mapu meu
+umn cacha, ta vill maputupuche ta quimelbimn,
+ta vill tamn quimelbin chi dùgu; yneyquechi chey
+va tamn pibin chi dùgu ta mùpiltualu, tañi hue-
+rilcan meu ta huerilcaprauyen ta huerilcahuela-
+yam ta pialu cay, veymo cay ta inche ñi toquilelchi
+dùgu ta gnecayalù baptizalgealu, ùj elgealu cay, ta
+ñi huerilcan meu ta montuay, huenu meu cay moll
+ta ñi tepeam ta prayalu ta vill tva ta piuyey ta
+in Apo Iesu Christo. Caque dùgu cay ta iñ
+duamyeel, ta mn quimelqueeteu ta veula ta pu
+patiru ta pu Apostol meu ta quimelgeel puve, ta
+Señor Iesu Christo quidu ñi uùn meu ta piel ta
+piam.
+13 ¶ Deu ta ymelclechi ta quimelbi ta ñi ayùel
+chi pu che ta prayecuùmey ta quidu Señor Iesu
+Christo huenu meu vil ta ñi pu che leliquintuye-
+сùbuеyеu, ñi mù аldù huenu geyùm gubtuy, ре-
+geuyelay vachi naù meu gechi pu che meu. Hue-
+lu huenu mo ñi acùtun ta ñi chao meu, vey ta ñi
+man meu ta anùlgeuyey, nùtamtuvalnolu may,
+chunten gebuy ta ñi raquigen ta ñi vbchigen cay,
+ta ñi cùme ùlmeyegen cay ta vill pu Angel meu,
+pivalnolu cay ta ñi tepelgen ta Señor Iesu Chrif-
+to anca egu ñi pllù ta huenu meu. Vey meu cù
+tu naùpa quintumaqueeiñ meu ta Señor Iesu Chris
+to, ta ñi chao cay ta dùgunmaqueeiñ meu, vill
+ta
+
+PAG 21
+DEL REMEDIO DEL PECADO.
+ta comùtuquebi ta pu che,ta cùme mogequelu, ta
+hueraquechi miauquelu cay, Ab antù meu cay ta
+naùpatuay, ta ramtupayam ta vill pu che, ta
+vey ta ñi piel genecaquelu, ta abnongechi tepen
+meu ta culligeay: huelu hueraqueche ta ñi piel ta
+Dios ta mùpituquenolu, mgenque cut[r]antulgeay mi-
+nu tue meu.
+14 ¶ Vallechi pu votùm ema ta opulbin ta
+inche, ta piaeymn ta mn pibin; Dios ta ñi tuelchi
+gnen ta montuam ta che ta huerilcan meu ta ge-
+neluyeeymn; Iesu Christo modque gey vachi
+gnen. Iney cam Iesu Christo, ta ñi mupin Dios
+gen, ta ñi mùpin che gen, ta ñi montulchevoe gen,
+ta ñi gen vill mapugen, ta ñi gen vill pu che
+gen ta quimeluyeeymn. Vallechi ta piuyeeymn
+cay ta Señor Iesu Christo ta iñchiñ ta iñvla ta
+mi vemuyeel; ta ñi cùt[r]antugeuyeel cay ta iñ
+huerilcan meu ta iñ montulabueteu. Quiñe-
+huedquey ta dùgu ta mn piabin, ta chumgechi
+vachi ta mn pibin chi Iesu Christo ñi dùgu meu
+ta cumelcauàymn? Chumgechi cay ta ven-
+ten tepengechi Iefsu Christo dùgu meu ta tepetuay-
+mn; Opulnobilmn may ta mn pieteu ta Señor
+Iesu Christo, vill tva chi Iesu Christo dùgu (al-
+dù repengelu rume) ta mn mù cùt[r]antulgeam ta
+eymn ta minu tue meu geay, ta pieymn. Iesu
+Christo ta ñi ·lan, tañi mollvún, cruz meu,ta ñi cù-
+t[r]antulgeuyen cay, quidu ta mn huera gen meu ta
+cùmelcalaaeymn meu, ta mn huerilcaqueyùm
+vey ta ñi ·lan, ta ñi aldù molu chi mollvùn cay
+ta yllamquebimn, cùpa ampinmagelaymn ven-
+ten cume ampin dùgu meu. Veychi Dios ta ñi
+che-
+
+PAG 22
+SERMON TERCERO.
+chegepatun ta ñi ·lan ta ñi cut[r]antulgen cruz meu.
+Vill tva aldù cùmebuy ta mn pllù ta ñi ampin-
+mageam. Huelu eymn gnecanobium ta ñi piel ta
+Iesu Christo ta iñ apo, gucùmbimn vill vachi
+dùgu ta entuhuerilcanam. Aldù mobulu pu
+ve,
+15 ¶ A Dios ema vachi puche ñi duam
+meu, quidu elge va ta mi dùgu, ta ñi cùpa
+alcùduamam egn eymi ta mi dùgu. Quelluclo-
+en ta inche cay tañi cùme gneldùguam vill va-
+chi cùme dùgu ta ñi allcùpaqueeteu chi pu che
+meu. Vey cay ta eymn (рu реñі еmа) tа mn рu
+duam meu ñellipuabimn ta Dios. Vachi epu dù-
+gu, modque gey ta mn montun ta vill ella que
+dùgu meu, ta vitun cay ta vill cùme que dù-
+gu ta mn cùme allcùpan va ta quiñe dù-
+gu, ta ñi cùme gneldùgun cay ta Dios ta ñi dù-
+gu, va ta ynan gelu. Ca Domingo meu aldù
+cùme duam meu allcùpatuaymn vachi dùgu,
+veula cay va ta mn pibin quidu duamtumn,
+rumtumn cay, ta Iesu Christo dùgu, veycù tepen
+gelu, veycù cùmentubimn vachi dùgu. Vey
+ñivla quintubimn ta Señor Christo ñi imagenlu-
+cutun gechi, vbchibimn, raquibimn,veg egu dù-
+gumnca; chumgechi comùtuqueimn ta imagen
+meù, vamgechi ta Señor Iesu Christo cruz meu cla-
+uo tculgeuyey, pùlteguyey cay ta cùla clauos meu.
+Ta mn rùcu cuù meu t[r]ùpubimn cay, aldù ab-
+quiduam meu gman meu cay, va ta pibimn-
+ca. Ta iñ Apo Iesù Christo eimi ta mogechi Dios
+ñi votùm, eymi inche ñivla chegepatuimi, cruz
+meu cay ta ·lauyeymi ta mi mollvùn meu perdo-
+naen
+
+PAG 23
+DEL REMEDIO DEL PECADO.
+naen ta ñi huerilcan, cùme Christiano getullechi,
+ta mi cùme votùm gellechi, ta mi dùgu cùme all-
+cùbichi cùme gneytubichi gnecabichi cay ta vill
+tva ñellipueymi va ta ñi pllù quidu ta mielel ta
+mi cùpa montuel cay montulmaen eluen ta mi
+gracia cay ta ·lali ula tami siruiaeùm ta mi ayùa-
+eùm, ta mi gnecaaeùm, Deu ta ·lali cay, ta
+mgenquenmayalu chi tepen, ta ùrcùtun, ta tùg gen
+cay tañi vituam. Amen.
+
+SERMON QVARTO
+DE LA NECESSIDAD DE
+LA FE DE IESV CHRISTO
+para saluarnos. 
+ENtuam ta huerilcan, ta prayamcay ta
+Dios ñi mapu meu ta Señor Iesu Chris-
+ta ta iñ Apo ta iñ montul pllùvoe ta
+ñi dùgu meu; ta chumaymn (рu реñі
+pu lamuen ema) chay ta pieymn ta cùpan. Hue-
+ma ta iñ Apo Iesu Christo geneldùguam ta vill
+maputupuche ta ñi huercùuyebiùm ta ñi pu Apo-
+stol, va ta pieuyey egn ve: Quimelbilmn ta pu
+che, abquiduamaymn ta mn huerilcan meu (Hue-
+rilcaprauyeyñ tа ріn mеu) ta piaymn. Нuеril-
+can cay ta ñi entugequen cay ta genelabimn ta
+pu che piuyeyta iñ Apo Iesu Christo ta ñi pu Apo-
+stol meu.
+4 ¶ Vey
+
+PAG 24
+SERMON QVARTO, 
+2 ¶ Veymo cay taiñ Apo Iesu Christo ta ñi pu
+Apostol meu, ta meli dùgu ta montuam ta che
+ta huerilcan meu, prayam cay ta huenu meu,
+ta quimelbi cay. Yune dugu may, ta Iesu Chris
+to meu ta mupiltun, Epu dùgu ta aldù abqui-
+duamin ta huerilcan meu, ta huerilcaprauyen ta-
+pin, hùerilcahuelayan ta chay cùtu, ta pin cay.
+Cùla dùgu tva, ta pu Sacramento ta taùn, vey-
+chi pu Sacramento vùta dùgu llechi, Iesu Chris-
+to ñi genelel ta entuam ta huerilcan. Meli
+dùgu ta genecan ta ñi piel ta Dios. Vachi me-
+li dùgu duamtuayñ (рu реñі ema) piuque meù 
+ta ñieayñ, vachi meli dùgu meu eymn meu
+dùgucayayñ vachi pu sermon meu. A Dios
+ema vùlge ta ñi queuùn ta cùme gnedùguam,
+vachi pu che ta ñi pilun cay vùlmaen cay, ta ñi
+cùme allcùam egn vill ta mi dùgu, va cay ta eymn
+Dios ta ñellipubimn ca.
+3 ¶ Huema ta mupiltun ta iñ Apo Iesu Chris-
+to meu aldù duamyebimn, qùiñe che rume ta pu
+Christiano pu che meu ta mupiltuvalgelu chi dù-
+gu ta mupiltunole, entunmagelayay ta ñi hueril-
+can, ta Dios ñi votùm getulayay. Veychi dù-
+gu meu cay ta vill ùigenolu chi puche guvuygn,
+pt[r]ùgeygn cay nùnu tue meu; ta vill pu che cay
+ta Pillan uvchingechi ùjtuquelu alhue ñi mapu
+meu guvùày ta abnonquechi t[r]ùpùgeay cay. Pi
+llan vfchivalnolu, Dios mten vfcchivali, ta vill
+vemvoegeyùm, va ta iñ mù chao,ta iñ che gen
+ta iñ elueteu ve, ta gen vill dùgullechi, ta iñ
+Apo Iesu Christo vfchivali cay, ta vey tva Dios
+chao egu, Dios Espiritu Santo egu cay quiñedque
+Dios
+
+PAG 25
+DE LA NECESSIDAD DE LA FE
+Dios llechi, ta cùla persona geyùm egn, quiñedquey
+ta ñi Dios gen egn pu ve. Mañgumbimn ta
+Dios ta mn eluereu meu ta pu Patiru, ta Iesu
+Christo meu ta mùpiltun ta mn genelcaqueeteu
+pu ve.
+4 ¶ Vachi vùtagechi Dios ñi dùgu mù all-
+cùnolmn rùme, yavùduamquechi mupiltuay-
+mn, ta Dios ta ñi dùgu (ta pepi huerinolu ve)
+va ta ñi gnelel, va ta cuyvi pu Christiano che
+ta mùpiltuuyeygn ta mgenque veula cay ta ñi
+mùpiltuqueel ta vill egn. Quidu ñi uùn meu
+cay va ta cay ta Dios geneluyey, va cay ta
+vill pu santo che, ta pu Profeta, pu Apostol cay
+ta ñi quimeluyeel.
+5 ¶ Aldù huaranca pu che vachi Dios ñi
+dùgu ta mùpiltuquebulu, vey tva ta ñi mù-
+piltuuyeel meu ta yavù duamquechi ta ñi cùpa
+ùcalmùpiltunouyeel meu ta lagùmgeuyeygn. Pu
+Martyr pigelu egn ve, ta ñi mogen ta ñi lihue
+ta yune cupa gucùmuyeygn ta Dios meu mùpil-
+tun ca ñi cùpa gucùmnon meu egn ve.
+6 ¶ Va ta inche cay ta gnelquelu, ta Dios ta
+ñi gracia meu ta ahuelullen, ta cùtal meu ta
+yune pt[r]tùduamgenmeu ta ñi ùcalmùpiltunon meu
+va chi dùgu, vill pu Patiru cay, vill pu Christia-
+no che cay vamgechi ahuelulleygn, vey tva ta
+ñi vemam egn, Dios mo ta ñi quelluclogenmeu
+ta egn.
+7 ¶ Vachi mùpiltun meu ta pu santo aldù
+tepeucùvalquechi digatuuyeygn, ta llumùdgechi
+pu che ta pelolcauyebign ta cut[r]anbulu chi pu
+che cùmelcauyebign, ·laluchipuche ta mogel-
+tuuye-
+
+PAG 26
+SERMON QVARTO,
+tuuyebign. Ta genevoe mgèlu, ta labquen ta
+antù, ta vill dùgu cay ta genebuygn. Vill
+dùgu may ta Dios ta ñi dùgu ta vfchiquey-
+gn.
+8 ¶ Vachi Dios ta ñi dùgu meu cay, vey
+ta ñi mùpiltun meu cay vill mapu ta uñotuy
+ta Dies meu, cagetuy ñi duam egen, ta aldù pu
+Rey ta pu Apo; ta pu quimvoe gechiche ta pu
+pepilvoegechi che cay, ta vill vachi che Dios
+ta ñi dùgu, ta Iesu Christo meu ta ñi mùpiltun
+cay ta nogenquechi ta vfchiuyeygn. 
+9 ¶ Vachi Dios ta ñi dùgu, ta Iesu Christo
+meu ta mùpiltun cay, ta taùnoluchiche al-
+dù huera peuma gelu, alhue ta ñi mapu meu
+mgenque ta cut[r]antulgepe pigealu pu ve. No-
+chi cut[r]antulgealu cay ta caqueche ta vachi
+mùpiltun deu ta ñi taùuyebium egn, deu ta
+Christiano getulu pu ve; Cuyvi ta ñi puru-
+ma che meu ta ñi pipragebuel chi colla dùgu meu
+ta uñotùuyeygn, ta pu vùcha, ta pu calcu ge-
+chi che cay, ta pu diablo ñi ynatuquevoe ñique-
+llucloquevoe pu ve; Dios ta ñi dugu meu ta
+vey ta ñi mùpiltun meu cay vamtipalduam-
+queymn meu, ta Pillan, ta Huecuvoe cay ta vf-
+chibimn, Dios may ta vfchiquilmn ta pieymn
+meu cay ta pu egn ve. Veymo cay ta mn
+cut[r]an meu ta mn duamyeel chi dùgu meu cay
+ta Pillan ta, Huecuvoe cay ta vfchingechi ùi
+tuabimn ta mtùmabimn cay ta pigequeymn pu
+egn meu ve. 
+10 ¶ Vill tva tañi pipraelegn aldù coylla dù-
+gu llechi, huera dùgu ùcha dùgu llechi. Teye
+pu
+
+PAG 27
+DE LA NECESSIDAD DE LA FE.
+pu vùcha pu calcu ga yem veycù, cuñùvalgelu,
+veycù ñua quenpen cay gelu pu ve, ta mn
+geñecaqueeteu, ta eymn meu ta mten ta ñi
+eluyavutungenmeudque, ta minu tue meu ta
+yeeimn meu, vey meu cay, vill quiduegn
+cay pu diablo meu ta abnonquechi ta cùtal meu
+ta lùvaygn, aylen getuaygn pu ve. 
+11 ¶ Vey ñivla vachi pu calcu meu, pu
+vùcha meu quintumontumn ca, mten ta mù-
+pingechi Dios ta vfchibimnca, vey tva eli ta
+huenu maps, ta tue mapu cay quidu ñi ayùn-
+modque, vill vachi naù meu cùmegechi dù-
+gu udalelbi ta vill puche meu huelu hue-
+nu mapu meu ta cùme gechi dùgu ta ab-
+noalu, ta Dios ta ñi vfchiqueeteu ta ñi ge-
+necaqueeteu chi pu che meu ta eluquebi udal-
+elbi cay. Huera que pu che may ta ùigenolu,
+ta ùigelu cay ta diablo ñi piel ta mùpituque-
+lu ta mgenque gealu chi cùtal meu ta cut[r]an-
+tulbi.
+12 ¶ Vey meu vill ta mn cut[r]an meu, ta
+mn duamyeelchi dùgu meu cay, (pu votùm
+ema) ta in Apo Iesu Christo unm ca, llecù-
+memn ca, mtùmbimnca, quellucloen pibimnca,
+ta mn chao lleve, vey ta mn Dios llechi, vey
+ta elqnoquibilmn aldù geñmayengechi ta chem
+rùme ñellipubimn, vey tva ta eymn ta mnvla
+ta quiñe cruz meu ta ·lauyelu, vil ta ñi moll-
+vùn cay ta utulcauyelu, ta mn huerilcan meu,
+ta mn montuabueteu; chem rùme ta mn duam-
+yeel ta eluen, ta pibilmn; ta recùlayaeimn meu,
+ta chumgechi ta Dios meu ta yavuduamgechi
+ta
+
+PAG 28
+SERMON QVARTO.
+ta mùpiltumn ta pigeymn, ta vamgechi mupiltu-
+bilmn vey ta ñi quelluclon, tañi chaùtunman cay
+ta vill ta mn cut[r]an meu ta mn cùuellelchi
+dùgu meu cay ta peabimn ta comutuabimn
+cayt
+13 ¶ Mù duam meu cay ta mn pllù ta ñi
+duamyeel chi dùgu meu ùaymn ta in Apo Iesu
+Christo meu. Ta mn entunmageam cay ta mn
+huerilcan. Señor Iesu Christodque montulcaaey-
+mn mo: ta montuam ta huerilcan mo ca gelay
+ta mn montulcaaeteu. Vey tva quidu ñi molle
+vùn mo (veycù molu raquivalucay ve) vill
+mapu meu gechi huerilcan (labquen cuyùm mge-
+le rume vill pu mahuida meu nochi vùta ge-
+le rume puve) pepi entuquebi ta vill huerilca-
+quevoe chi che meu, cùpa perdonaquebi cay ta
+Señor Iesu Christo; vey egn ñivla vachi naù meu
+ta naùpauyey. Veula cayta Eeymn meu, va
+ta pieуmп meu сау.
+14 ¶ Pu votum ema ta inche ta eymn ta
+mnvla cruz meu ta lauyen, ta mn cùmelca-
+geam aldù cut[r]antnlgeuyen, ta inche mo cùpa-
+mn ca, ta mn huerilcan meu ta meñculgelmn
+rume, aldù vanetulmagelmn rume, inche entu-
+mencuñaeymn entuvanetuaeymn ùrсutulyaeimn
+cay. Vallechi ta ñi mollvùn vey ta Dios meu ta
+elutubimn ta sacrificio meu, ta aldù huera ge-
+uyelmn rume, Dios ta aldù cayñeuyebilmn ru-
+me, vill ta mn huerilcan vachi mollvùn meu
+ta perdonanmageaymn, inche mo ta uñotumnca,
+ca inche taùyaeimn. Comùtumnca va ta ñi
+pelogeùuùneymn ta mn vlata rùgùlugeuyen. Quin-
+tumnca
+
+PAG 29
+DE LA NECESSIDAD DE LA FE.
+tumnca va ta ñi mollvùn vanten ayùngechi ta
+ñi utulel ta mn pu pllù ta ñi ampingeam. Va-
+chi mollvùn meu ta mn huerilcan meu lepugeay
+ta mn duam, vey meu eymn ta montuaymn.
+Pu votùm ema aldu apùmbin ta cullin ta eymn
+meu, aldùyta ñi vemuyel cay ta eymn ta mn
+vlay, venten geyùm ta mn ayubin, ta eymn gatu
+elumochi ta mn piuque, inche may ta mgenquen-
+mayalu chi mogen chi ùrcutun cay, ta eluaeymn.
+15 ¶ Vill vachi dùgu ta Señor Iesu Christo ta
+ріуесвùuyесуmn meu, аldù ауùп meu сау tamn
+perdonanmageam ta mn huerilcan ta mn mon-
+tuam cay ta Eeymn meu. Vey ñivla (pu peñi
+ema inche ta ñi aldù ayuel) ta eymn ta chem
+cam ta tavdugùbimn ta vey tva meu. Inche
+ta vill tymn meu ta tavdùgubichi ta pibichi
+cay. A Señor Iesu Christo ta iñ chao eymi, ta
+iñ Dios ta eymi, ta iñ cùmelcaquevoe lle ta ey-
+mi, ta entun ta iñ huerilcan ta gillapаeymi,
+huerilcaprauyeyñ ta pieymi, ta iñ aldù cuñu-
+valgen meu ta inchiñ vurenyemoiñ, ta mi al-
+dùnmolu chi mollvùn meu mi raquivaluchi ·lan
+meu cay montulmoyñca. Ta iñ mùpingechi
+Dios mgelu ta eymidque ta vfchieymi, ta iñ
+huenutu huenu mgelu tа еymimeudque ta
+mùpiltueymi, ta iñ gillacavoe ta iñ montulcavoe
+chi che mgelu ta eymi meudque ta geñma-
+yeeymi. Cháy cùtu Pillan ta Huecuvoe eay,
+ta vfchihuelayayñ, ta pu vùcha, pu calcu che
+cay ta ñi pipraquecuel chi dùgu (veycù coilla
+gebulu ve) ta mùpiltuhuelayaiñ ta mi dùgud-
+que allcùpayaiñ; elcayayñ cay. Quidu ta mi
+pu
+
+PAG 30
+SERMON QVINTO
+pu votùm geam la inchiñ meu ta mi ahuelel chi
+cùmegechi dùgu meu ta huenu mapu meu mgen-
+que ta iñ repeam. Amen.
+
+SERMON QVINTO
+DE COMO AY DIOS
+TRINO Y VNO.
+CA Sermon meu ta in Apo Iesu Chris-
+to. ta Dios ñi votùm gen,ta piuyeey-
+mn ta cùpauyen. 
+1 ¶ Veula may ta yney cam Dios
+ta pieymn ta cùpan, allcùtùbimn ca cha. Ta
+mn quiñe duam meu va ta piabimn ta Dios ta
+quidu ñi ne mel ta eluabimi ta Patiru meu ta
+ñellipueimi Dios ema ta iñ cùme geneldùguaeteu
+ta elumoiñ cay ta mi gracia ta in cùme geney-
+tuam, ta mi dùgu. Va ta Dios meu ta gillaabi-
+mn. Quiñe che rume, quidu Dios ta quimel-
+genole ve, ta Dios ta ñi dùgu pepi geneytulayai.
+Chay ta vill ta mn piabin, quidu Dios ta ñi ge-
+neluyeel may; Vey meu ta gñecan, ta coillan
+pepi gellelay ta vachi dùgu meu.
+2 ¶ Соmùtumn рu vоtùm еma vachi рu
+huenu mapu venten vùta, venten temo ge-
+lu. Vachi antù venten tetiñgelu; veychi ven-
+ten liùgechi cùyen, ta veychi pu huaglen ta
+venten tùyùlcaquelu, venten toquitungechi ta
+elgelu pu ve, veychi toquituvalnolu chi labquen
+ta
+
+PAG 31
+DE COMO AY Dios
+ta ñi huytalen, ta ñi caclerupan vanten vùta
+geyum, vanten pu leuvu tùvtugechi huytuque-
+lu, ta labquengechi ad meu.
+3 ¶ Comùtumn cay ta tue mapu meu, ta ñi
+pu lelvùn ta ñi vùta mahuida, vùta que huin-
+cul cay, vùta que pu lemo, vùta que mamùll-
+entu. Ta venten pu gechico, aldù pu ùñùm
+ta crùv meu, aldù pu ybum pu hueque cay ta
+rulu men ùtaquelu, aldùlu chi challua cay ta co
+meu ta hueyulyauquelu. Ta gen ta vill va-
+chi dùgu ta Dios may lle ve, ta vill vachi dù-
+gu ta gelcauyelu ta ñi dùgu modque, vey egu cay
+ta gelcapelu mgenque, ta genequelu toquilquebi-
+lu cay, ta mn Dios lle ve. Ta gepe ta hualen
+tа vùlpape ta puqueñ tа pilu, ta lib һuеnu ge-
+pe, ta tomù getupe ta huenu, ta maupe, pilin-
+pe ta piquelu, va llechi Dios. Ta mn pu hue-
+que aldulcaquebilu, ta mn pu tcun ta temelca-
+quebilu, ta mn hua, cachilla hua, ta cauàllo
+hua, ta poñu, ta degel, ta vill chi cogi cay, ta
+tue meu ta lleùquelu ta mu eluqueeteu ta mn
+yavutuam, ta cudutùam, ta tepeam cay. Vey
+tva Dios llechi. Ta mn mogelcaqueeteu, ta mn
+pu yall ta mn elueteu, ta mn cùme tepen, cù-
+meque duam ta mn eluqueeteu... Dios may
+chi.
+4 ¶ Huell mita cay ta pu che ta llcalca-
+quebilu, talcatuqueyùm ta pu tamù meu, huy-
+lufcùlcaqueyum cay ta huenu meu, ta tue meu
+cay ta nùyùlcaqueyum, ta ñi llecageam ta pu
+che meu, Dios lle ve. Huellmita cay ta villa-
+tipantucalquelu gùnùlcaquebiyum cut[r]anelquebiùm
+talal-
+
+PAG 32
+SERMON QVINTO.
+ta lalcaquebiùm ta pu che ta ñi huerilcan egn
+nivla ta ñi cagetuam cay ta egn. Dios may chi.
+Ta huenu mapu meu, ta tue mapu meu cay, ta
+labquen meu cay, ta vill ple meu cay ta gene-
+quelu, ta quiñe rume pepi catelay ta vill ta
+vey ta ñi piel ta ñi pepiun cay, vey lle ve
+Dios.
+5 ¶ Ta vill chi dùgu ta huenu meu ta tue
+meu huente minche cay ta huenu, ta huente
+minche cay ta tue meu ta gelu, quiñedquey ta
+ñi Dios egn, vey tva mù Apo llechi, gen villchi
+dùgu llechi cay. Ca gey ta Dios ta huenu ma-
+pu meu, duamtuquilmn (pu votùm ema) ta
+pipraquilmn cay. Ta Pillan ta huenu meu, ta
+Huecuvoe ta pu pùlli meu ta labquen meu pi-
+pragequebuymn ta mn pu vùcha meu, gene-
+cagequebuymn vey egn meu. Muyùm, mù-
+ca, aldù coilla dùgu tva vey pipraquilmn. Ca
+gey ta Dios ta gen hua, ca gey ta gen cachilla
+hua, cagey ta Dios ta talcatuquelu ta huenu meu
+ca gey ca maulcaquelu, ca gey ta entucut[r]an-
+quelu ta mogelcachequelu pipraquilmn, mù may
+mùrume, pivalnolu may tva, ca gelay ta pu
+huynca ñi Dios, cagelay ta re pu che ñi Dios,
+ta vill pu che, ta vill dùgucay ta quiñedquey
+ta ñi Dios pu egen ve. Ta mn pu vùcha ta
+quimnobulu chem rume ta ñi quimgeamta Dios,
+pu pñeñ duam genolu mgelu, vemgebuygn aye-
+ñeabimn ta ñi pipraquebuel egn, ta ùcha dùgu ge-
+buy vill ca ñi nùtamtubuel egn.
+6 ¶ Aldulay ta Dios, aldùlay ta pu Apo
+quiñedquey Dios, quiñedquey ta Apo, ta vill ta
+gene-
+
+PAG 33
+DE COMO AY Dios
+genecaquelu. Comùtulaymn cam ta pu che meu,
+ta aldù geyùm ta pu Apo ta quiñe cara meu
+ta aldùy ta hueychaclon ta queuotuclon, ella
+tipay ta vill chi dùgu, vill ta gubtuy. Ta
+quiñe quiñe Apo, ta cagelu cùpa genequebilu. Ta
+nolcauquelu ta noduambilu cay ta cagelu. Vam-
+gechi cay aldùbule ta Dios ta quiñe ta huenu
+meu, tue meu ta quiñe cay, alelgechi pegey
+ta tùg ta genoabun ta huenu meu, ta tue mapa
+meu cay. Ta huenu meu ta geabulu chi Dios
+hueichayabuy ta tue meu geabulu chi Dios egu:
+vey meu ta vill ta lumyabuy, ta matu
+cay ta ababuy ta vill. Quiñedquey ta Dios,
+cagehuelay, ta quidu Dios ta ñi pu che meu
+ta Israel pu che pigebulu pu ve: va ta
+piuyey, ta allcùenca (Israel) ta mi Apo Dios
+tn quiñedquey.
+7 ¶ Vachi Dios pu votùm ema ta quiñe
+eymn meu rume ta peuyelabi ta ñi ge meu,
+tа ñi calùl meu genon, vоru meu gеnon vе,
+ancagenolu, dulle espiritu llechi. Chumgechi ta mn
+anca meu gechi pllù, espiritu llechi, va cay ta
+vill anca genequelu, ta vill anca meu ta
+mley, ta lonco meu, ta pu cuù meu, ta pù
+namon meu cay: ta chùchiple anca meu ta
+ritoqnogeymi quimqueimi ta mi allvulgen, ta ñi
+mlen vey meu ta pllù. Vamgechi cay ta
+quimaymn, ta Dios cay ta espiritu llechi, ta
+vill mapu meu ta mley ta huenu meu ta tue
+mapu meu ta labquen meu cay, ta vill ple
+meu ta quidu mley. Dios may antù no, huag-
+len no labquen no, cùtal no, tue no cay, hue-
+lu vill
+
+PAG 34
+SERMON QVINTO:
+lu vill tva vemi ta Dios, vill tva cay ta gene,
+quelu toquilquelu cay ve.
+8 ¶ Vùta lle ta Dios, chumgechi va ta
+mn pequeel chi dùgu duamtuqueymn. Vam-
+gequilepe ta mn duamtuel ta Dios: ta vey ta
+ñi Dios gen, ta vill gelu chi dùgu ta noy.
+Dios ta ñi llitulgen ta gelay; ablayay cay ta
+Dios; Cuyvi gebuy ta mgenque; veula cay
+mgengue Dios llechi; ta gealu cay ta mgenque,
+ta yney meu no quepu duamyebi ta Dios, huelu
+vill ta duamyeeyeu ta Dios: yneymo rume gelcal
+gelay, huelu vill chi dùgu Dios meu ta gel-
+cageygn: quidu ta ñi gen meu ta Dios gey
+ta ñi vill cùme gen, ta ñi vill tepen, ta tu-
+yùn. Mùgenquenmavoe lleta Dios, toquitu-
+valnolu ta ñi Dios gen, vituvalnolu cay ta iñ
+duam meu, raquituvalnolu cay ve, pokvalnolu
+ta iñ duam meu, opuy ta repen meu ta Dios re
+ta ñi peun meu.
+9 ¶ Ta vill quimvoe llechi, ta cuyvi ta
+vill geuyelu chi dugu, ta deuma rupalu, ta
+quimi ta Dios, ta vill chi dùgu cay ta veu-
+la gelu vill mapu meu, quimi cay ta Dios,
+ta vill chi dùgu cay amole tipantù gealu, ta
+genolu ula, aldùmayay ta ñi acun, ta vill ta
+quimi ta Dios cay. Ta iñ magengechi duam-
+tuel cay ta quimi ta Dios; ta labquen meu gechi
+vill pichique cuyem ta nieraquibi ta Dios chem
+rume ta cùpa vembile vill ta pepi vemay re
+ta ñi dùgumodque, chem rume cay ta ñi ve-
+mel, cùpa entuvembile ta ñi dùgu modque pe-
+pi entuvemay cay ta Dios quiñe mutay meu.
+¶ Vill
+
+PAG 35
+DE COMO AY DIOS:
+10 ¶ Vill huenn mapu tue mapu egu Dios
+ta ñi ad meu ta quiñe où co mgelu, quiñe pi-
+chique hua mgelu, venten gey ta ñi vùta
+gen ta Dios. A pu peñi ema veycù vuta
+Dios geiñ, quintuprape ta mn duam huenu
+gechi ad meu, va ta duamtumn cay, gelay ta
+venten vùta dùgu Dios mgelu; pepi gelaray
+cay, pepi duamtuvalnolu cay ta ca dùgu ta
+ùaùabilu ta Dios. Dios cagetulay pepi cage-
+tulayay cay, ta toquilbium genequebium vachi
+huallmapu meu, ta vill dùgu ùrcùlay, pepi ùr-
+cùlayay cay. Aldù cùme duam gey ta Dios,
+aldù temo gey cay, ta vill pu Angel pu che cay
+ta comùtuquelu ta Dios meu ta huenu meu tva
+ta comùtubiùm ta huedalay huedalayay cay ta
+mgenque, mgenque geay ta hue ta ñi comùtuael
+egn ta Dios meu; Aldù vùrenyechevoe lle ta
+Dios, aldù ayùchevoe lle ta Dios, Vill ta ñi elel
+chi dùgu meu ta Dios ta cùmelcabi, ta ñi pituel
+cay ta eluquebi, ta vill dùgu meu. Huelu vill
+ta ñi elel chi dùgu meu, nochi ayuquebi ta che,
+vey ta ñi che gen adyebi ta Dios gen, ta chum-
+gey ta Dios ea duamgelu, vamgey cay ta che
+duamgelu cay ve.
+11 ¶ Teye che lu, teye che lu, ta quim-
+bilu ta Dios ta genecabilu ta vfchibilu cay ta
+Dios. Teyepuche gayem, teyepuche gayem сау,
+ra venten ñùa gelu venten llumùdgelu pu ve,
+ta caque dùgu ta vfchiquebilu ta raquiquebi-
+lu cay, quimnolumay ta Dios genecanolu vf-
+chiquenolu cay. Yehuelaymn cam ta eymn ta
+Pillan, ta Huecuvoe cay ta vfchiquebuymn ra-
+qui-
+
+PAG 36
+SERMON QVINTO
+quiquebuymn ta Dios mgelu, vfchivlanolu ra-
+quivalnolu pu ve. Eymn ta mn che gen meu
+ta yodbimn ta Pillan ta vill caque dùgu cay
+ta Huecuvoe ta piqueel, ta Dios mten ta ra-
+quivali, ta vfchivali ta mupingechi, eymn may
+ta ñi raquivalgen ta Dios meu ta entubimn, gman
+dùgu lle tva; A Dios ema Apo ema va ta
+iñ quimnon perdonanmamoin, veula quim
+aeimi raquiaeymi vfchiaeimi Pillan ta vfchi-
+huelayain raquihuelayaiñ, ùitulayayn rume, coi-
+lla dùgu ve.
+12 ¶ Vey meu pe peñi ema ta iñ Dios vill
+cùme gelu llechi, vill gen llechi, vill mupin
+llechi, vey ñivla huenu mapu meu, tue ma-
+рu meu саy ta Castilla meu Piru mapu meu
+cay vill ple meu cay ta quiñedquey Dios.
+Cuyvi gebulu, veula gelus chi Dios cay, ta
+mgenque gealu chi Dios cay ta quiñedquebuy
+ta quiñedquey ta quiñedqueay cay ta mùgen.
+que. Yneyquechi che ta quiñedque Dios vf-
+chinolu, ta huera ùlmeyegelu, ptegepe minu tue
+mo pigelu; va ta mùpiltulaymn cam ta eymn?
+va ta pilaymn cam ta mn uùn meu cay?
+Chuchey mgelu pinon meu, va ta vill mù-
+piltuqueymn, ta duam meu, ta uùn meu cay
+ta pymn cay. Mlepe tva, vùlpayay ta ca
+dùgu veycù vutalu ta mù raquingechi ta mn
+quimam ta Dios.
+13 ¶ Ta iñ Christiano pu che gen, ta qui-
+ñe Dios ta piqueiñ, ta quiñe Dios gen mo, cù-
+lay ta ñi persona ta quiñe Dios, quiñe Apo,
+ta quiñe, pepiun; ta quiñe gen, cùla Dios no
+may,
+
+PAG 37
+DE COMO AY DIOS.
+may, cùla Apo no, cùla pepiun no, cùla gen
+no may ve, ta i cula persona may va le-
+chi, ta chao, ta votum, to Espiritu Santo.
+Ta chao votùm no, Espiritu Santo no cay. Ta
+votùm chao no Espiritu Santo no cay. Ta
+Espiritu Santo, chao no votùm no quepu;
+veyñiblay cùla persona lle ta Dios meu; ta
+quiñe persona ca gelay: huelu vachi cùla per-
+sona chao, votùm, Espiritus Santo quiñedque Dios
+egen ve, qùiñedquey ta ñi duam egen, quiñed-
+quey ta ñi ayùn egen, quiñedquey ta ñi gen
+egn vey ñivla quiñedque Dios egn ve.
+14 ¶ Pimoan chey ta chumgey vachi dù-
+gu, poulay ta iñ duam meu ta ñi cùla per-
+sona gеn ta quiñe Dios geyùm. Мupimn са,
+vachi vuta dùgu poulay ta iñ duam meu.
+Comùtumebilijn ula ta huenu mapu meu tva
+chi dùgu, allcùvallay ta iñ duam meu, con-
+vallay ta iñ quimin meu; ta Dios ta ñi dù-
+gu ta poubule ta iñ duam meu, peqi quimge-
+bule cay va; ta Dios, Dios noabuy gatu, ta.
+Dios gen ta iñ duam ta iñ quimin ta nobi. Ey-
+mn, ta mn re che gen meu, Castilla Rey ta
+ñi dùgu ta allcùqueymn, vùta dùgu may nù-
+tamtugequeymn, huelu mù alculàymn tùr quim
+laymn ta chumgey chey vachi dùgu, mupil-
+tuqueimn may ta pu huinca ta ñi ge meu ta
+Rey ñi dùgu comùtuuyebilu. Vamgechi cay ta
+(pu peni ema) ta Dios ta ñi vùta dùgu ta
+inchin ta iñ che gen comùtulayñ ula, veychi
+dùpu ta ñi vùta gen ta quimlayñ, re ta mù-
+piltuquein vill ta iñ pieteu ta iñ Apo Iesu Chris-
+to vey
+
+PAG 38
+SERMON QVINTO.
+to vey tva ta ñi ge meu ta Dios ñi votùm
+geyùm, ta comùtuuyey ta ñi quimel ta ñi co-
+mùtuel cay ta genelduguuyeeyñ meu vey tva
+cay ta ñi piel meu ta mupiltuqueiñ ta ñi gen
+ta cùla persona Dios meu, chao votum Espi-
+ritu Santo, ta ñi ùi egn ve.
+15 ¶ Mùpiltuqueiñ cay ca vachi cùla per-
+sona meu, moll quiñe ta Dios llechi, ta chao
+Dios llechi, votùm cay Dios llechi, Espiritu
+Santo cay ta Dios llechi, mùpiltuqueyñ cay tva
+chi cùla persona ta ñi ùiaù gen ta chao yodla-
+bi ta votùm ta Espiritu Santo cay, ta vo-
+tùm cay yodlabi ta chao ta Espiritu Santo cay,
+ta Espiritu Santo yodlabi ta chao votùm cay.
+Ta chao ùiaùbi ta votùm Espiritu Santo cay,
+Huelugechi cay ta vill vachi cùla persona
+ùiaùuygn. Yune llitulay ta chao, vùlpalay cay
+ta votùm ta Espiritu Santo cay, vill cùla per-
+sona mgenque geuyeygn ta cuivi yunepalay ta
+chao, veymeu cay ynayepalay ta votùm ta
+Espiritu Santo cay. Mùgenquenmavoe lleta chao
+votùm cay ta Espiritu Santo cay, inchiñ may
+ta iñ ùituam vachi cùla persona, yune ùituqueiñ
+ta chao, ragin meu, uituquein ta votùm,
+ynangechi ùituqueiñ ta Espiritu Santo.
+16 ¶ Ta Dios chao ta ñi quimun meu ta
+cuyvi mùgеnque leùuyey ta Dios votùm. Cuy-
+vi cay mgenque ta Dios chao ta Dios votùm
+cay ta ñi ayùunmo, vùvùta Espiritu Santo mgen-
+que ta genon ta ñi llitugen egn. Vey ñivla cay
+vachi cùla persona meu ta chao votùm no, vo-
+tùm cay Espiritu Santo no Espiritu Santo chao
+no
+
+PAG 39
+DE COMO AY DIOS.
+no quepu muùin cùla persona lle pu ve, huela
+cùla Dios no, cùla Apo no, cùla pepilvoe, no re
+quiñedque Dios quiñedque Apo llechi, vey tva
+ta vill pu Angel ta vfchiqueygñ ta huenu meu,
+vachi tue mapu cay ta vill chi dùgugenecauyey-
+gn, pu pùlli meu cay vill pu diablo lecauyeygn
+tùntùnùygn cay ta ñi llecan meu egn.
+17 ¶ Vachi vuta dùgu ta mùpiltuuyeygn
+geneldùguuyeygn cay ta pu Apostol, vachi vù-
+ta dùgu ta ñi mùpiltun meu ta lagùmgeuyeygn
+ta pu Martyr, va cay ta pu Doctor Santa Igle-
+sia ta ñi pu huenu ta vill ta quimeluyeygn,
+cay ta vachi vùta dùgu ta mùpiltuuyeiñ, ta
+iñ uùnmeu cay ta piuyeiñ ta iñ baptizalgeyùm
+ta ùielgeyùm, Christiano getuyùm cay. Vachi
+vùta dùgu ta ñi mùpin gen ta iñ huyriuque-
+yùm geneluqueyùm cay ta cruz meu cuù meu
+cay ta piqueyñ. Ta chao votùm Espiritu San-
+to ta ñi ùi meu ta pinmeu ta inchiñ.
+18 ¶ Vachi mùpiltun meu ta mogeyñ, va-
+chi mùpiltun ñivla ta lape pigelijn, va ta mù-
+pilrubiùm ta cùme duam meu ta layayñ. Ta
+iñ Dios ema ta iñ Apo ema, cùla persona ey-
+mi, tepen meu ta opuleymi, ta chao ta votùm ta
+Espiritu Santo, quiñedque Dios eymi may, cù-
+me ùlmeyegepe ta mi Dios gen ta vill ta mi
+elel chi dùgu meu te mgenque, vfchigepe cay
+ta mi Apo gen ta mi vùta raquigen cay, ta
+iñ llumùdgechi duam ta alelmoin ta iñ Dios ema,
+уeпprammоіñ ta iñ duamtun) vеусù naù meu
+le ve) ta ùiaùgechi ta mi quimaeùm vfchi-
+aeùm, vill ta iñ nehuen meu ta mi raquia-
+eùm
+
+PAG 40
+SERMON SEXTO,
+eùm, genecaaeùm cay ta vachi yune mogén méu,
+able tay ta vachi geyuntun ta iñ alelgeam cage-
+lu chi alen meu vey meu ta pegeaymi ta in-
+chiñ meu, pegelmi ta abnonquechi ta tepeaiñ
+mùgеnque. Amen.
+
+SERMON SEXTO.
+DE COMO CRIO EL
+CIELO, Y EN EL LOS
+ANGELEL.
+PRayam ta hnenu mapu meu (pu
+peñi ema huema duamyeimn ta
+Iesu Christo meu ta mùpiltun, ta
+quiñedque Dios ta vfchin, vey
+tva mupin gechi Dios ta chao, ta
+votùm, ta Espiritu Santo cùla persona ta qui-
+ñеdque Dios va ta piueyeуmn tа сùраuуеn ta
+ca Domingo meu. Veula may cadugun meu,
+vachi Dios ta ñi cùme gen, pieymn ta cùpan.
+Re ta ñi cùme geyùm ta Dios, yney rume,
+chem rume cay ta Dios ta ñi duamyenobium,
+cùpa gelcauyey ta vill geluchi dùgu ta pegevalu,
+pegevalnolu cay.
+2 ¶ Veymo cay ta cùivi, ta chem rùme
+ñi genon ula, vachi huall mapu ñi llitulca-
+gen meu, ta Dios ñi toquituvalnaluchi pepilvoe
+gen meu, quidu ta ñi dugumodque cay, ta
+chem no egu ta vill ta eli ta dùgu, ta huenu
+mapu,
+
+PAG 41
+CREACION DE LOS ANGELES.
+mapu, ta vill huenutudùgu egu; ta tue
+mapu cay, ta vill tuetudùgu cay ta gel-
+caùyey.
+3 ¶ Veymo cay teye ta ñi vùta gechi pe-
+chi pepiun meu ta pu Angel ta gelcauyey cay;
+ta vey egn ta ñi pu linco raquituvalnolu, ta
+ñi no aldù geyùm pù ve, ta iñ anca mgelu,
+vemgelay pu egn ve; ta calùl gelaygn, vo-
+ru gelaygn pu ve, ta iñ ge meu ta pegevalno-
+lu, ta iñ pllù mgelu; vemgeygn, espiritu pu
+egn ve, huela cagey ta espiritu gen ta iñ pllù,
+ca gey ta espiritu gen ta pu Angel; ta iñ pllù
+anca pituy, ta iñ chegeyùm ta iñchiñ; llaù ta
+iñche gen lle ta anca, ta pegevalu; llaù ta
+iñ che gen lle ta pllù, ta pegevalnolu. Cagey
+ta ñi espiritu gen ta pu Angel, ta anca pitu-
+laygn pu ve: ùdavallay ta ñi espiritu gen
+egen, gelay ta llaù gen ta vey egn meu,
+ymelclelu, ta ñi Angel gen vill ta espiritu
+llechi; ta Dios mgelu, vemgelu cay.ra ñi es-
+piritu gen egn ve; ta llaùtuvallay ta Dios, pu
+Angel cay ta llaùtuvalnolu: che may ta llaùtu-
+vali, ta llaù lle ta ñi anca, llaù cay ta pllù.
+Veyñivla cay ta Angel gen aldù ñobi ta iñ che
+gen, ta ñochi temo gey ta Angel gen, ño al-
+dù lebi ta pu Angel, ño aldù quimi, ño aldù
+yavùgey, no aldù pepilvoe gey cay, ·lavalno-
+lu cay ta pu egn ve.
+4 ¶ Vey egn ta ñi mi Apo em Lucifer pigebuy
+tamù temo, gebuy mu quimvoe, mù yavu, mù pe-
+pilvoe cay, ta vill dùgu meu, ta caque pu Angel ta
+nobuyve. Ta ñi duam meu egn ta adyebi ta Dios:
+gebuy
+
+PAG 42
+SERMON SEXTO
+gebuy cay ta ñi duam meu ta ñi dallùhue, ta
+dulùam ta cùme dùgu, ùcalbiùm ta huera gechi
+dùgu, ta ayùbule egn. Chem cam cotù gelu,
+chem cay ta huerilcan gelu, chem ta ñi ayùel
+ta Dios, chem ta ñi ayùnoel aldù quimbuygn
+vill egn ve. Dios ta ñi ayùel chi dùgu ta
+vill egn ta ynaytubule, ta vill egn ta mgen
+tpantu tepeabuygen, ta Dios ta pebiùm. Hue-
+liqnogechi cay ta Dios ta ñi piel ta mùpituno-
+bule, genecanobule egn cay, ta mgenquen-
+mayabuy ta ñi cùt[r]antugen egn to minu tue
+meu. Veymo genelgebuy ta vùta Apo Dios ta
+ñi destue mapu.
+5 ¶ Huell huell pu Angel meu ellatipan-
+yey ta dùgu, huell pu Angel meu cay ta cù-
+me tipauyey. Lucifer may ta aldù pramun-
+gebuy, ta ñolcauyey, ta aldùlcauùyey ta ñi
+venten temo geyùm, ta ñi ventеn quimvoe
+geyùm, ta venten pepilvoe geyùm cay, vey-
+meu cay ta ñi taùuyeel chi dùgu ta Dios meu
+(veycùbulu ve) taunolu mgelu, ta mangum
+labuy ta Dios meu. Vùta lle ta inche, aldùn
+ta inche, yney cam ta inche mgelu, yneycam
+ùiaùeneù gelay, inche vill ta yodbin, ta ñi duam
+meu ta pibuy. Va ta ñi piel, aldù vùta
+huerilcan llechi (soberuia piqueel) va may ta
+Dios ta ñi mù ùdeelchi huerilcan llechi; vill
+chi huerilcan meu, va ta ñochi ùllculcaquebi
+ta Dios. Vachi Lucifer ta ñi huerilcan can
+que pu Angel (aldùbulu pu ve) ynaytuuyey-
+gn vill egn, ta ñi pramuntengen meu, aldù hue-
+luqnobi ta Dios.
+6 Vey-
+
+PAG 43
+CREACION DE LOS ANGELES.
+6 ¶ Vey ñivla ta iñ Apo Dios ta ñi ùiaù
+duam geyùm aldù ùllcuuyey vachi huerilca-
+voe gechi pu Angel meu; ta veychi mutay
+meu ta huenu mapu meu ta giyuntùuyebi ra
+qu egn ve, ta ùtùfnacùmuyebi vachi naù
+mapu meu; tа mugenque pt[r]ùgepe, сùt[r]antuge-
+pe cay ta vill egn ta ñi huenican ñivla ta piu-
+yey ta Dios.
+7 ¶ Veychi dùgu meu cay ta vill egn va-
+chi naù mapu meu ta ñi aldù huera duam
+meu, ta ñi aldù nolcaun meu, ta ùllcun meu
+opuy ta ñi duam; aldù ùdebign cay ta Dios,
+aldù cùniquechi yauqueygn, aldù ùtirqueygn,
+aldù cayñeyetubign ta Dios, ta vill cùme
+que pu che cay ta Dios ta ñi ayuel ta gene-
+caquelu, ta vachi huera pu Angel aldù hue-
+loqnoquebign cay. Vey egn tva pu diablos pu
+demonios, pu alhue cay ta pigeygn; ta vill
+pu che (ta Dios mgelu ta ñi duam meu, ta
+Dios ta adyebilu pu ve, Dios tay ta comù-
+tumealu ta huenu meu pu ve) veychi hue-
+ra pu diablo ta ùdebign, ùtirquebign cay: pe-
+tuay ta che ta iñ gucùmel chi huenu mapu
+ta pin meu ta puegn ve.
+8 ¶ Veyñivla va meu cùpa geñecaquebign
+ta pu che. Ta Dios ta vfchiquibilmn Señor Ie-
+su Christo meu, ta mupiltuquilmn ta piqueign
+ta puche meu. Geñecagequilmn pu votùm
+ema, chumelquechi ta Pillan ta vfchiquebi-
+mn, ùituquebimn cay, Chumelquechi cay ta
+Huecuvoe ta vfchiquebimn ta ùituquebimn cay.
+Vachi pu diablo ta vfchiqueimn taquiqueymn
+cay.
+
+PAG 44
+SERMON SEXTO,
+cay Pillan pigen, Huecuvoe ta pigen ta mn
+pu vùcha meu ta cuyvi piuyey ta diablo.
+Quimuyebulmn eymn ta ñi gen ta diablo,
+va ta mn Pillan piqueel, vfchilaabuimn ga-
+tu, cùpa vfchihuelaabuymn ta diablo eymn. Aldù
+ùdequebi mn, ta mn ùllcuqueyum maytaca-
+que che meu ta huera alhue, multù alhue pi-
+quebimn, yneycam ta huera alhue? Diablo
+may ve.
+9 ¶ Vachi pu diablo meu ta dùguquey ta
+calcupuche. Pegelùygn ta pu diablo calcupu-
+che meu; ùñùm mgelu, capra mgelu che mge-
+lu cay: am pebin, pi ta calcuche, va ta ñi
+peel egn ta calcu puche diablo llechi, vachi pu-
+diablo huerilcalcaquebi ta pu che, ta damen-
+tulcaquebi, gollilcaquebi, lagùmchelcaquebi.
+Huincùlcaquebi ta pu che ta ñi ptùgeam egn,
+minu tue meu quidu egn egu.
+10 ¶ Vfchiquibilmn ta Dios pipray ta dia-
+blo; ta ñi vfchigenoam ta Dios cymn meu,
+ta vfchiabimn ta Pillan, pipray. Chem cam
+ta Pillan? ramtubimn ta diablo meu, aldù
+coyllatuquelu; gelay ta chem rume ta Pillan
+pigealu, diablo Pillan genon meu; mupin ge-
+lay ta ca dùgu ta Pillan gealu gatu, Pillan
+talcatuquelu huenu meu, quellucloquebi ta pu
+cona pipray ta diablo; huelu coyllatuquelu,
+re Dios talcatuquelu huenu meu, diablo talca-
+tuquelay. Dios cay quellucloquebi ta hueycha-
+quelu, Dios ta ñi duam meu ñoqueymn ta
+nogequeymn cay vey ñivla, gelay ta ca dù-
+gu Pillan gealu diablodque; coyllatuquelu may
+ta
+
+PAG 45
+CREACION DE LOS ANGELES.
+ta diablo quidu Pillan gele ve, ta diablo tal-
+catulay huenu meu, vey ta ñi ayùnmo gelay
+ta non, gelay ta ñogen; re Dios ñi ayùn mod
+que vill tva. Talcatuquelu ta huenu meu
+quelluclohueychanquelu Pillan ta vfchiabimn pij
+ta diablo, vachi dùgumodque mùpilu; ta vf-
+chivali talcatuquelu huenu meu, ta vfchiva-
+li cay ta ñocloquelu cay, yneygele rume. Iney
+cam talcatuquelu Dios maydque, yney cam
+ñocloquelu? Dios maydque, chemo cam ta Dios
+ta vfchipraquilmn pij ta diablo? Vallechi ga-
+tu ta ñi coyllatun meu ta tugey ta diablo, qui-
+mi ta diablo ta talcatuquey ta Dios mten,
+ta ñocloquey ta Dios cay mten: huelu ta
+ñi vfchinoam ta Dios, vey ñivla Pillan vf-
+chibimn vey ta talcatuquelu, ñi coillatun
+meu pipray.
+11 ¶ Re Dios ta mn tcun ta lleùelcaque-
+li, huelu diablo ñi piel may ta mn pipra.
+queel Pillan pile tipayay ta tcun, pinole tipa-
+layay, piqueymn (compale Pillan uybay ta iñ
+peuma, vey ta iñ uueuùae) piqueymn. Dia-
+blo ñi piel cay ta mn pipraqueel ta mn prentuun
+meu (pom vey vecha Pillan) ta piqueymn
+vill tva diablo ñi gñecan ñi coillatun llechi
+cay, vey egñ ta ñi aldù ùdebiùm ta Dios ta
+puche cay vey ñivla aldù coyllatulbign ta pu
+che, ta huerilcalca quebign cay ta pu ve.
+12 ¶ Huelu chem rume allvulgelayaymn
+ta pu diablo meu (ta mn cayñeyequeeteu
+pu ve) Mùpiltubilmn ta iñ Apo Iesu Chris-
+to meu; vey ta mtùmbilmn, ùltubilmn cay,
+ta cruz
+
+PAG 46
+SERMON. SEXTO.
+ta cruz ñi genel meu ta ñultuqueygn pu dia-
+blo. Ta iñ ùituquebiùm cay ta ñi ùi ta Se-
+ñor Iesu Christo, llecan meu tùntùnùygn pu
+ve; vey ñivla ta inchiñ ta iñ Christiano che
+gen ta cruz meu ta huyriuqueiñ, geneluqueyn
+cay aldù mita eymn cay ta huyriùaymn ge-
+nelùaymn ta cruz meu mgen antù; hue lihuen
+ra ùmaùtun meu va tepelmn, cùdu calmn
+cay, ta mn ruca meu ta tipalmn, Dios ñi
+ruca meu ta conilmn, gele ta mn cùdau, ta
+mn cùt[r]an, ta mn huerilcalcayaeteu chi dù-
+gu cay, ta cruz ñi genel meu ca vill ella que
+dùgu meu ta montuaymn.
+13. ¶ Huera que pu Angel diablos piqueel
+ta ñi huerilcan, ta ñi ùtùfnacùmgen ta va
+meu, ta vill egn ta ñi huera gen ta inchiñ
+meu, ta deu ta pieymn. Veula may vùl-
+pay ta cùmeque Angel ta ñi cùme duam; ta
+huell pu Angel cùme duam gebulu, Dios ta ni
+cùmelcauyeeteu mañgumuyebuygn, Dios ta ñi
+piel genecauyebuygn, vey ñivla vill egn caque
+hueragechi Angel hueluqnouyebign. Va ta ñi
+duam mew egn ta ñi piel em, yney cam Dios
+mgeabuy? Iney cam ta ùiaùabubi ta Dios, ta
+vill vemvoe? vill pepilvoe? Gelay gatu, in-
+chiñ ta iñ Angel gen, chem ño inchiñ; chem
+ño meu ta gelcageuyeyñ ta iñ Dios meu, ta
+in gen, ta iñ pepilvoe gen ta iñ temo gen vill
+ta Dios meu ta taùuyeyñ; vill ta ababuy ta
+Dios pibule, aldù huera gey ta pramun, tar
+ñolcaun; cùmey ta iñ quimun ta iñ chem rumme
+genon ta inchiñ, cùmey ta iñ pichilcaun ta Dios
+ñi ad meu.
+14 Va
+
+PAG 47
+CREACION DE LOS ANGELES.
+14 ¶ Va ta pibuy San Miguel cùme que
+pu Angel a ñi mù Apeem, vill caque pu
+Angel cay ta va cay ta pibuygñ. Vey ñivla
+ta Dios ta ñi ùiaù duam geyùm, ta vill egn
+ta calliuyebi, alelbi ta ñi duam egn, ta mgen-
+que ñi tepeam, ta pebium quidu ta ñi Dios gen,
+chumgechi quidu Dios ta tepei ta ñi peun meu,
+vamgechi ta ñi pegelun meu ta tepeluyebi ta pu
+Angel
+15 ¶ Chumgechi cay ta huera que pu An-
+gel ta datuquebign ta puche, huerilcalquebign cay.
+Ta vamgechi cay ta cùme que pu Angel ta
+аldù tа ауù уñmeu, сhаùtunmaqueeyñmeu
+сау, pu sаnto egu сау tа dùgunmaqueeiñ meu
+ta Dios, cùmeque dùgu duamtulcaqueeyñ meu,
+ta iñ pllù ta anca egu cay ta ñi cùmeleam,
+vill ella que dùgu meu ta montuleyñmeu; al-
+dù repequeygn ta cùmegelijñ; cùme getuabuy ta
+che inchiñ egu ùlaùgechi tepepaabuy piquey-
+gn.
+16 ¶ Moll quiñe che meu ta ñi ñuque meu
+ta iñ coñigeyùm, gey ta quiñe Angel cùmegelu,
+vey tva Dios ta ñi piel meu, ta quintunma-
+quebi ta ñi eluelchiche chaùtunmaquebi cay, ta
+gelambi, elcanmaquebi, ta quelluclobi, ta vill
+dùgu meu cay ta cùmelcaquebi.
+17 ¶ Vey ñivla moll quiñe eymn mgen an-
+tù hue lihuen ta mn Angel meu ta duguca-
+yaymn, va ta piaymn (Angel ema) Dios
+ta ñi piel meu ta eymi meu ta quintun magen,
+chaùtunmaen quellucloen, vachi antù huerilca-
+ñoam vill ella que dùgu meu ta montulcloen.
+18 Valle-
+
+PAG 48
+20 SERMON SEXTO.
+18 ¶ Vallechi pieymn ta chumgechi ta vill
+vemvoegechi Dias ta huenu mapu ta gelcauyey,
+vey meu cay ta eli ta pu Angel, ta ñi pu yana
+egn pù ve, ta iñ dihuenqueetru рu egn ve сау.
+Vachi Dios cay ta antù, ta cùyen, ta huaglen
+cay ta alel geam, yavutulgeam ta puche cay ta
+eli. Antu Dios no may, Dios ta ñi elel ve.
+Ta antù ñogey ta che meu, che ta dùguquelu,
+ta duam gelu, Dios ta ñi gen mgelu vemgey
+cay ta ñi gen ta che; Dios ta quidu peùy tepey
+cay ta ñi peun meu, che meu cay ta pegevali
+ta Dios: huelu antù dùgulay, quimlay adyela-
+bi ta Dios. Ta antù, ta cùyen, huaglen cay
+ta cùmeleam ta che ta Dios meu ta gelcageuyey.
+19 ¶ Vill vachi dùgu ta duamtulmn ta
+alelgeaymn ta ñi gen ta Dios. Vey ta ñi quim-
+voe gen, ta ñi temo gen ta ñi pepilvoe gen ta
+quimaymn, vey ñivla mañgumbimn ta Dios,
+ta mn llumùd gen meu ta mn aleleteu, ta quiñe
+duam meu ta vfchibimnca, vey cay ta mù
+duam meu ta pibimnca.
+20 ¶ Eymi Dios ta iñ Apo ema; ta iñ vem-
+voe, mañumeymi ta Iesu Christo ta mi votùm
+ñivla alelgeyñ, deu ta quimlleyñ ta mi mupim
+Dios gen; vill pu diablo meu ta gñeecagebuyn.
+Vey egn ta iñ gñecan meu ta montulmoiñ geue-
+lay ta ca dùgu ta vfchivalu, eymidque, ta vill
+pu Angel meu, ta vfchigeymi genecageymi; eimi
+ta mi pepilvoe gen meu tùntùnùqueygn ta pu
+diablo, eymi ta ñi ùi cùme ulmeyegepe mgenq'.
+Amen.
+SER-
+
+PAG 49
+SERMON SETIMO
+DE LA CREACION, Y
+PECADO DEL HOM-
+BRE,
+VEychi huenu mapu vemvoe gechi
+Dios, pu Angel vemvoe cay ta an-
+tù, ta cùyen, ta huaglen cay ta
+elvoe gechi Dios ga mn pibin ta ca sermon
+meu pu peñi ema:) Vill vachi huall ma-
+pu cay, ta tue mapu cay, ta labquen, ta vill
+pu challua сay ta, pu ùñùm, pu huequе сау
+ta gelcauyey cay. Vill mogelu ta mogelbi, ya-
+vùtulbi cay, quiñe ùñùm rume, genon ta ñi
+ayùn ta Dios, utùvnaulay, lalay cay. Vill
+vachi dùgu cay che ta ñi teae, ta gelcauyey
+ta Dios, chedque votùmyebi, aldù ayùbi cay,
+ta quіdu ta ñi huenu mapu meu сùра tepelbi
+cay ve.
+2 ¶ Va ta quimaymn cay, ta llitu ta
+Dios, ta vill ca que dùgu deuma ta ñi gel-
+cauyebiùm abquechi quiñe huentu che Adam
+pigeuyelu ve) ta gelcauyebi. Ta pele gechi
+tue meu, veychi huentu ñi anca eli, vey ta
+ñi pllù may (veychi anca ta mogelbulu) ta
+quidu ta ñi pimotun meu ta Dios ta gelca-
+uyebi cay. Vachi pllù ta ñi gen meu cay
+ta Dios ta adyebita ñi gen meu; quidu ñi gen
+mgelu, vamgelu cay ta Dios vachi pllù ta
+vemi, lavallay ta pllù, abvallay, pu hue-
+que
+
+PAG 50
+SERMON SETIMO.
+que pu cauallo cay, ta ñi pllù mgelu vemge-
+lay ta che ñi pllù; duamgelu ve, duam meu
+mogequelù cay vey, dellùhue gelu veychi dù-
+gu meu ta Dios mgey ta pllù.
+3 ¶ Vachi yunen huent[r]u che (Adam pige-
+bulu) deuma ta ñi chegelgeyùm, quiñe cùmege-
+chi mapu meu (tepen meu ta opubulu ve)
+Dios meu ta elgeuyey. Vėy chi mapu meu
+vudquen tue gebulu, che ta ñi cùmentuabiùm
+aldùbuy ta cume que dùgu, ta tepeam ta te-
+petuam cay ve. Vey meu cùtan, ta gùñùn, ta
+cuñùval gen, ta ùrcùn, ta vucha gen, ta
+lan cay gelabuy rume vachi huentu che meu
+cay ta huall mapu meu ta vill gechi dùgu,
+ta ñi gen mapu gen cay ta Dios ta eluuyee-
+yeu. Quiñe domo cay (ta Eua pigebulu
+ve) ta ñi dihueñabueteu t[r]a vlbi cay, vachi
+domo cay Adam ta ñi cadi meu ta entugeu-
+yey, Vachi epu che Adam Eua egu, ta vill
+maputupuche, ta ñi lli pu chao lle pu ve.
+Vey egu tva meu ta vill pu che yallgequeyñ
+lleùqueyñeay.
+4 ¶ Veychi сùme mapu meu Parayso pi-
+gebulu ve, vachi epu curehuen Adam Eua
+egu aldù tepegenchi mlebuygu, Dios cay ta
+tume vachi epu che meu ta genecageli chey
+ta ñi tepevalgeabun huenu meu, ta culliabin ta
+pibuy vey, ta ñi aldù culmeyenmaabiùm ta
+Dios, aldù vem valbulu aldù ùiaùgechi dùgu
+cay ta geneuyeeyeu egu, ta vey tva llechi
+vill pu mamùll vachi cùme mapu meu ta
+vùnuyelu tа ñi vùn уmu ca, veycù cùmen-
+tua-
+
+PAG 51
+CREACION DEL HOMBRE.
+tuabimu, vachi quiñedque mamùll ta ñi
+vùn yquilmu, layaymu ta ylmu pieyeyeu egu
+ta Dios, vey ta ñi pin meu ta geneleyeuegu
+veychi mamùll ta vey egu ta ñi vùlge-
+noabuel. Vachi dùgu ta ñi piel ta Dios, ta
+genecabubile egu, ta hueralcagen, ta cùdau,ta
+abquiduam, ta cùt[r]an, ta cuñuvalgen ta quim,
+laabuygu, ·lalayabuygu gatu.
+5 ¶ Diablo may va ta ñi quimn meu, al-
+dù ta ñi cayneyebiùm ta Dios, aldù cay ta ñi
+vtirbiyùm cay ta che, vey ta ñi geñecageam
+ta ñi gubtulcageam cay ta genen ta quintuu-
+yey: tuy cay ta gnen tva: yhuay ñi anca
+mgelu ta pegeluy ta Eua meu, ta dùgucan meu
+vey ta pieyeu, ymu ca vachi mamùll tañi vùn,
+veycù cumey ta ilmu vachi vùn, ta Dios mgeay-
+mu. Vey ñivla gatu ta iquilmu pigeymu, ta mu Dios
+mgenoam, ta ilmu may vill ta ñi quimel ta Dios
+ta quimaymu pieyeu egu ta diablo. Va llechi
+vey ta ñi coillan, ta ñi huera gen, vill coilla
+dùgu ta ñi chao lleta diablo, mgenque che ta
+ñi guvtun ta quintuquebi, Eua ta iñ nuque
+may ta mùpiltulaabubi, huelu mùpiltubi ta
+veychi yhuay ñi piel, diablo lle ve, veymo
+uycharubi ta vùn ta mamùll meu, yuyey cay,
+ta ñi piñom mew cay ta ùlbi, Adam ta ni
+piñom may ñi ùllcupenoabiùm ta ñi domo, yuyey
+cay ta Dios ta ñi piel ta hueluqnobiùm.
+6 ¶ Va ta ñi huera vemprael meu ta
+egu ta iñ pu chao chupij ta mn duam? Va-
+chi yunen huerilcan meu gatu ta vill ta iñ
+huera gen, ta iñ allùulgen, ta iñ cùdaulgen
+ta vill
+
+PAG 52
+SERMON SETIMO,
+ta vill ta inchin ta iñ che gen ta iñ pu yall-
+gen ta iñ cùt[r]antugen cay ta llitulleùuyey.
+Mù dùgu meu gatu, ùllcuuyey ta Dios va-
+chi vùri gnen meu, ta ñi cayñeyequebueyeu
+chi alhue genecageuyey veychi pu che meu,
+quidu Dios may genecageuyelay, ta venten
+cùmelcauyebi ta pu egu ve vey ñivla cay ta
+Dios hueluqnopauyebi pu egu ve ta ñi vùri
+genenvoegeuyeyùm egu. Veymo gùyùntulbi ve-
+chi cume mapu meu pu egu ve, cùdaupe ta
+ñi mogeam egu, gñùpe egu, cuñùvalgepe egu
+сùt[r]аnре сау, ùtepe; antùсuре рu еgu ve piu-
+yey ta Dios, lavalpe cay. Veymo cay nal-
+ta huerilcauyey egu ta quidu ta ñi gracia en-
+tuuyeeyeu egu, abquechi cay ta ñi Aldù ùll-
+cungen meu ta Dios vey egu meu, vill ta
+ñi puyall (inchiñ may ve) ta nalta ta ñi
+ñuque ñi pue meu egn ta llitu mogey, vachi
+yunen huerilcan meu lluquingetupe ta ñi pu
+pllù egn piuyey ta Dios yneiquechi che pepi mon-
+tuquilepe vachi huerilcan meu, vill diablo ñi
+pu votùm, ñi pu ñahue getupe tà ñi llitu
+mogequeyùm egn, quiñedque mten Santa Ma-
+ria montulpe vachi Adam ta ñi huerilcan
+meu (ta nuqueyeabin ve) piuyey cay ta
+Dios. Vey ñivla vill inchiñ ta iñ che gen
+ta iñ llitu mogen meu ta huerilcavoe geyñ A-
+dam ta ñi huerilcan meu, ·lavalqueiñ cay ta
+Dios ñi ruca meu pepi pralaabuyñ vill ta gùb-
+tuabuyn.
+7 ¶ A Dios ema aldù vurenyechevoe lle
+ta eymi, eymi meu gelcamolayñ cam ta in-
+chiñ
+
+PAG 53
+CREACION DEL HOMBRE.
+chiñ? Gubtuay cam ta vill pu che? yney ru-
+me ta comutumelaeymu ta huenu meu (ta mi
+comutumeabueteu meu pus chevey ñivla
+vill pu egn gelcabimi) ta comutun ta Dios
+va ta iñ ab, cùme ab lle ve, vachi cù-
+megechi ab yneychi che rume vitulaabuy?
+Mùmay Señor. Amole pu tipantu tuay ta mi
+gnen ta huenu meu ta prayam ta che, vey
+egn mem ta mi comutugeam.
+8 ¶ Allcùtumn (pu peñi ema) vachi
+epu che ta geyuntugebulu, ta ñi huerilcan meu
+ta venten cùdau meu ta huera peuma meu
+ta ñi huerilcan ñivla opubulu, ta Dios ta co-
+mutuuyey diablo cay ta tepengechi ta nobin
+ta pu che ta piquebulu ve, ta ñi huerilcalca-
+uyebùm ta pu che ta Dios cay ta comtutuu-
+yey. Vey ñivla ñi duam meu va ta piuyey
+ta Dios. Mlepe ca va, pichi chaula ca cha,
+mùpin ñogeuyey ta che, huerilcalcageuyey,
+quidu vurenyebalnolu ve, perdonavalnolu quia
+du, mùpin llechi. Huelu inche alaù ta ñi
+vurenyechevoe gen meu ñi huerilcan meu ta
+pu che ta montulabin, veymo vill ta ñi gu-
+cùmel chi dùgu ta elutuabin, veycùbulu pu
+ve, ta pegevalnolu ta ge meu, vill vachi dùgu
+meu ca que hue dùgu meu cay che tañi pllù ta eltu-
+caabin ta piuyey ta Dios. Vey meu cay tañi quiñe
+votùm (inchemgelu) ta vill quimvoe vill
+pepilvoe ta mgenquenmavoe lle ve tue mapu
+meu ta chegepatualu ta huercùabin. Adam
+mgelu vemgelu che getuay ta ñi votùm ta
+mupin gechi Dios gen, ùcalnobiùm ta iñ
+Dios
+
+PAG 54
+SERMON SETIMO.
+Dios gen, che gealu cay, vill ta ñi ayùel chi
+dùgu meu genecaaeneu, aldù cùdaumeu ta cù-
+daulgealu ve, ynangechi puche ñivla ta ·laya-
+lu mogetualu cay, vachi dùgu meu ta che
+ta cùmeltucageay, diablo cay ta aldù yehuel-
+geay, ñogeay cay, inche may raquigean, cùme
+tipayay ta dùgu, ta ñobin ta diablo piabin cay,
+vill tva piuyey ta Dios ta ñi duam meu.
+9 ¶ Vill tva ta ñi duam meu ta ñi piel
+ta Dios ta pu che meu (ta veycù abqui-
+duam gechi miauquebulu pu ve) vùren-
+yebiùm cay ta pu egn ve, ta pibaluyebi ta pu
+Angel meu. Cùme duam meu ta pu che ta
+ñi genmayeam, tepeam cay ta chegepatuabulu
+chi Dios votùm meu, ta puche ta montul-
+paabulu ve ta pivaluyey. Vachi ta ñi che-
+gepatuabun ta Dios votùm ta montuam ta
+che ta ñi huerilcan egn ñivla ta iñ yuneñ chao
+Adam Eua egu ta quimuyeygn. Vey ñiyla
+ta Dios meu ta uñotuuyeygu, ta huerilca-
+prauyeyu ta pin meu egu ta perdonanmamoyu
+ta yu huerilcan ta mi quidu votùm ñivla ta
+che gepatualu, ta vill pu che ta montupayalu
+ve, ta Dios meu ta piuyey pu egu ve. Vey-
+cul cùtu cay mgen tipantu vill cùme que pu
+che (veycùbulu, ta cùme duam gebulu chi
+pu che) ta ñi ayùn egn ta ùiaùbubi ta Dios
+ta iñ ayùn cay ta vachi Dios ta ñi da-
+quelel chi dùgu ta genmayequebuygn pu egn
+ve. No aldù gebuy rùme ta huerilcavoege?
+bu chi pu che, huelu Dios va ta ñi daquelel
+chi dùgu goymallabi. Aldù tipantu ta rupa-
+uyey
+
+PAG 55
+CREACION DEL HOMBRE.
+uyey, mogebuy ta cuyvi pu che, veymo la-
+buy cay ta pu egn ve, vùlpauyey ta ca que
+pu che ñi mogen, villtuuygn cay ta vill
+egn, veycù tipantu ta rupauyeygn ta Adam
+ta ñi mogen cùtu, yune gebuy ta Noe aldù.
+cùme che, vey ta ñi mogeyecan meu ta vù-
+ta magin meu ta vill pu che ta abuyeygn,
+ta meli mari antù ta pun egu ta mauyey puche
+ta ñi huerilcan ñivla vill ta co meu ta ùr-
+biuyeygn, meten ta Noe ñi cùla pu votùm
+egu vey ta ñi pucure cay ta montuuyey-
+gn.
+10 ¶ Vùlpay ta ca cuyvi che Abraham
+pigebulu aldù cùme duam gebulu, Dios ta ñi
+ayùel ve, vey ta ñi aldù ayubiùm ta Dios,
+quidu ta ñi votùm Isaac pigebulu, quiñedque-
+buy ve, ta Dios meu ta elubi, lagùmmaen
+ta mi votùm, ta Abraham meu ta Dios ta
+piùyeyeu; (meten ta ñi petucaabiùm genetua-
+biùm ta Abraham ta ñi duam, vey pieyeu,
+huelu Isaac ta ñi lagùmgen ayùlabuy ta Dios,
+aldù cùme duam gebuy ta Isaac Dios ta ni
+ayùel em cay) Abraham may ta ñi geneca-
+abiùm ta Dios ta ñi piel, cùpa catùlongouyebi
+ta ñi ayùel chi votùm Isaac, ta cùme duam
+meu ta catelongogellechi ta piuyey ta Isaac
+cay, huelu muña huenuntubuy ta ñi cuù ca-
+teabiùm ta ñi votùm, quiñe Angel ta goypul-
+eyeu, mlepe ca va, catelongouiquibilmi ta mi
+votùm, vallechi ta quiñe hueque vey mten
+ta lagùmabimi, mogepe ta mi votùm pivaley-
+eymu ta, Dios, ta inche mo pieyeu ta Angel.
+Vey
+
+PAG 56
+SERMON SETIMO
+Veychi Santo Abraham cùme dùgu daqueluye-
+eyeu ta Dios, ta quidu ta mi yall meu che-
+gepetuay ta ñi votùm pieyeu ta Dios vey
+ta opuleyeu may. Santa Maria Dios ñi ñu-
+que vachi Abraham meu ta lleùgeuyey.
+11 ¶ Abraham meu Isaac meu cay vùl-
+pauyey ta Iacob, va ta ñi mari epu votùm
+meu llitulgey ta Israel puchę vey egn Dios ta
+ñi ayuel chi puche Dios ñi cara cay ta pi-
+gebuygn. Veychi puche quidù Dios vfchi-
+buygn, mùpiltubuign cay, vill caque che ape
+ta vill maputupuche coilla gechi Dios ta vf-
+chibuygn, ta huell antù, huel cùyen, huell ma-
+mùll meu pañillihue meu milla meu ta ñi
+vemel chi che ta vfchiuygn ta genoquimche
+buy pu ve, Huelu mùpin gechi Dios mten
+Israel pu che ta vfchibubign, Va ta quim-
+mn ta cuyvi Dios ta ñi quimgeam vachi
+Israel pu chedque dullùuyey. Vachi Israel puche
+meu cay ta ñi magequechi dùgu taentueyeu.
+12 ¶ Vachi Israel pu che meu aldùbuy
+cùme que pu che Dios ta ñi ayùbuel ta Dios
+ñi piel que ta mogebuygn pu ve, santo pu
+che pigebulu ta ùiaùuyebubi ta ñi duam egn
+Dios ta ñi piel. Quiñe Moyses pigebuy va-
+chi cùme che meu ta Dios ta ñi mari piel
+chi dùgu ta quiñe Angel meu ta eluvaleyeu.
+Quiñe cay Dauid pigebulu Israel pu che ta
+ñi vùta apo em (Rey) Profeta cay ve ta
+geabuluchi dùgu aldùtipantunmabuy ta acùtuno-
+bulu ula ta quimbuy Dios meu ta ñi alelgen meuve
+vachi meu lleùuyey S.I. Christo tañi che gen meu,
+Caquе
+
+PAG 57
+CREACION DEL HOMBRE.
+Ca que pu sancto che ta pu Profeta cay ge-
+buy cuyvi vachi Israel pu che meu, vey egn
+ta ñi chegepatuabiun ta Dios ñi votùm ta hue-
+rilcan meu ta montuam ta pu che aldù tipan-
+tu ca ñi chegepatunon ula ta pinamuyeygn.
+13 ¶ Vill vachi cùme que pu che ta ñi
+mogepen meu veymo ñi lapen meu ta Señor
+Iesu Christo meu, ta Dios ñi votùm ta chegepa-
+tuabuluve, mùpiltubuygn. Veymo ta ñi chegepa-
+tun ta geñmayebuygn, vey ta ñi mùpiltun egn
+meu, ta ñi genmayen egn meu cay, ta hue-
+rilcaprauyeyñ ta ñi pin meu egn, ta ñi hue-
+rilcan meu montubuygn ñi lanon ula. Vey
+ñivla vey egn ta ñi pu pllù ta gùyuntugela-
+buygn diablos ñi deftue mapu meu, vey meu
+yney quepu conùmgequelu mgen tipantu tipa-
+layay. Ca mapu meu minu tue meu Lim-
+bo mapu pigebulu ve, ta veychi cùme que
+pu pllù deftugebuygn. Acutuabule ula ta Se-
+nor Iesu Christo vachi mapu meu ta vey
+egn ta montupayabule ula veymo mleabuygn pu
+ve, praabule ula huenu meu ta Señor Iesu Chris-
+to nùlameabule ta huenu mapu (ta Adam ñi
+huerilcan meu ta racùmmagebulu) ta vill
+egn ta Señor Iesu Christo egu huenu meu ta pra-
+abule egu rume, veymo mleabuygn.
+14 ¶ Inangechi deuma rupauyebulu ta que-
+chu huaranca tipantu ta ñi llitu gelcagen ta
+vachi huall mapu cùtu, ta Dios ñi votùm ta
+montuam ta pu che ñi huerilcan meu egn ta
+Santa Maria ñi pue meu ta chegeparuuyey
+pehuentunobulu ymelclebulu ve vachi Apo Se-
+ñora
+
+PAG 58
+IJELU UN ULTI U.
+ñora udaunobulu, ñi anca ve, pivalnobulu ta
+ñi aldù libgen duam meu,anca egu cay. Mlebuy
+vachi Apo Señora Nazaret pigebuluchi mapu
+meu (Israel pu che ta ñi quiñe cara ve) vey
+meu digatungechi quimhuentunon ta vuquiñ
+geuyey, vey meu cay genon ta cùt[r]an pue meu,
+genon cay ta ñi ùdaun ta ñi anca, ta coñiuyey.
+Ca pu domo ñi coñin mgelu vemgelabuy ta ni
+coñiñ ta Santa Maria, vey ta ñi pñeñelchi
+coñi Iesu Christo llechi, Vachi Apo Iesu Chris-
+to Dios ñi votùm ta chegepatulu, ta inchiñ ta
+in che gen mgelu vemgebuy cay ta ñi che gen,
+quidudque huerilcauyenolu, pepi huerilcauyelay
+cay ve. Vey tva cruz meu ta lauyey, vill ta
+ñi mollvùn cay ta utuntuy, vey meu ta cù-
+la antù meu deu ta ñi ·lan meu (Domingo an-
+tùbuluve) ta mogetuuyey huenu mapu meu ta
+prauyey ca sermon meu ga mn pibinque.
+15 ¶ Cochintumn cay cha, ta quidu ta iñ
+gelcauyeeteu meu cuyvi ta ñi Dios gen meu, ta
+chem ño egu meu, ta ñi dùgumodque ta gelcageu-
+yeyñ, vey cay tva ta quidu ta montulpauye-
+eyñ meu ta Adam ta ñi huerilcan meu, ta iñ
+quidu huerilcaqueel meu cay. Ta ñi gracia,
+cay ta eluuyeeyñ meu ta iñ ñogenoam ta pu
+diablos meu, vey egn ta iñchin meu ta ñi ño-
+geam huelu. Vachi Señor Iesu Christo mùpiltubi-
+mn cam? Pu votùm ema, va ta mn vill cùmegen
+llechi, va ta mn mù chao, ta mn mù Apo, va
+ta vfchibimn genecabimn cay, cùme ùlmeyebimn
+cay ta mgengue.Amen.
+SER-
+
+PAG 59
+SERMON OCTAVO
+DE LA FVNDACION
+DE LA IGLESIA DE
+CHRISTO.
+TA iñ Apo Iesu Christo mùpin ge-
+chi. Dios ta ñi votùm, va-
+chi naù mapu meu ta Dios ta ñi
+dùgu ta huenu mapu meu ta pra-
+yam veymeu ñi tepemeam cay ta pu che tañi
+quimelyecùubuyùm ta Iudea pigebulu chi vùta
+mapu meu: Huell Iudio pu che ta cùme gñen
+em pu ve; ta Señor Iesu Christo ta ñi dù-
+gu modque ñi digatuquebuel ta comùtuquebu-
+lu, aldù tepeucùbulu pu ve cay, veychi diga-
+tun ta ñi comùtubiùm egn, ta vill cut[r]anbu-
+lu chi pu che ta mogeltuquebubi ta Señor Iesu
+Christo, llùmud gechi pu che ta pelolcaquebu-
+bi, queto gechi pu che ta dùgulcaquebubi tùco
+gechi pu che norelcaquebubi ta ñi cuù, qùn-
+to gechi pu che ta amolcaquebubi, veymo cay
+ta ño yodlu chi dùgu may ta deuma lallebu-
+lu chi pu che ta huera numubulu ñi anca egn
+cay ta ñi lihue ta elutuquebubi. Vill veychi
+Iudio pu che ñi ad meu ta vamgechi digatu-
+quebuy. Veymo cay vachi huell cùme gebu-
+chi Iudio pu che Señor Iesu Christo ta ñi cùme
+duam, ta ñi cùme vemquebuel chi dùgù; ta
+Dios ta ñi ayùn que, Dios ta ñi piel que cay
+ta ñi mogebuel ve, ta cochintububign.
+2 ¶ Vey
+
+PAG 60
+SERMON OCTAVO.
+2 ¶ Vey ñivla cay vachi cùme que Iudio
+pu che vill ta ñi duam meu ta Señor Iesu Chri-
+sto ñi quimelquebuel chi dùgu ta ñi allcùam, ñi
+geneytuam egn cay, mgengue ynaytuquebubign, di-
+hueñquebubign cay ve; veymo cay ta tepen ge-
+chi ta ñi pu chao pu ñuque egu cay, ta ñi pu lla-
+muen, ñі рu реñi, tañi pu domo cay ta gucùm-
+buygn, ùcalbuygn cay mten ta ñi allcùbuel em
+ta huenu dùgu duamtuyecùubuygn. Vill ca que
+dùgu cay ta ñi pu ruca ta ñi pu cullin, ta cuyvi
+ta ñi ayùquebuel ta ñi raquiquebuel cay ta llam-
+buygn raquiquehuelabuygn, Dios ta ñi dùgudque
+ta cùhuellquebuygn pu ve.
+3 ¶ Vill vachi cùme que pu che meu ta
+Señor Iesu Christo ta mari epudque ñochi raqui-
+uyebi, ñochi quimeluyebi cay, vey egn mten vill
+pu che ta ñi mùhueno geabum, ta yune pu Obis-
+po Patiru geabum ta vill mapu tu pu che meuta
+Señor Iesu Christo, ñi piel ta quimelmeabum
+vey meu huercùgeabuygn ta dullùuyey pu ve,
+vachi egn mari epu (Apostol ta pigeabuygn)
+vill mapu meu ñochi raquigeabuygn pu ve.
+4 ¶ Vachi Mari epu Apostol meu ta quiñe
+San Pedrodque ta vill pu Apostol ta vill pu
+Christiano pu che cay ta ñi mù apo geam, vill
+egn ta geneam ta dullùtuuyey, vill cay ta ni
+duamyebuel chi pepiun ta ñi cùhuellbuel cay ta
+dùgu ta vill genevoe vill quimelvoe vill giul-
+voe geam ta elutubi, quiñe dùgu modque va ta
+pian ta nùlayam ta huenu mapu ta racùmam
+cay ta llaue ta vachi San Pedro meu Señor Ie-
+su Christo alrùpuuyeyeu.
+5 Cùla
+
+PAG 61
+DE LA FUNDACION DE LA IGLESIA.
+5 ¶ Cùla tipantu meu vamgechi ta Señor
+Iesu Christo Dios ta ñi dùgu Iudio pu che meu
+ta quimelyecùuyey, deuma ta ñi quimelbiùm pu
+ve, ca que huera Iudio pu che meu ta eùmgeu-
+yey, deftugeuyey cay, aldù cùt[r]antulgeuyey, ab-
+quechi aldù ùmtugechi ta cruz meu clauotculge-
+lu lagùmgeuyey vill pu che ta ñi huerilcan meu
+ñi montulgeam. Vey meu deu ta ñi ·lan meu cù-
+lan antù meu ta mogetuuyey, deu ta ñi mogetun
+meu ñi pranon ùla ta huenu mapu meu ta meli
+mari antù meu alldùchi ta vill ta ñi ynay-
+quebueteu chi cùme que pu che meu ta pegelu-
+pauyey.
+6 ¶ Veymo cay ta mari epu Apostol meu
+vill ta ñi cùlmeyebuel chi pepiun, ta pu che meu
+ulbi vill mapu meu tañi quimelabium quidu ta ñi
+dùgu, vill chi pu che Christiano getuabulu, ta
+ñi geneabiùm, entuabiùm cay ta vill pu che ñi
+huerilcan, ñoahiùm cay, guvtulcaabiùm cay ta pu
+diablo, vill mapu meu cay ta pu genevoe apo
+geam egn ta ùlcalrupiuyeyeu pu egn ve. Pra-
+uyey ta huenu meu ta Señor Iesu Christo veymo
+deu ta ñi pran meu, naùpauyey ta Espiritu San-
+to huente pu Apostol meu, vill ca que cùme ge-
+buchi pu che meu cay, pataca egu mari huente
+gebulu Ierusalem mapu meu ta mlebulu pu egn
+ve cay. Vill egn cay ta aldù tepengechi tepeucùn-
+gechi cay ta Espiritu Santo ta llouuyebign, Espi-
+ritu Santo may ta vùta cruv ñi lùlùlun mgelu,
+cùt[r]al mgechi queun mgelu cay ta ñi pepilvoe gen
+ta ñi aldù ayùchevoe gen ta ñi quimgeae.
+7 ¶ Veycù cageltubi ta pegelupauyelu chi Es-
+piritu
+
+PAG 62
+SERMON OCTAVO
+piritu Santo, ta vill egn, vill yavuqnoùuyeygn
+ta vill pu che meu ta genelam ta Dios ta ñi dù-
+gu. Chem rume ta veychi antù cùt[r]u llùcauye-
+laygn pu ve, pichi mochi che gebulu, cuñuval
+pu che cay gebulu pu egn rume, ayeñegebulu
+illamgebulu rume ta vill pu che meu cay. Dios
+ta ñi dùgu meu ta ñi cùme mogen egn meu cay
+Dios ta ñi pielque, ta ñi aldù digatubuel egn
+meu cay; veycùlu chi pu che ta Dios meu uñol-
+tuuyebulu cageltucabulu pu egn ve, aldùlu chi
+gam quimvoe gechi pu chegam pepilvoe gechi pu Apo
+ca getuuyeygn Dios ta ñi ayùn que llitu moge-
+weygn.
+8 ¶ Cùun gechi pu che meu vachi pu A-
+postol ta ñi quimelquebuel chi dùgu ñivla datu-
+geuyeygn, veymo quidu ñi lihue ta Señor. Iesu
+Christo ñivla ta gucùmuyeygn, vallechi (pu pe-
+ñi ema) ta vill pu Christiano pu che (Santa
+Iglesia pigelu pu egn ve) ta ñi llitulgen, huema
+aldù ayùubuygn ta vill Christiano pu che, qui-
+ñe mo gebuygn, ta raquigen, ta anca tepen, ta
+cullin cay ta ampelquelabuygn vill egn; quiñed-
+quebuy ta vill egn ta ñi duam, ta allculùmin
+quimlùmin ta Dios ñi dùgu, vill pu che meu tą
+ñi quimgeam ta ñi raquigeam ta ñi vfchigeam
+ta ñi ayùgeam cay ta Dios, vill pu che cay ta
+ñi huerilcan meu ta montulgeam, huenu meu
+cay mgengue ñi pratepeam egn. Vadque vill Chri-
+stiano pu che ta ñi mù duam ta ñi mù ampel-
+buel chi dùgu emtvadque,
+9 ¶ Apo Iesù Christo nivbla deu ta ñi la-
+gùmgeyùm ta mari epu Apostol ta Señor Iesu Chris-
+to ta
+
+PAG 63
+DE LA FVUNDACION DE LA IGLESIA.
+to ta ñi quimelel chi pu che cay, vill egn vay-
+quechi ta ñi ayùbium ta Señor Iesu Christo cùme
+duam meu ta ñi lihue ta gucùmuy ygn. Huelu ab-
+nauyelay ca cùme que pu che, Dios ta aldù vay-
+quechi cay ta Señor Iesu Christo cay ta ayùbu-
+lu pu ve. Vùlpauyeygn ta ea que pu Christia-
+no che (pu peñi ema) Santa Iglesia meu aldù-
+lu chi pu Martyr pepi raquituvalnolu ta ñi ño
+aldù geyùm pu egn ve. Vill ta lagùmgebulu
+ta ñi ynatubiùm ta Señor Iesu Christo ñi dùgu,
+pu Martyr pigebuygn, veula cay ta vamgechi
+lagùmgelu, vey pigeygn cay. Vamgeuyey cuy-
+vi San Esteuan ta yunen Martyr lle ve, San
+Lorenço, San Vicente, San Esteuan, aldù cu-
+ra meu utuvrunmageuyey. San Lorenço, ta ñi
+anca vùta qtal meu cancangeuyey. San Vicen-
+te cay deu ta ñi aldù cùt[r]antulgeuyeyùm cha-
+gentugeuyey vill ta ñi anca. Vamgechi cay ño aldù
+huaranca huaranca pu che yavù duam quechi aldù
+vayquechi ta ñi ayùuyebiùm ta Señor Iesu Chri-
+sto villuyeygn; huell pultùlgeuyeygn huell cat[r]elon-
+gogeuyeygn, huell vùta mliu meu ta nananqum-
+geuyeygn, huell labquen meu ta ùtùvnacùnge-
+yùm ùrbiuyeygn, huell vùta qtal meu hueyhuyn
+meu ta ptùgeuyeygn. Vamgechi vill egn aldù
+vfchingechi, aldù ayùngechi, aldù ñongechi ta
+Dios, ta Señor Iesu Christo cay, vey ta ñi piel
+chi dùgu cay ta raquiuyeygn. Vill pu diablo
+vill huera que pu che cay ta ñi cayñeyebueteu,
+tа ñi lagùmquegueteu pu egn ve ta ayeñeùyey-
+gn, tepengechi cay ta nouyeygn, ñobijn ca ñobijn ca
+vachi pu santo pin meu ta pramuyeygn.
+10 ¶ Ca
+
+PAG 64
+SERMON OCTAVO
+10 ¶ Ca cùme que che gebulu cay, Santa
+Iglesia meu, ta huelliñ mapu ùhue gebulu ve,
+ta ñi quidudque mogeam egn yney gechi che meu ñi
+dùgucanoam egu quintubuygn, veymo cay Iesu
+Christo ñivla quidu ta cùt[r]antuubuygn tpùubungn,
+antù pun egu Dios meu ta dùgubuygn. Vam-
+gebuy San Antonio, ca que veymgebulu cay.
+11 ¶ Ca que che cay pu Apostol mgelu vill
+ta ñi cùlliñ, ta ñi pu moñmahue cay ta Señor
+Iesu Christo ñivla ùcalbuygn, aldùlu chi che que-
+yù quiñe ruca meu ta aldù hùymelclechi ta mo-
+gebuygn, Iesu Christo ñi mogen ta ñi mogen meu
+egn ta ynaytuuquebuygn. Vamgebuy S.Benito, Sã-
+to Domingo, San Francisco, San Ignacio cay.
+12 ¶ Ca que pu patiru gebulu cay ta vill
+pu che ñi huenu gen mo, vill ta quimelquebuy-
+gn, magequeel chi Dios ta ñi dugu ta genel-
+dùgubuygn ta ñi quillcael chi pu libro meu ta
+vill ta ñi genelel chi dùgu ta quillcanmauyeeiñ
+meu: va ta Doctores pigebuygn vamgebuy San
+Agustin, San Ambrosio, S.Geronymo cay.
+13 ¶ Pu domo cay ta cùpa pehuentunolù
+ymelclebulu ñi anca mgenque aldùbuy. Vey egn
+cay Iesu Christo ñlvlay ta lagùmgeuyeygn vam-
+gebuy ta Santa Catalina, Santa Ines cay. 
+14 ¶ Vill veychi pu santo ga mn nùtam-
+tubin, veula Dios ta ñi mapu meu aldù tepe-
+quelu Dios ta comutubiùm, veymo cay dùgun-
+maqueeyn meu ta Dios pu egn ve. Vey ñivla
+vill pu egn ta raquiquebijn ta inchiñ, mtùmbijn
+cay ta iñ dùgunmayaaeteu ta Dios, veymo cay
+ta ñi ùi egn meu ta ùielgeiñ, ta lacuyebijn cay.
+Vey
+
+PAG 65
+DE LA FVNDACION DE LA IGLESIA.
+Vey ta ñi pu imagen ta huyricanmagequlu ta ñi
+ad egn mgelu ta niebijn, veychi pu imagen cay
+vachi cùme que pu santo duamtulcaqueeyn meu
+vey meu cay ta veychi pu imagen cay ta ra-
+quiquebijn, ta vey egn meu ta pu santo ta vf-
+chiquebijn cay. Huyricagequelu pu santo ta ma-
+mùll meu rume, ta quillcameu, ta lien meu,
+milla meu chey rume: huelu inchiñ raquiquelabijn
+ta mamùll, ta milla, ta quillca, vill tva raquival-
+nolu, niten pu santo veychi mamùll meu ùyri-
+cangequelu, veychi pu imagen cay ta ñi pu san-
+to mgelu genmeu vey ñivlay ta raquingechi ta vf-
+chiquebijn.
+15 ¶ Veula cay vachi naù mapu meu in-
+chin egu huell ta pu santo mogepelu, Castilla ma-
+pu meu, va meu cay, vey egn aldù ayùquebi-
+lu ta Dios, vey ta ñi piel que ta mogequelu
+egn.
+16 ¶ Inchiñ cay ta vill ta iñ patiru gen
+cuyvi pu santo ta ñi cùme gen meu egn ùiaùla-
+bilijñ rume, huelu vey egn ta ñi quimelcaque-
+buel chi Dios ñi dùgu ta quimqueiñ quimelqueiñ
+cay, vey egn ta ñi pepiun geiñ cay, vey cay
+ta gealis mgenque Santa Iglesia meu abnalayay
+cay ta ab antù cùt[r]u.
+17 ¶ Deuma cay ape vill mapu ta puche
+ta duam gelu vachi Dios ñi piel chi dùgu ta
+ynayquebi, ta pu Apostol ta lauyeygn rume vùl-
+pauyeygn may ta pu Apostol pu Obispo (va ta iñ
+pu chao ta vill inchiñ ta iñ pu Apo llepu egu ve
+pu Apostol ta ñi mlen mlequelu pu ve cay) vey
+egn cay ta ca pu patiru ta Mißalcaquebign
+ca que
+
+PAG 66
+SERMON OCTAVO.
+ca que dùgu cay mù vùtapralu ta vemqueign
+pa ve.
+18 ¶ San Pedro pu Apostol, vill pu Chris-
+tiano che ñi mù apo, ta ñi mlen meu, vùlpau-
+yeygn cay vill pu Santo Papa Roma mapu meu
+ta mlelu pu ve, moll quiñe Papa Señor Iesu
+Christo ñi mlen meu mlequelu cay, vey ñivla
+mgenque re quiñedquey, vill Christiano pu che
+genecavalgey San Pedro mgelu, ñulayam ta ra-
+qùmam ta huenu mapu, gen llaue gelu ve. Va-
+chi Santo Padre Papa ñi piel chi dùgu ta mùpil-
+tuduamnolu, hueluqnobi ta Dios ta ñi piel, He-
+rege pigelu ve, coilla Christiano llechi. Vachi
+pu Hereges meu ñultumn, aldùbuy ta cuyvi vam-
+gechi coilla Christiano geñecaquevoe gechi pu che,
+chay cay aldùy cay, vachi mapu meu ta acù-
+tule egn, veymo Dios ta ñi dùgu Señor Iesu Chris-
+to ñi dùgu cay ta quimelupayaiñ pile egn. Eymn
+vamgechi genetuabimn pu ve, ramtuabimn
+egn. Santo Padre Papa Roma meu ta mlelu
+genecaquebimn cami ta piabimn: mùmay geneca-
+quelabijn pile egn. Vachi dùgu modque, ta ñi coi-
+lla Christiano gen egn, ta mn geñecapaeteu pu
+ve, quimaymn.
+19 ¶ Vachi Santo Padre Papa aldùy ta mn
+ayùeteu votùmyeeymn meu ve, va ta inchiñ
+ta iñ patiru gen, umn ca, chilli mapu meu qui-
+melmebimn ta pu che, pieyñmeu. Veychi Santo
+Padre Papa meu ta Dios ñi mlen meu ta mle-
+quelu ta huercùnmageiñ ta eymn meu ta mn
+quimam ta Dios, ta mn mupiltuam vey ta ñi
+dùgu, ta mn montuam ta huerilcan meu ta mn
+prate-
+
+PAG 67
+DE LA FVNDACION DE LA IGLESIA.
+pratepeam ta huenu meu. Inchiñ ta iñ patiru
+gen ta iñ cùme mogen meu, ùiaùnobilijn rume ta
+cuyvi pu patiru ñi aldù cùme mogen men egn,
+sancto pigebulu pu ve. Huelu allcùmolijn ta
+eymn mùpiltumolijn cay ta eymn, mùpin ta mn
+huerilcan meu ta montulgeaymn huenu meu cay
+pratepeaymn.
+20 ¶ Cochintumn cay va ta iñ pepiun, ta
+iñ elueteu ta Dios ta inchiñ meu, ta entuam ta
+che ñi huerilcan, ta Mißayam cay ta pu che ñi
+dùgunmageam ta Dios meu, ta eymn ta mn
+vla ta elugeuyeyñ, quidu inchiñ may eluvalge-
+labuyñ, pu patiru ta aldù cùmegele egn rume,
+ño aldù gele ta ñi cùme vemel rume elugevalno-
+lu may vachi vùta pepiun, ño aldù moy va-
+chi eun.
+21 ¶ Vey ñivla huell pu patiru ta cùme ge-
+nolu, huera gechi ta mogequelu, ta goyde miau-
+quelu, lien culmegelu ta comutubilmn rume, chem
+quepu ta molay ta ñi Mißaquen egn, ta ñi ùi-
+elquen ta che, ñi confessaquen pipralayaymn. Al-
+dù moy mùpin, chunten moy ta cùme patiru ñi
+Mißaquen, ñi confeßaquen cay, vanten molu
+cay ta huera patiru ñi Mißa, ñi confeßion cay
+Señor Iesu Christo, ta ñi pielque.
+22 ¶ Huelu vachi huera pu patiru vill
+huera que Christiano pu che cay (aldùlu pu ve)
+ta huerilcaquelu, ta ñi huerilcan meu cay ta ca
+que che ta huerilcalcaquebi vill egn Dios ta ñi
+vùta ùllcun meu, mgenquenmayalu chi qùtal
+meu cùt[r]antulgeaygn. Veula may petu moge-
+queiñ ta vachi yune mogen mеu huera quе рu
+che
+
+PAG 68
+SERMON OCTAVO.
+che cùme que pu che meu reyvùlgeygn, chumge-
+chi lepun meu ta cachilla pinu meu ta reyvulgey
+pichulgenon ula. Vamgechi cay ta huera que
+che (ta pinu mgelu) reyvulgey ta cùme que pu
+che meu (vey egn ta cachilla mgelu) vachi
+yune mogen meu (vey may ta lepuùn mgelu)
+petu acùle ula ta ynan antù, ta veymo udalgeay
+huera que pu che cùme que pu che meu (vey-
+may pichuliñ mgealu) Dios may yney mo que
+pu nehuencalabi ta ñi cùme geam, moll quiñe che
+ñi duam gepe va, pij, quidu ñi dullùn ñi ayùnta
+che pituy. Abquechi may udalgele ta huera
+que che ta cùme que che meu. Vey meu cay ùi
+genolu cùt[r]antulgeay infierno meu, huelu mù cù-
+t[r]antulgeay ta Christiano pu che: huera patiru
+cay ño aldù cùt[r]antulgeay ta ñi ynaytunon
+egn meu ta ñi cùme quimbuel ta Dios ñi dù-
+gu.
+23 ¶ Geay may ta ab antù ta ramtupa-
+yam ta vill pu che, cùme culligeam ta cùme
+que che, mgenque ta pratepeaygn, hueluqnoge-
+chi cay ta huera que pu che (Christiano gebulu
+pu ve) mù cùt[r]antulgealu egn, ta quimbulu
+rume egn ta Dios, huelu genecanobubilu ve ùll-
+culcauyebulu may ve. Teye vamgechi huera
+que pu che ga yem, veychi ab antù meu pe-
+geluaygn ta vill pu Angel vill pu che cay ta ñi
+ad meu cay, ta vill egn ta ñi huerilcan ta quim-
+gcay ño magequeel huerilcan gele rume: quiñe hue-
+rilcan quepuhuavùllgelayay, mgenque gehuelayay
+ta montun.
+24 ¶ Eymn cay pu votùm ema aldù man-
+gubimn
+
+PAG 69
+DE LA FVNDACION DE LA IGLESIA
+gubimn ta Dios ta ñi quidu vurenyevoe gechi ge
+meu ta mn nauquintueteu, ta quidu ta ñi pu
+votùm geam ta mn mùtùmvaleteu, Santa Igle-
+sia ñi coñi geam ta eymn cay, huelu ta mn tem
+cuyvi rupalu quidu ta ñi, huerilcan egn meu
+ta ñi lumùdduam gen meu cay ta ùcalbi. Ey-
+mn may ta alelbi ta mùpiltuam vill ta mn
+pibin chi geneugechi dùgu venten tepeucùvalu pu
+ve. Yavùqnogechi mùpiltubimn vill Dios ta
+ñi dùgu, pepi abnoalu ve, vamgechi mgenque
+pratepeaymn huenu meu Dios ta comutubiùm.
+Amen.
+
+SERMON NONO
+DE LA NECESSIDAD
+DE LA, PENITEN-
+CIA, Y SACRAMEN-
+TOS.
+SAnta Escriptura meu, Dios ta ñi
+quillcauyelchi libro lle ve. Santa
+Iglesia meu cay vill ta iñ qui-
+meleteu chi dùgu ta Dios yavù-
+gechiduam meu ta mùpiltuvalaiñ
+ta chunten leù dùgu llechi ta veula ñi antùngen,
+vanten leù gelu, ñochi leu llelu cay ve. Ta pe-
+pi coyllatunolu, pepi geñecanolu chi Dios ñi piel
+em pu ve.
+2 ¶ Vey ñivla ta yneyquechi che ta cùpa
+prate-
+
+PAG 70
+SERMON NONO
+pratepelu mgenque huenu meu, va ta mn qui-
+melbin ta Dios ta ñi dùgu, mùpiltuduamyey. Ta
+ñi gen ta quiñedque Dios, ta vill vemvoe gen,
+vey ta ñi cùla persona gen cay, chao, votùm, Es
+piritu Santo; vey egn ta ñi cùla genmo quiñedque
+Dios may ta ñi gen egn ve. Ta mùpiltuduamyey
+cay. Ta Apo Iesu Christo ta mùpin gechi Dios ta
+ñi votùm gen, ta inchiñ ta ñivla ta ñi chege
+patuuyen ta iñ huerilcan meu ta iñ montulabue-
+teu, ta ñi cùt[r]antulgeuyen cay. Ta mùpiltuduam-
+yey cay ta quidu Iesu Christo modque ta gen ta
+iñ montun. Veychi Apo Iesu Christo meu cay ta
+vill Christiano pu che ta ñi mùpiltuquen, geñma-
+yequen cay ta quiñe che rume cay Christiano ge-
+nolu Señor Iesu Christo meu ta mùpiltunolu ve
+ta ñi huerilcan meu ta ñi pepi montunon, huenue
+meu ñi tepeam mgепque ñi pepi pranon. Mùpiltu-
+duamyey cay. Cùme duamtuymn chey, ta vill
+vachi dùgu ta mù notùmgechi ga mn piuyebin
+ca que pu sermon meu,
+3 ¶ Veula (pu votùm ema) va ta qui-
+maymn ta vill mn pibin chi dùgu ta mn prayam
+ta huenu meu ta mùpiltun, ta munaley, ta ùde
+duamyebin cay ta huerilcan, Dios meu cay ta
+quiñe duam meu ta ùñotuduamyeymn cay. Ta
+huerilcan ta vuñapue mgelu ta ·lan mgelu cay
+ta vuñalpuebi ta pllù, ta lagùmbi cay deuma
+piuyeeymn, ta huerilcan ta aldù ùllcùlcaquebi ta
+Dios, ta cùpa huerilcalu chi che, hueluqnobi ta
+Dios ptùgepe alhue ñi ruca meu ta pigelu deu ta
+ріuраuуeуñ сау.
+4 ¶ Chem cam ta hùerilcan, ta ramtumoan
+chey?
+
+PAG 71
+NECESSIDAD DE LA PENITENCIA.
+chey? ta chumgechi ta ñi gen ta iñ pllù meu ta
+huerilcan ta quimayñ; ta ramtuaymn cay? Pi-
+chique dugu meu vey ta genelduameymn, ta Dios
+ta ñi piel ta chem rume ta hueluquenobilu chi dù-
+gu, vey ta huerilcan gatu. Ta Pillan, ta Mareu-
+puantù cay, ta Huecuvoe cay, ta ùituquen, ta
+vfchiquen, ta calcu pu che ta ñi piel chi dùgu
+ta mupiltuquen, ta genecaquen cay, va tahue-
+rilcan gatu. Ta ca che ta rugùluquen ta lagùm-
+chequen, ta ca che ta ñi domo meu ta miauquen
+ta ca che ta ñi pen ta uyncùquen, ta yùmgechi
+ta allvulchequen, ta huerilcan gatu cay. Ta ca
+che ta huera gechi lucatun ta uñvillchen cay hue-
+rilcan lle ve cay (ta quiñedque dùgumeu ta vill
+tvachi dùgu ta racùmbichi) ta yney quechi che
+ta chumgechi ta quidù ta allvulduamgelay ta ca
+che meu, ta ca che vamgechi ta allvulbi ta, hue
+rilcaquey gatu ve. Va ta Dios ta ñi ùiaùgechi
+piel dùgu cùmel gechi piel chi dùgu cay ta chem
+rume ta ca que pu che meu ta vemgeabun tapi-
+queymi, vey tva cay ta quidu vemaymi ta ca
+pu che meu.
+6 ¶ Iney ta eymn meu ta quiñe chi rume
+chey, aldùchi chey ta huerilcauyelay gatu? Ta vill
+inchiñ ta mgen antù ta huerilcaqueyñ, gelay ta
+che ta huerilcanolu, diablo meu ta geñecagequeiñ
+Va ta iñ anca cay ta huerilcayam ta gùllunaùl-
+caqueeyñ meu, vey ñivia cay ta Dios ta aldù
+nieùllculcaquebijn.
+6 ¶ Ta iñlayael cay, ta minutue meu hue-
+ragechi mapu cay ta iñ ùrcùmabueteu ta genma-
+yepeeyñ meu, ta ca que pu che vamgechi ta ur-
+cùmuyebi,
+
+PAG 72
+SERMON NONO
+cùmuyebi, vill egn cay ta vey mez ta cùt[r]antu-
+gepeygn, mùgenque cay cùt[r]antugeрeaygn pu vе.
+Teye che gayem, ta ñi lan meu ta huerilcan meu
+ta pegealu. Inchiñ ga yem cay ta huerilcan chey
+ta iñ pllù meu ta niebijn, lebgechi cùpayay ta iñ
+lan chey ta iñ duamtunon meu ta quimlayñ.
+7 ¶ Chumayñ cam padre (pimean chey ta
+eymn) ta huerilcan meu ta iñ montuam. Tate-
+pengechi duam meu ta piùayñ. Ta Huerilcapra-
+uyeyñ ta piaymn; ta Señor Iesu Christo ta ñigne-
+lel chi pu Sacramento ta huerilcan meu ta mon-
+tuam ta taùyabimn. Quintu ta mn pu vùcha che
+meu gñecagequilmn, pu calcu che meu cay ta Pi
+llan ta Mareupuantù, ta Huecuvoe cay tahue-
+rilcan pepi entulay ta mn pu nege ta ñi duyùun
+meu pepi tipalay cay ta pu che ñi huerilcan. Vill
+vamgechi dùgu vey egn ta ñi pipraquebuel aldù
+coilla dùgu llechi, aldù gñecandùgu maychi,
+8 ¶ Gelay ta Mareupuantù, gelay ta Hue-
+cuvoe, gelay ta chem chi dùgurume ta Pillangea-
+lu; ta Mareupuantù gealu, ta Huecuvoe gealu
+cay, antù mogelay, duam gelay. Ta mogenolu chum-
+gechi votùmabuy ta mogenolu chumgechi ta mo-
+gelabubi ta che. Eymi ta mi nienoel chi dùgu ca che
+meu ta eluquelabimi, chumgechi ta mogenolu ta
+mogen ta nielay ta pu che meu ta ymelclechi ta
+eluabi ta mogen. Antù mogenolu, vey ta ñi votùm
+cay (votùm gebule rume) ta Mareupuantù mo-
+geabuy: Ta mogenolu cay ta Mareupuantù ta chum
+gechi mogelabueymn meu cay, ta coilla dùgu may
+ta ñi gen ta votùm ta antù. Chumgechi tage-
+lay ta Mareupuantù, vamchi cay coilla dùguga
+tu
+
+PAG 73
+NECESSIDAD DE LA FE.
+tu ta ñi gen ta Pillan gechi dùgu. Huelu vill vachi
+coilla dùgu ca pu Sermon meu ta comutulcageaymn
+ta ñi coilla gen egn.
+9 ¶ Veula mten ta huerilcan meu ta mn chum-
+geael chi dùgu ta entudùgueimn. Vey tvadque, mù-
+duam meu teye vùta Dios meu (ta gen huenu ma-
+pu; ta gen tue mapu cay, ta mn gelcauyeteu lle ve)
+ta uñotuaymn, quidu ta mi quiñedque votùm I.Chri
+sto meu vurenyemoiñ, ta iñ huerilcan ta entumoiñ
+ta piabimn, veymo cay pu votùm ema aldù abcù-
+duam gechi ta huerilcaprauyeyñ ta piaymn quiñe
+duam meu cay ta huerilcauyen, huerilcauyen, huera
+gey ta ñi vemeuyeel, aldù cùt[r]antuvalgen ta ñi ven-
+ten ta ùllculcauyebiùm ta Dios, vey ta ñi piel cay
+ta ñi hueluqnouyebiùm cay, ta piaymn. Veymo cay
+chay cùtu cùpa huerilcauhuelayaymn, chem chi hue-
+rilcan rume vemhuelayaymn, va cay ta Dios meu
+ta piabimn. Ca getuan chay cùt[r]u Dios ema, cuyvi
+ta ñi hiera vemquebuel ta vemtulayan, ta cùme-
+getuan, ta mi piel ta genecayabin moll quiñe eymn vill
+tva piay.
+10 ¶ Huente vachi dùgu meu cay, ta ùige-
+nolu ula ta eymn meu ta Santo Sacramento baptismo
+pigelu ta taùyabi Christiano getuchi, baptizalgellechi
+ùielgellechi pige, Espiritu Santo ñi co meu quechage-
+llechi, ta ñi entunmagean ta ñi huerilcan ta Dios ta
+ñi votùm getuam, ta pipe cay ve. Huelu deuma
+ùigelu baptizalgelu ta eimn meu, deuma ta ñi bap-
+tizalgeuyeùm cay ta huerilcatulu, vill ta mn hueril-
+can yavu gechi duam meu ta Patiru meu ta Dios ta
+ñi mlen meu ta mlequelu. ve ta cùpa confeßayay. Va
+cay cay ta piabi, ta iñ Apo Iesu Christo ema, inche ta
+ñi aldù huerilcavoe gechi che geyùm, petegepe pivalgen
+ta eymi meu, huelu patiru meu nùtamtuabin vill ta
+ñi
+
+PAG 74
+SERMON NONO
+ñi huerilcan, quidu ta mi pepilvoe gechi dùgu modque
+ta ñi entuaeteu ta ñi huerilcan, ta patiru cay vemge
+ta ñi piacteuchi dùgu ta ñi huerilcan meu (va ta) pe
+nitencia pigelu, ta opulgechi ta genecayabin.
+11 ¶ Vallechi pu peñi ema ta chumngey ta che ta Dios
+meu ta ñi uñotun, ta chumgechi cay ta che tañi perdo
+nanmageam ta ñi huerilcan ta huerilcaprauyen ta
+pin. Genon cay va ta mn pibin chi dùgu quiñe che
+rume huerilcan meu pepi tipalayay vey ñivlay chay
+cùt[r]u veula cùt[r]u cay ta Dios meu uñotumn ca, ta hue
+rilcan meu ta mlehuequilmn. Mùgen pun meu cay ta
+mn umaùtunon ula, vill ta mn huerilcauyeel veychi
+antù meu ta duamtumnca, ta mn quimelbin mgelu ta
+entumoiñ ta iñ huerilcan ñellipubimn ta Dios meu. Ta
+Dios ta aldù vurenyechevoegey, ta huerilcavpe gechi
+ta ñi lan ayùlay ta Dios ta che ñi uñotunquidu meu
+tañi mogen cay ta ayùy ta Dios. Vey ta ñi piel cay inche
+ta huerilcavoe gechi pu che ta ñi abquiduamam, ta
+ñi huerilcan meu mtùmpabin tapijta S. Iesu Christo.
+12 ¶ Ta aldù gele rume ta ñi huerilcan ta che, ta
+mu vuta gele rume cay. Ta quidu Dios meu uñotule
+ta Dios ta perdonayabi; labquen cuyen meu no al-
+dù gele rume ta huerilcan ta vùta que pu ma-
+huyda meu ño aldù vùta gele rume ta che ñi hueril-
+can ta vill ta entuaeyeu ta Dios, ta quiñe duam meu
+huerilcaprauyen pile, ta chay cùt[r]u huerilcahuelayan
+ta pile cay, ta tepan meu ta patiru meu ta confeßaya-
+bin ta pile cay ve.
+13 ¶ Cuyvi quiñe vùta Rey Dauid pigebulu ta da-
+mentuuyey ta lagùmcheuyey cay, huelu gmangechi
+bеrilcaprauуеn tа рiuyey, vey ñivla pеrdоnаuуeeyeu
+ta Dios.
+14 ¶ S.Pedro Apostol cay tañi cùt[r]antulgepeyùm ta
+S. I. Christo aldù huerilcauyey, a cùla chi ta quimla-
+bin
+
+PAG 75
+NECESSIDAD DE LA PENITENCIA.
+bin ta Iesu Christo ta piuyey huelu S. I. Christo, tañi vù
+renyevoe gechi ge meu leli quintuuyey ta S. Pedro vey.
+ñivla, ta ñi cùme duam meu ta uñotuy ta vurùngechi
+ta gmauyey veychi tañi gùman meu ta Dios perdonau-
+yeeyeu cay.
+15 ¶ S.I. Christo meu epu chuquique[vo]e gechi pu che ta
+clauo tcugepe pùltelgepe ta pigeuyelu. Vachi epu meu qui-
+ñe pùltelgepeyùm cruz meu ape layùm, huerilcaprauyen
+ta pin meu ta, vùrenyeen, ta S.I. Christo meu ta piuyebi
+veymo S.I. Christo perdonaeyeu ve, veychi antù cay
+[nalta.] ta ñi anca meu tipauyey ta veychi chuquiquevoe ta
+ñi pllù ta S. I. Christo, ta Dios meu comùtulcauyeyeu ve.
+Quidu Dios cay ta ñi pu Profeta [meu] va ta ñi piuyeel,
+huerilcavoe gechi che ta iñche meu ta uñotule tañi hue-
+rilcan meu cay ta eyutule, naltahuerilcaprauyen ta pile
+ta perdonayabin. Año cochùgechi apo Iesu Christo ema,
+ta iñ huerilcavoe gechi che ñivla ta lauyeymi; ta iñ hue-
+rilcan ñivla ta mi mollvùn ta ulbimi, depùlentumoquilijn
+tahuerilcavoe pu che ta inchiñ gelijñ rume, huelu eymi
+meu ta montuam ta iñ huerilcan meu ta chumayñ ta
+ramtupaeymi.
+16 ¶ Va cay ta quimaymn (pu peñi ema) ta Ierusalem
+cara meu gebuy ta quiñe aldù huerilcavpe gebuchi domo
+Maria Madalena pigebulu ve, S. I. Christo ta ñi Sermon
+meu ta ñi piquebuel chi dùgu quiñe antù meu ta allcuù-
+yey, veychi, domo. Vey ta ñi dùgu meu ta nogeuyelu ve,
+ta ñi duam meu ta cagetuy. vey meu cay veychi an-
+tù ñi ruca meu ipage ta inche meu ta S.I. Christo meu,
+ta quiñe Fariseo ta piuyebueyeu. Vey ta ñi quimyùm ta
+veychi domo vachi Fariseo ñi ruca meu ta S. I. Christo
+quintumeuyebi, poutuy veychi ruca meu, petubi cay ve,
+ta aldù abquiduam meu yehuen meu cay ta S. I. Christo ñi
+vùri anca meu, vey ta ñi namon meu cay ta veychi do
+mo tanaùuyey, venten cay ta gùmauyelu ve: ta ñi al-
+dù
+
+PAG 76
+SERMON NONO.
+dù gebuchi củlle meu S. I. Christo ta ñi namon ta que-
+chabubi ta ñi vùta que longo meu ta gùlludububi cay,
+ta vochidbubi cay ta ñi uùñ meu pu ve. Veychi Fari-
+seo may, caque pu che cay ta veymo ipabulu pu ve, ta
+comutubiùm v[ey]chi domo ñi vembuel em huera ùlme-
+yeuyebign ve. H[ue]lu veychi domo chupinobulu, chem ru
+me ta tavdugulabuy pu egn meu, S.Iesu Christo, may ta
+taydùgunmauyeeyeu chaùtunmauyey cay ve. Vill tañi
+huerilcan ta vey chi domo ta ñi venten abquiduam ge-
+yùm ta ñi huerilcan meu, ta huerilcaprauyen ta ñi
+cut[r]anduam meu ta ñi piel meu cay, ta ñi ño aldù ayùbiel
+meu ta Dios, vachi veula ta perdonanmageuyey, ta piu-
+yey ta S. I. Christo.
+17 ¶ Vachi domo ynaytubimn cay ta vamgechi cay ta
+eymn ta mn vemuyeel chi huerilcan meu ta yehuemnca,
+ta mn venten ùllculcauyebiùm ta Dios gùmamnca, ta
+mn venten hueluqnobiùm cay tañi piel, ta ñi aldù mo u
+chi mollvùn meu ta perdonanmamoiñ ta pibimn ñellipu-
+bimn cay ta Dios.
+18 ¶ Ta vey tva quidu Dios ñi votùm ta eeymn
+meu, llecùpamn inche meu, ta quiñe huerilcavoe gechi
+che ta inche meu ta uñotulu meu aldù tepequen, ta aldù
+cùmegechi pu che meu ta venten tepequelan, ta pieymn
+meu cay ta S. I. Christo. Ta chumgechi ta chica miaulu chi
+yvum ta cùme gechi yvumcamañ ta quintumebi, ta pe-
+dabiùm ta panetubi, vamgechi cay ta S. I. Christo chi-
+camiaulu chi huerilcavoe chi che quintupauyebi, ta qui-
+du meu ta uñotulbi, panetubi cay veymo cay ta
+huenu meu aldù tepelbi. Vey iñvla uñotumn
+Dios meu, tepeaymn mgenque huenu
+meu. Amen.
+LAVS DEO.
+

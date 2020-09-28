@@ -1,0 +1,2205 @@
+CHM  
+-Corpus of Historical Mapudungun (Corpus Histórico del Mapudungun)
+https://benmolineaux.github.io/bookshelf/
+--------------------------------------------------------
+TEXT: 17 (Mapudungun)
+TITLE: Compendio de Historia Sagrada / Nidolke dəŋu Dios ñi Nùtram
+AUTHOR: Félix José de Augusta
+YEAR: 1903 (1st Edition)
+PRINTED IN: Freiburg im Breisgau (Tipografía Pontífica B. Herder)
+CATEGORY: Religious Texts
+ORIGINAL DOCUMENT: 
+DOCUMENT SCAN: 
+TEXT OCR: Google Cloud Vision
+OCR CORRECTIONS: Benjamin Molineaux
+ENCODING: Unicode (UFT-8)
+WORD COUNT: 12,000 (approx)
+VERSION: 0.1 
+--------------------------------------------------------
+COMMENTS: 
+--------------------------------------------------------
+PAG I
+Nidolke dəŋu Dios ñi
+Nùtram
+pu Chilemapuche ñi dəŋun meu.
+Ñi rulpaqel ta
+P. Félix José de Augusta,
+Misionero Apostóliko Kapuchino, Baviera provincia meu tuulu.
+Knecht, Friedrich Justus
+TIPOGRAFIA PONTIFICIA DE B. HERDER.
+FRIBURGO DE BRISGOVIA (ALEMANIA).
+1903.
+
+PAG II
+COMPENDIO
+DE
+HISTORIA SAGRADA
+para
+uso de los niños que frecuentan las escuelas católicas.
+Por el
+Ilm̃o. Sr. Dr. D. Federico Justo Knecht,
+Obispo auxiliar de Friburgo.
+Edición araucana de
+P. Félix José de Augusta,
+Misionero Apostólico Capuchino, de la provincia de Baviera.
+TIPOGRAFÍA PONTIFICIA DE B. HERDER.
+FRIBURGO DE BRISGOVIA (ALEMANIA).
+1903.
+
+PAG III
+Nidolke dəŋu Dios ñi
+Nùtram
+pu Chilemapuche ñi dəŋun meu.
+Ñi rulpaqel ta
+P. Félix José de Augusta,
+Misionero Apostóliko Kapuchino, Baviera provincia meu tuulu.
+Knecht, Friedrich Justus
+TIPOGRAFIA PONTIFICIA DE B. HERDER.
+FRIBURGO DE BRISGOVIA (ALEMANIA).
+1903.
+
+PAG IV
+Imprimatur.
+Friburgi Brisgoviae, die 20. Aprilis 1903.
+☨ Thomas, Archiep̃ps.
+En virtud de las presentes y por lo que á Nos toca concedemos
+facultad para imprimir el librito titulado
+Nidolke dəŋu Dios ñi Nùtram pu Chilemapuche
+ñi dəŋun meu
+ó sea traducción al idioma araucano del "Compendio de Historia
+Sagrada por el Ilm̃o. Sr. Dr. D. F. J. Knecht", hecha por Nuestro
+encargo por el R. P. Félix José de Augusta, Misionero Apostólico
+Capuchino de la Prefectura Apostólica de Araucanía, siendo que
+no contiene cosa contra la fe y las buenas costumbres.
+Valdivia á 11 de Mayo de 1902.
+Fr. Burcardo Ma. de Roettingen,
+Prefecto Apostólico Capuchino y Superior Regular (l. i.).
+Todos los derechos reservados.
+Tipografía de B. Herder en Friburgo de Brisgovia.
+
+PAG V
+Á
+Dirección
+LA DISTINGUIDA SEÑORA
+DÑA. ISABEL CORREA V. DE IRARRÁZAVAL,
+GENEROSA FUNDADORA Y DIGNA PRESIDENTA DE LA SOCIEDAD PROTECTORA
+DE ESCUELAS INDÍGENAS EN SANTIAGO DE CHILE,
+DEDICA ESTE LIBRITO COMO DEBIL MUESTRA DE RESPETO Y GRATITUD
+EL AUTOR.
+159486
+
+PAG VI
+[BLANK]
+
+PAG VII
+Introducción.
+El presente opúsculo es una fiel traducción, en
+cuanto lo permite el genio del idioma araucano, del
+"Compendio de la Historia Sagrada para el uso de los
+niños que frecuentan las escuelas católicas, por el Ilm̃o.
+Sr. Dr. D. Federico Justo Knecht, Obispo auxiliar de
+Friburgo. Adornado con 46 grabados. Edición espa-
+ñola de D. Vicente Ortí y Escolano."
+Esta traducción al idioma araucano, se ha hecho prin-
+cipalmente con el fin de facilitar al Misionero la ins-
+trucción de los indios en la historia de nuestra salva-
+ción, y para ponerla en manos de la juventud araucana
+que asiste á las escuelas misionales.
+El indio, casi por regla general, prefiere libros
+escritos en castellano, á pesar de que, al llegar á nues-
+tros colegios, ignore la mayoría de ellos este idioma.
+Después de un año, ya el indio habla y lee bastante
+el castellano; mas no para que pueda entender el texto
+castellano del Catecismo é Historia sagrada. Y, como
+casi la totalidad de los indios deja á sus hijos sólo un
+año en nuestros colegios, es necesario enseñarles, ante
+todo, las verdades de nuestra santa religión, en su
+propio idioma; enseñarles á leer, además del castellano,
+
+PAG VIII
+el araucano, poniéndoles un texto de este idioma en
+sus manos, para que, retirados de los colegios misio-
+nales, sigan cultivando su espíritu en las verdades de
+la historia de nuestra salvación.
+Los niños araucanos que quedan más años en los
+colegios misionales, hablan bien el castellano, y por
+tanto no tienen necesidad de un texto araucano, mas
+este, sin embargo, les servirá de fiel amigo que les
+acompañará á sus chozas tristes, donde pueden leer y
+enseñarlo á sus parientes y conocidos que no entiendan
+el idioma español.
+Viven además entre los infelices indios no pocos
+españoles de buen corazón que hablan el araucano, los
+que sabrán, sin duda, aprovecharse de esta Historia
+Sagrada araucana para instruir en ella á sus conocidos,
+ayudando así á la obra del Misionero á quien le es
+imposible penetrar en todas las chozas por las enormes
+distancias que separan las unas de las otras.
+Para conseguir estos fines fué menester adaptar la
+traducción al carácter de la lengua y al modo de ex-
+presarse de los araucanos.
+En esta traducción me ayudaron eficazmente dos
+indígenas católicos, Pascual Segundo Painemilla Ñ (so-
+brino de cacique) quien posee bastante bien el castellano,
+y José Francisco Kolùñ, un pobre ciego, que también
+lo habla. Parece que la traducción ha acertado bien el
+modo de expresarse de los araucanos, porque, al leérsela
+en mi capilla de Wapi, me interrumpieron muchas veces,
+
+
+PAG IX
+exclamando con entusiasmo: sí, sí, así habla el ma-
+puche (indígena).
+Es de lamentar que en cada publicación hecha en
+idioma araucano, los autores se hayan servido de otros
+caracteres para expresar ciertos sonidos propios del
+lenguaje araucano, y, con el objeto de establecer más
+uniformidad, me puse de acuerdo con el célebre arau-
+canista Dr. D. Rodolfo Lenz, cuyo método me parece
+ser el más adecuado para reproducir los sonidos pro-
+pios del idioma. En verdad no es cosa fácil inventar
+caracteres que armonicen á la perfección con el deli-
+cado oído del araucano, el que rechaza, principalmente
+el ignorante, todo sonido no adaptado á su claro tímpano.
+
+I. Letras que se pronuncian como en castellano:
+Vocales: a, e, i, o, u.
+Consonantes: f, ch, l, ll, m, n, ñ, p, s, t, y.
+
+II. Letras que expresan sonidos propios del idioma
+araucano :
+d – semejante á la z castellana, á la th inglesa y
+á la d castellana.
+ə -- muy breve, la e muda del francés.
+ŋ - la ng alemana o la n castellana en banco,
+blanco, gringo.
+k - señala el sonido de c castellana en ca, co, cu
+y de qu en que, qui, y se escribe ka, ke, kə,
+ki, ko, ku, kù.
+
+PAG X
+l· - l pronunciada colocando la punta de la lengua
+entre los dientes.
+ll - al fin de la sílaba : la lengua por su parte ancha
+toca al paladar.
+n· - n pronunciada colocando la lengua entre los dientes.
+ñ -- al fin de la sílaba: la lengua toca al paladar
+por su parte ancha.
+q -- es la û de Havestadt, ù como consonante, suena
+parecido á g mal pronunciada. 
+r - muy suave.
+ʃ - j francesa en jeune, sch alemana, pero más suave.
+tr - la punta de la lengua se aprieta bien contra el
+paladar arriba de los dientes y se produce un
+sonido de ch lanzándolo por los dientes superiores.
+ù - una especie de ü muy sorda, sonido intermedio
+entre u é i, los labios más ó menos como i; el
+dorso medio de la lengua se encorva hacia el
+paladar como para la g de gana, pero sin tocar
+el paladar, acercándose mucho sale la q, seme-
+jante á la g chilena en gana (Dr. Lenz).
+v - bilabial, tiene sonido de f, en algunas regiones
+la reemplaza.
+w -- como hu en huevo, huaso.
+
+III. Letras que suelen trocarse mutuamente:
+1. ə, ù; 2. d, r, ∫; 3. t, ch; 4. t, tr; 5. o, u.
+El autor.
+
+
+PAG 1
+
+Ñi nùtram Kuifi Testamento.
+
+1. Elgen mapu.
+
+Ñidol meu Dios elí wenumapu eŋu tuemapu kai.
+Tuemapu dumiñkəlefui, triltraŋkəlefui ka wellilefui.
+Feimeu fei pi Dios: „Məlepe pelon". Ka pelonŋetui :
+fei wənen antù ŋefui.
+Epuŋelu antù meu pi Dios: „Məlepe kallfù wenu."
+Ka feikachi wefrumei feichi tutelu kallfù wenu.
+Kùlaŋelu antù meu pi Dios: „Kom tuemapu meu
+məlechi ko kiñe meu ŋəlpe, ka wefpape yafù mapu."
+Ka felefui. Ka Dios aŋkùlechi pùlli „mapu" pifi, ka
+ŋəlpeyùm ko l·afken·." Ka fei pi Dios: „Yallpe mapu
+meu kachu, fen· ka aliwen." Ka felefui. Mapu karù-
+letui ka wəlí fən· ka aliwén.
+Meliŋelu antù meu pi Dios: „Məlepe kùde wenu."
+Ka femŋechi felefui. Dios elfi antù, kùyen· ka waŋəl·en
+ñi peloŋeam mapu.
+Kechuŋelu antù meu pi ta Dios: „Məlepe challwa
+pu ko, ùñəm miaupe n·eyen· mapu meu." Ka Dios elfi
+challwa ka mopùŋelu fùchakeñma ka pichikeñma.
+
+PAG 2
+Kayuŋelu antù meu pi Dios: „Wəlpe mapu fill
+kakeumechi kulliñ." Ka wefrumei pu kulliñ. Iñaŋechi
+Dios elí che.
+Reqleŋelu antù meu ùrkùtui Dios ka kùme piñmafi
+ka santulfi təfachi antù.
+
+2. Elŋen pu ánjel ka ñi trananaqu.
+
+Ka femŋechi Dios eli fùcha trauwən kùrəfŋelu ka
+pefalnulu, „ánjel" pikefiiñ: ñidol meu kùmeŋefuiŋn ka
+kùme pəllilefuiŋn.
+
+PAG 3
+Welu fentren ánjel malmaŋetuiŋn ka mailaiŋn ñi.
+taŋkùafiel ta Dios. Feimeu Miguel eŋn kùmeke pu
+ánjel lefkontufiŋn wedake pu anjel ka ùtrəfentufiŋn
+wenumapu meu ka tranantǝkufiŋn kùtralmapu meu.
+Ñi ñidol wedake pu ánjel „Satanás" piŋei, fill wedake
+pu ánjel „wekufu" piŋeiŋn.
+Kùmeke pu ánjel lloufiŋn Dios meu mañumtu reke
+rumel trùyùwǝn dǝŋu.
+
+3. Elŋen che. - Paraiso.
+
+Feichi meu Dios elfi ta che, deumañmafi ñi aŋka
+pel·e tue meu ka n·eyùntəkulelfi l·afalnuchi pellí. Fem-
+ŋechi lloufi ñi moŋen ta che; ùieleyeu Dios, „Adán"
+piŋei, tue meu deuchi che ñi piŋeafel.
+Dios elfui che fəla kiñe mǝte tutelu malaltekumapu,
+fei meu fill kakeumechi mawida mǝlefui, „paraiso" piŋei
+feichi fùcha malaltǝkumapu. Dios elkǝnofi feichi wentru
+raŋiñ paraiso meu, ka fei pifi: „Fill mawida ñi fən
+iaimi, welu raŋiñ paraiso meu melechi fùcha mawida
+fei ñi fən· məten ilaiafimi; feichi antù meu ifilmi,
+l·aiaimi."
+Adán piŋechi wentru məten kidulefui. Feimeu Dios
+fucha umaqelkənoeyeu, nentuñmaeyeu ñi kiñe kadi,
+feichi kadi meu deumaŋei feichi domo che. Feimeu
+Adán ayùui, ka elelfi ùi, „Efa" pifi: fill moŋechi che
+ñi ñuke ñi fei piŋeken.
+Adán eŋu Efa məte kùme felefuiŋu paraiso meu.
+
+PAG 4
+
+Santu ŋeiŋu ka nor kùme che ŋefuiŋu, ka illulafuiŋu
+wedake dəŋu.
+„Kùme dəŋuyefiŋe Señor, tañi pəlli, ka ŋoimañ-
+makifilmi ñi kùmeke dǝŋu tami lloumom" (Salmo 102,2).
+
+4. Ñi werilkan che.
+
+Apochi itrùrùn meu leliniefeyeu wekufù ñi kùmelen
+Adán eŋu Efa, ka ñi ŋənenkalŋeal eŋu inkatunei iwai-
+filu. Fei təfa fei pifi domo che: „¿Chumŋelu kam
+katrùtukeimu meu Dios tamu inoafiel kom mawida
+ñi fən·?"
+Feichi domo che lloudəŋui: „Iñchiú ikeiyu kom
+mawida ñi fən·, paraiso meu məlelu, welu raŋiñ
+paraiso meu məlelu fei ñi fən·" katrùtueiyu meu Dios
+tayu inoafiel tayu l·anoam." Femŋechi lloudəŋuŋei
+feichi wekufù.
+Iwaifilu ka dəŋui: „Chumŋechi no rume l·alai aimu,
+welu nùlaiai mu ŋe ka Dios femŋeaimu," pi təfachi
+iwaifilu.
+Feimeu feichi domo kintuwəlfi feichi fən· mawida,
+mətewe illufalfui ka aifiñkəlefui, feimu ka nùfi ka ifi.
+Ka rurelpafi ñi fəta, ùiaq femŋelu iŋu.
+Feimeu mùlai ñi ŋe yeŋu, ka kimiŋu ñi
+kəlen eŋu. Apochi yewen meu damifiŋu tapəl higuera
+ñi takuam eŋu. Ka feichi allkùñmafiŋu ñi dəŋun Señor,
+llumiŋu paraiso meu məlechi mawida meu.
+
+PAG 5
+
+Welu Señor Dios mətrəmeyeu eŋu, fei piŋei: „¿Adán
+cheu məleimi?"
+Adán lloudoŋui: „Llùkan tañi triltraŋkəlen meu,
+feimeu ellkaun."
+Dios fei pi: „Inei ,triltrankeleimi' pieimeu? Rəf
+felerkei mai tami ifiel feichi fen: mawida, ilaiafimi'
+pieiyu ya," piŋei Adán.
+Adán lloudəŋui: „Təfachi domo elueneu, feimu in,"
+piŋei ta Dios. Feimeu Dios fei pifi feichi domo che:
+Chumnelu kam femimi?“ Domo che lloudəŋui: Iwai-
+filu nonenkaleneu, feimeu in."
+5. Dios nalkei werilkan ka „werkùafiñ
+Montulchefe" pikei.
+Feimeu Señor Dios fei pifi iwaifilu: Femŋechi tami
+femn meu maliciaŋeaimi raŋiñ fill tuemapu meu məlechi
+kulliñ. Elafiñ tamu kaiñewen ŋeal feichi domo eimu.
+Feichi domo trafokaloŋkoaimeu.
+Ka fei pifi Dios feichi domo: „Kutranŋekechi pəñeñ-
+aimi ka ùtrəfnaqkəleaimi ñi pepiluwen meu mi fəta,"
+piŋei feichi domo.
+Adán ka fei pieyeu Señor: „Maliciaŋeai mapu
+eimi tami kulpan meu, lleqai wayun· ka troltro feichi
+kom mapu meu. Arofùn meu tami tol· weuaimi
+kofke, wəñoamutulmi wəla cheu tami wefmomchi
+tue pùlli meu. Eimi mai tue yem ka tue ŋetuaimi
+kai."
+
+
+PAG 6
+
+Wəla Dios trəlketakunkənulelfi Adán eŋu Efa, ka
+ùtrəfentufi paraiso meu.
+
+6. Kain l·aŋəmi ñi Abel peñi ka naleyeu Dios.
+
+Adán eŋu Efa niefui epu yall. Wənen Kain piŋefui
+ñi ùi, inanŋelu Abel piŋefui. Təfa nor kùme wentru
+ŋefui, welu Kain wedañmaŋefui.
+
+Kiñe antù ùiaq elelfi sacrificio Dios eŋu. Kain
+elelfi fən· mapu, Abel doy kùme cordero dullí ñi ofisa
+meu. Señor leliwəlfi Abel, ka lloumafi ñi sakrificio,
+PAG 7
+welu Kain ka ñi sacrificio leliwəlafi ; fei mi fəla illkui
+Kain, ka chodkənuui ñi aŋe.
+
+Señor fei pifi Kain: „¿Chumŋelu kam illkulei-
+mi ka chodkəlewei tami aŋe? Kùme femfulmi,
+llouafuimi mañumtu, welu weda femkeimi, feimeu
+kastiqaŋeaimi. Katrùtufiŋe ka ŋənefiŋe tami wedá
+illuken."
+Welu Kain allkùñmalafi ñi pieteu Señor. Kiñe antù
+fei pifi ñi peñi: „Wekun tripaiaiyu," ka məlepulu lelfùn
+meu lefkontufi ñi peñi ka l·aŋemfi.
+Feimeu Señor Dios fei pifi Kain: „Cheu məlei mi
+
+Abel peñi?" Lloudəŋueyeu Kain: „iñche kimlan, ¿iñche
+kam kuidapeñiken?", pi Kain, piŋei ta Dios.
+Ka feimeu fei pi Dios: „¿Chumimi kam? Ñi moll-
+fùñ tami peñi wirárùkei mapu meu iñche pəle. Mali-
+ciaŋeaimi tue mapu meu. Chem kùdaualmi rume, elulai-
+aimeu fən·. Miaupədaiaimi ka lefkiauaimi wenté mapu
+meu. Feikachi Kain tripai ñi ad meu Señor ka miau-
+pədai, welu təŋkəlewəlai.
+
+7. Poyediosfe Noé deumakei kiñe nafíuruka,
+arka piŋelu.
+Adán eŋu Efa fentren mǝlefui ñi kake pu fotəm
+ka ñi pu ñawe kai, ka femŋechi fillantù doy al·ù yallí
+pu che. Welu ka femŋechi tremkəlefui kai ñi wedan-
+maŋen eŋn. Feimeu fei pi Dios: „Ñaməmafiñ pu che
+tue mapu ñi ad meu pin."
+Raŋiñ wedake pu che meu moŋelefui kiñe poye-
+diosfe, nor kùme wentru, Noé piŋelu. Fei meu fei pi
+Dios: „Deumaŋe kiñe fùcha nafíuruka, maməllŋeai,
+wekun ka ponwi ŋəl·fùafimi ùpe meu. Wenté meu
+fentanaŋeai, kadil meu puertaŋeai. Werkùafiñ mai
+kiñe fùcha maŋin wenté tuemapu meu: tunten məlele
+fei meu, apomŋeai. Welu eimi tami pu kuñilkəlen
+konaimi feichi nafíuruka meu, ka yeafimi re epuke fill
+kakeumechi kulliñ ka eimi mi iaqel ka feichi kulliñ
+tañi iaqel."
+Noé femí chumŋechi ñi pieteu Dios. Fentren tri-
+pantu kùdautui ñi deumaiafiel ñi rukanafíu. Petu ñi
+
+PAG 9
+
+femn ŋùlamtukefui pu che ñi wəñoduamam eŋn. Welu
+allkùñmaŋelai, re duamyekefuiŋn mai ñi iaqel, ñi pùtual
+ka ñi trùyùwəlkaual eŋn.
+
+8. Fùcha maniñ ko.
+Feimeu Señor fei pifi Noé: „Konaimi arka meu.
+Iñche naqəman mawən· wenté tue mapu meu meli mari
+antù ka meli mari pun· kai, ka itrokom moŋelelu
+ñamomŋeai tue mapu ñi ad meu.
+Noé koní arka meu, fei ka ñi kure ka ñi kùla
+fotəm ka ñi kùla pùñmo ka pu kulliñ kai, chum-
+ŋechi ñi pieteu Señor, ka Dios nùrəfkənofi ñi arca
+wekun pəle.
+Feimeu nùlai kompəle kom wifko miñche meu məlelu
+ka naqí mawən· meli mari antù ka meli mari pun· kai.
+Maŋiñ ko tremyekùmei pichike pichike ka wenuntufi arka
+wenté ñido mapu meu. Ka pərapui mari kechu truli-
+truli wente doi fùchakeprachi mawida meu, ka feichi
+arka kənayùi wenté ko.
+Feimeu apəmŋei itrofill moŋelelu wenté tue mapu
+meu, che yeŋn ka kom kulliñ, feichi kom ùnəm
+miaukelu n·eyen·mapu meu ken·ù tue meu məlechi
+
+kom piru. Noé məten moŋelewefui ka arka meu
+məleyelu eŋn.
+„Kùme pəllikei che llùkafilu Señor“ (Salmo 111, 1).
+
+9. Noé tripai ñi arka meu ka elelkefi Señor
+kiñe sakrificio.
+
+Kine pataka kechu mari antù məlewerpukafui ko
+wenté tue mapu meu. Feimeu Señor Dios witrañprami
+kiñe fùcha kùrəf wenté tue mapu, ka maŋiñ ko wall-
+
+PAG 12
+
+witmaui pichike pichike, ka feichi arka anùnaqí wenté
+kiñe mawida meu.
+Feichiwe meu feichi mapu kom piwəletui, feimeu
+Dios fei pifi Noé: „Tripaŋe arka meu tami pu kuñù-
+lemn ka fill pu kulliñ."
+Apomañumn meu Noé witrakənui kiñe altar ka
+elelfi Dios kiñe sakrificio. Señor llowí təfachi sakrificio
+elí wenu kiñe relmu, ñi pedan dəŋu kimelkefui ta təfa
+ka „doi werkùwəlaian tunten meu no rume mapu meu
+ka femŋechi fùcha maŋiñ," pi ta Dios kai.
+
+10. Ñi mətrəmŋen Abrahán.
+Mùchai məten al·ùtui Noé ñi kùpal, welu werilkan
+doi al·ùyekùmei. Pu che mailaiŋn kimafiel mupiñ Dios,
+ka adoraiafulu Elmapufe weluadorakefuiŋn Dios ñi elel
+ka fentreken rupa pəlliŋenuchi adentun dios.
+Feichiwe meu moŋelefui Ur piŋechi mapu meu poye-
+diosfe Abrahán. Fei dəŋueyeu ta Dios: „Tripaŋe tami
+chau ñi mapu meu, ka amuŋe feichi mapu meu, iñche
+peŋelaiyu. Ayùn tami chauyeyateu kiñe fùcha kùpal,
+ka kùme piñmaiaiyu."
+Abrahán feyentui Señor meu, ka amui Kanaán piŋechi
+mapu meu. Fei meu púuulu peufalueyeu Señor ka fei
+pleyeu: „Təfa ñi məlen feichi mapu, eluafiñ tami yallel."
+Feichi meu ùiŋei təfachi mapu: feichi ayùn mapu
+kam wəlkənuelchi mapu piŋerpui, ñi eluayu pikənueteu
+ta Dios Abrahán ka ñi kùpal ta təfa.
+
+PAG 13
+
+Ka pichin meu ka peŋeluí Señor Abrahán meu, ka
+fei pifi: „Kùpa elken pedan dəŋu eimi meu. Eimi meu
+məlean ka mi yallelchi pu che meu. Ka eimn serfi-
+moan tamn Dios reke, fei ta iñche. Señalŋeam fei
+tayu pedan dəŋu wallkatruñmaŋeai tamn pichike pu
+wentru pura antù meu ñi lleqmom eŋn.
+
+11. Abrahán maḯ wəlalu ñi Isaac fotəm
+sakrificio meu.
+Feichi meu Abrahán trafmai ñi pataka tripantu,
+feimeu niefui kiñe fotəm, elelfi ñi ùi, Isaak piŋei, ka
+wallkatrùñmafi pura antù meu ñi lleqmom.
+Petu tremlu təfachi weche Dios kùpa ŋeneduamfi
+Abrahán ka fei pifi kiñe pun·: „Abrahán nùŋe mi kiñen
+Isaak fotəm tami ayùn, pəraŋe Moria mawida meu, ka
+tié meu elkanofiŋe sakrificio meu l·aŋəmalchi kulliñ
+reke."
+Wùn·man meu witrai Abrahán, tufi maməll sakri-
+ficio ka panùkənulfi ñi Isaak fotəm. Abrahán kidu yei
+kuchillo ñi kuq meu ka kùtral yei ñi duamyeafiel sakri-
+ficio meu.
+Rəpù meu amulelu eŋu: „¡Chau em!", pieyeu ñi
+fotəm. Abrahán lloudəŋui: „¿Chem duamimi, fotəm?"
+pi. Isaac fei pi: „Təfa ñi məlen kùtral eŋu maməll,
+welu ¿cheu kai məlei l·aŋəmalchi kulliñ kom ləfalu
+sakrificio meu?" piŋei Abrahán. Abrahán lloudəŋui:
+„Dios adkənuai ñi məleal ta təfa, fotəm," pifi ñi fotəm
+Abrahán.
+
+PAG 14
+
+Feimeu ùiaq pəraiŋu dəŋunokechi mawida meu. We-
+chupulu wenté mawida meu Abrahán witrakənui kiñe
+altar, wenté meu elkənuyei maməll, trarikənofi ñi fotəm
+ka elfi wenté altar meu. Feimeu witrañprami ñi kuq.
+nùi kuchillo l·aŋəmalu ñi fotəm.
+Welu Señor ñi ánjel wirárùi wenuple, fei pi:
+„Witrakənuuŋe, Abrahán, ka iñfitukifilmi təfeichi weche.
+Féola kimn tami llùkafiel Dios ka fei ñi duam ŋənai-
+tunoafel tami fotəm kidu no rume," piŋei Abrahán,
+pieyeu ánjel.
+
+PAG 15
+
+Feimeu prakintui Abrahán ka pefi kiñe kaniru, nùl-
+kùlefui ñi məta meu kiñe wayun·entu meu. Abrahán
+tufi feichi kaniru, ka wəlu elkənofi ñi fotəm fəla feichi
+kaniru, kom ləfalu feichi sakrificio meu.
+Señor ñi ánjel ka dəŋueyeu wenuple: „Fei pikei
+Señor: femŋechi tami femn meu, ŋənaitulafuimi tami
+kiñen fotəm, kùme piñmaiaiyu ka yalləməñmaiaiyu tami
+pu kùpal chumŋechi felei pu waŋel·en wenu meu. Ka
+kiñe meu tami yallalchi kùpal kùme piñmaleai itrokom
+pu kùpal tuemapu meu," piŋei Abrahán.
+Feimeu Abrahán amutui ñi ruka meu ñi fotəm eŋu.
+„ Fentren ayùi Dios tuemapu, elufi ñi kiñen Fotəm
+(Juan 3, 16).
+
+12. Kose ùdeeyeu ñi pu peñi.
+Al·un meu Señor elufi Isaak kiñe fotəm, Jakob
+piŋei. Fei təfa niefui mari epu fotəm. Doi inanŋelu
+kom ñi pu fotəm meu Kose piŋefui, Jakob fei təfa yod
+ayùfui kom ñi pu fotəm meu, ka deumalfi kiñe takun,
+fill kakeumechi wirikanŋefui.
+Deuma niefui Kose mari kayu tripantu, feimeu eleyeu
+ñi chau kulliñ meu ñi serfiafiel ñi pu peñi eŋn. Feimeu
+pefi ñi kiñe wedafemn ñi pu peñi ka dalluntəkufi ñi
+chau meu. Feimeu ùdeeyeu ñi pu peñi ka kùme dəŋu-
+wəlayeu.
+Feimeu Kose perimontun peumai ka fei pifi ñi pu
+peñi: „¡Allkùñmamuchi ñi peuman! Raŋin ketran meu
+
+məlefuiñ ka trarikənuyefuiñ peñad kachilla; feimeu
+iñche mi peñad witralefui, welu eimn mn peñad ləpu
+naqyei wall iñche ñi peñad meu, femŋechi pefiñ ñi
+peuma meu," pifi ñi pu peñi.
+Feimeu fei pieyeu ñi pu peñi: „¿Eimi kam ayùimi
+mi rey ŋeal iñchiñ meu?" Ka itrùrŋei Kose ka fillantù
+yod ùdeŋerpui.
+
+13. Kose wəleyeu ñi pu peñi.
+Kiñe antu Kose ñi pu peñi amuiŋn Sichem, yei ñi
+kechan kulliñ eŋn. Feimeu Kose fei pieyeu ñi chau:
+„Amuŋe, ka ŋəneltuafimi ñi kùmelenchi ñi dəŋu tami
+pu peñi ka ñi kechan kulliñ eŋn." Femí Kose, amui
+Sichem.
+Al·ù mapu adkintueyeu ñi pu peñi; feimeu dəŋuui
+feichi pu peñiwen: „Tié ñi kùparken feichi peumafe.
+Laŋəmafiiñ, feimeu ,kiñe wedá kulliñ iloeyeu' piaiñ."
+Feimeu Kose puwí cheu ñi məlemom ñi pu peñi meu,
+ka nentuñmaŋei ñi takun fill kakeumechi wirikanŋelu
+ka feimeu tranantəkuŋei kiñe fùcha rùŋan meu ko ñi
+məlemofum. Feimeu iŋn, petu ilu eŋn adkinturumefiŋn
+ñi kùpan kiñeke ŋillakan witran, amualu Egipto mapu
+meu, yeniefui ñi pu kamello eŋn, chechəmnieyefuiŋn
+fill kakeumechi pañu meu.
+Ka fei pi Judá: Chem nentupeafuiñ, l·aŋəmfiliiñ
+taiñ peñi? Doi kùmei, wəlfiliñ: ka femŋechi podəm-
+laiaiñ taiñ kuq fei ñi mollfuñ meu, taiñ peñifel kam."
+Fei kom mayùui feichi pu peñiwen, witranentuŋetui
+
+PAG 17
+
+ruŋan meu Kose ka wəlŋei epu mari platamoneda meu
+Kose yeeyeu feichi pu ŋillakafe Egipto mapu meu.
+Jakob kimlafui cheu ñi məlen ñi fotəm, ka ñi wira-
+rùŋùman meu fei pi: „Kiñe wedá kulliñ mai iloñmaper-
+keeneu tañi Kose." Ka afkentu ŋùmai ñi fotem meu.
+
+14. Kose məlei Putifar ñi ruka meu.
+
+Pu ŋillakafe yefiŋn Kose Egiptomapu meu ka wəlfiŋn
+Putifar meu, Faraon ñi kiñe fùcha ñidolkon·a meu.
+Dios məlefui Kose yeŋu, elufi ñi kùme tripaiam kom
+
+PAG18
+ñi dəŋu cheu ñi elfel ñi kuq. Ayùeyeu Putifar, foi
+təfa elelfi ñi kuq meu ruka meu məlechi kom dəŋu.
+Feichi Putifar ñi kure məte wedá domo ŋefui, fei
+eli dəŋu ñi werilkaiam Kose yeŋu; welu Kose fei pi:
+¿Chum pepí femafun feichi wesá dəŋu, kulpaiafuiñ tañi
+Dios?" Ka Kose newenkənuui ñi femnoam ka chuməl
+no rume ref mayilai ñi werilkaial.
+Kiñe antù Putifar ñi kure witraeyeu ñi ùpel makuñ
+meu, ayùfui ñi nieateu; welu Kose elkənui ñi makuñ
+feichi domo ñi kuq meu ka leftripai. Feimeu illkui
+feichi domo, peŋelfi ñi fəta Kose ñi makuñ ka fei pifi:
+„Kose kùpatueneu, ka elukadəŋupaneu tañi werilkaiam
+iñche feyeŋu; welu wirarùn, feimeu elkənui ñi makuñ
+ka leftripai.
+Feichi ŋen·ruka feyentui ñi fei pieteu ñi kure, fei-
+meu fùcha illkui ka adkənufi ñi presuafiel karcel meu
+ta Kose.
+„Llùkadiosken meu feimu ta tuukei kùme kimn."
+(Sir. 1, 16.)
+
+15. Kose ñi presun meu.
+
+Pu carcel meu Dios məlekakefui Kose yeŋu, femŋechi
+felei: təfa weunieñmafi ñi duam feichi kuidapresuchefe,
+fill kake pu presun che meu doi poyeŋekefui Kose.
+Femmeu mai felei: Faraon rey ka presufi ñi ñidolserfipùl-
+kufe ka ñi ñidolkofkefe, ka feimeu puwiŋn feichi karcel
+men cheu ñi presulemom Kose.
+
+PAG 19
+
+Kiñe antù Kose ŋəneduamfi təfachi epu wentru ñi
+məte lladkùlen meu, feimeu ramtui Kose: „¿Chumŋelu
+kam fenten lladkùleimu?", pi Kose. Ka lloudəŋui feichi
+epu presu: „Təfachi trafuya meu peumaiyu", piŋu, „ka
+fau ŋelai tayu kiməñmaiateu tayu peuma", piŋei Kose.
+Kose fei pi: „¿Dios meu kam tuulai kai ñi kimŋeal
+peuma? Nùtramkamoan tamu peuma," pi Kose.
+Wema nùtrampeumai ñidolserfipùlkufe, ka Kose fei
+lloudəŋui: „Kùla antù meu eltuaimeu Faraón tami serfi-
+tuafiel. Konəmpaiaqen, ka llellipuŋe tami rey tañi nen-
+tuateu karcel meu; iñche ŋen·o kulpa meu məlen fau",
+pi Kose.
+Feimeu ka nùtramkai rey ñi kofkefe, ka fei pieyeu
+Kose: „Kùla antù meu mandaiai Faraon tami katrù-
+pel·ŋeal, ka peltrùkənuŋeaimi kruz meu", pi Kose, piŋei
+feichi kofkefe.
+Ka kùla antù meu fiestakefui rey ñi lleqmomchi
+antù fəla, feimeu konəmpafi ñi ñidolserfipùlkufe ka
+ñi ñidolkofkefe. Tié kiñe eluŋetui ñi kùdau, welu
+kaŋelu deumalŋei dəŋu ñi pəltrùkənuŋeal. Ayùui ñi-
+dolkuidapùlkufe ñi kùmepəllin meu, welu təkulpa-
+wetulafi Kose.
+
+16. Kose ñi tripatun presu meu.
+
+Rupai epu tripantu, ka peumai feichi rey. Məlelu
+inaltu Nilo l·eufù meu trokiufui, fei meu tripátripaŋe-
+fui reqle fùchake motriñ waka ka tutekelu, ka ùtáù-
+taŋefui ina l·eufù.
+
+PAG 20
+
+Wəla ka tripai Nilo meu reqle troŋli waka we∫a.
+keñma, ka ilotufuiŋn kùmeke waka.
+Feimeu nepetui feichi rey, welu ka wəñoumaqtutui,
+ka peumakatui. Ñi peuma meu ka pefi reqle apolechi
+loŋkokachilla, məte tutekelu, kiñe foron meu məten
+tripafui, ka fenten pichikerumechi kodíu loŋkokachilla,
+l·əmùfi kùme fən· kachilla. Chuməl nepetulu Faraon
+mətrəmfi feichi pu kimke che Egipto mapu meu, ka nùtra-
+melfi ñi peuma, welu kiñe no rume feyeŋn kimlai ñi
+rulpaiafiel ñi chem pin feichi peuma.
+Feimeu feichi ñidolserfipùlkufe konəmpafi ñi piuke
+meu Kose ka fei pi: „Karcel meu məlei kiñe weche
+wentru, fei təfa kuifi kimeleiyu meu tayu peuma ñidol-
+kofkefe yem inchiu", piŋei feichi rey. Feimeu feichi
+rey mətrəmfalfi Kose ka nùtramelfi ñi peuma.
+Kose lloudəŋui: „Feichi reqle motriñ waka ka feichi
+reqle kume fən·ŋechi loŋkokachilla ŋənelkei ñi kùpaiam
+reqle məte kùme waləŋ tripantu; feichi reqle troŋli
+waka ka feichi reqle kodíuchi loŋkokachilla ŋənelkei
+ñi ka kùpaiam reqle filla tripantu. Feimeu məleai fùcha
+ŋəñùn. Fei ñi fəla kùmeafui, tami reyŋen elfile kiñe
+kimwentru, feichi reqle kùme waləŋtripantu meu ŋələma-
+fui ketran, ñi məleam iaqel feichi reqle filla tripantu
+meu."
+Təfachi ŋùlam məte ayùi Faraón rey, fei pifi Kose:
+„¿Cheu kam pepeafun fenten kimche eimi femŋelu?
+Eimi mai ñidol ŋeaimi kom Egipto mapu meu, ka mi
+mandan taŋkùñmaiaimeu kom təfachi pu konia," piŋei
+
+PAG 21
+
+Kose. Feimeu nentui Faraón kiñe iwel·kuq ñi kuq meu
+ka təkukənofi Kose ñi kuq meu ka kəl·kaitəkukənulelfi
+milla kadena ñi pel· meu. Feimeu rey ñi mandan
+meu pasialŋei Kose muñku waria kiñe karroza meu,
+
+pu rey ñi miaupeyùm meu, ka wirarùn meu rupaiawi
+feichi kiñe kon·a: Lukunaqaimn puñma təfachi ŋə-
+neniemapualu kom Egipto mapu meu," fei piiawi feichi
+konta.
+„Mətrəmaqen illkun antù meu, iñche lef kellupai-
+ayu." (Salmo 49, 15.)
+
+PAG 22
+
+17. Kose ñi pu peñi puwiŋn Egipto mapu meu.
+
+Awe akui reqle kùme waləŋ tripantu, Kose ñi
+pimom fei tripai: fei təfa mandai ñi ellkaŋeam məle-
+wechi kachilla pu niekachillawe ruka meu. Wəla ka
+koní reqle filla tripantu, feimeu mǝlefui fùcha filla. Fei
+ta Kose nùlai ñi niekachillawe ruka ka femŋechi niefui
+kofke kom Egipto mapu.
+Kanaán mapu meu ka femŋechi mǝlefui fùcha filla.
+Fei ñi fəla Jakob fei pifi ñi pu fotəm: „Amuaimn
+Egipto mapu meu ka ŋillameaimn taiñ duamnieken taiñ
+l·anoam ŋəñùn meu." Feimeu ŋemeiŋn Egipto mapu
+meu Kose ñi pu peñi; Benjamín məten, doy pichilu
+amulai, məlekafui ñi chau eŋu, llùkalefui feichi chau
+ñi məleal chei wedá dəŋu rəpù meu.
+Ñi pu peñi Kose kùme puwiŋn Egipto mapu meu,
+ŋiyultəkuŋepuiŋn Kose ñi ruka meu, ləpùnaqiŋn ni
+puñma meu ta təfa. Kose kimfui ñi pu peñi ka təkul-
+patufi ñi kuifi peuma: welu kiməñmaŋelai.
+Kose newetripadəŋufi ñi pu peñi, fei pi ŋənedua-
+mafilu ñi pu peñi: „Eimn kaiñeərke, re kùparkeimn
+mn ŋəneitumapual", pi Kose. Feyeŋn lloudəŋuiŋn: „Fei
+no, Señor. felelai: iñchiñ kùmeke che ŋen·oadŋeiñ, wedá
+rakiduam meu miaulaiñ. Mari epu neiñ iñ peñiwenŋen,
+doi inanŋelu iñ peñi məlekai ruka meu ñi chau eŋu;
+kaŋelu l·apei mai," piŋei Kose, pieyeu feichi pu wentru.
+Kose lloudəŋui: „Fau məleaimn, eimn re moneduam-
+mapukeimn". pi Kose ka werkùi ñi yeŋeal karcel meu eŋn.
+
+PAG 23
+
+Kùla antù meu werkui Kose ñi nentuŋetual karcel
+meu təfachi pu peñiwen ka fei pifi: „Iñche ayùn tañi
+mal·ùal tamn mupiñ dəŋu. Kiñelke eimn məleai karcel
+meu nùtun che reke, eimn yetuaimn tamn kachilla ka
+kùpalelmoan feichi doi pichilu tamn peñi“, piŋei feichi
+peñiwen.
+Feimeu welukon dəŋuuiŋn feichi pu peñiwen: „Ki-
+du tain femel meu kutrankaukein, kulpafiel meu taiñ
+peñi; pefiiñ tañi kutrankawən tañi pəlli, feichi
+meu llellipukeféiñ meu, welu allkùñmalafiiñ, feimeu
+pepaiñ meu feichi we∫á dəŋu. Feichi pu peñiwen
+kiməñmanuelu meu ñi dəŋun Kose trokiuiŋn, welu
+fei kom kimfui, furitripakənuui ka ŋùmai. Feimeu
+Kose ñi mandan meu trariŋei Simeón ñi pu peñi ñi
+aŋe meu, ka ñi pu serfiñ apolelfiŋn ñi kostal eŋn
+kachilla meu ka wəñotəkuleltufiŋn ñi kostal meu ñi
+kùpaluyelchi plata eŋn. Femŋei mai; ñi pu peñi
+Kose chechemtui ñi kachilla eŋn ka amutuiŋn ñi ma-
+pu meu.
+Puwtuiŋn ñi chau meu ka nùtramelpufiŋn kom
+təfachi dǝŋu ñi femŋemum eŋn. Nùlafiŋn ñi kostal
+ka petuiŋn ñi kulliuyelchi plata, feimeu fùcha afma-
+tuiŋn. Jakob feimeu fei pi: „Eimn ŋen·ofotəmkənu-
+muan: Kose deuma ŋewəlai, Simón presulepui Egipto
+mapu meu, ka ayùimn tañi məntuñmamoal Benjamín.
+Amulaiai ñi fotəm Egipto. We∫ake dəŋu nùfule ñi
+fotəm aŋka rəpu, feimeu iñche l·aiafun lladkùn meu",
+pi Jakob.
+
+
+PAG 24
+
+18. Ñi pu peñi Kose ka wəñoamutui Egipto
+mapu meu.
+1. Deuma aftufui feichi kachilla ñi yemeuyeel Egipto
+mapu meu feichi pu peñiwen, ka petu ñi məlekan ŋenùn
+kom mapu meu, Jakob fei pifi ñi pu fotəm: „Ka amu-
+aimn Egipto mapu meu, ka ŋillameaimn kachilla."
+Feimeu Judá lloudəŋui: „Feichi wentru fei pieiñ
+meu: peñmawemulaian tañi aŋe, kùpalelmunuli tamn
+inan peñi. Eluñmafiŋe mai iñ yeafiel təfachi weche
+taiñ l·anoal ŋənùn meu. iñche ŋen·ŋean ñi chumnoal
+rume ta təfa", pifi ñi chau Judá.
+Feuall fei pieyeu ñi chau eŋn: „Felele, felepe mai,
+mn pilleel kam: yelfimn mañumtu feichi wentru ka
+epu fenten plata tamn yefel wəne meu, ka wəñoltua-
+fimn feichi plata tamn petuel kostal meu. Pile Dios
+fillpepilfe, kùmelkaiaimn meu feichi wentru ka elutuaimn
+meu tamn peñi tamn nùtunieñmaqeteu, ka eluñmaafi
+ñi kùpatuam kai Benjamín: petu tamn femkiaun iñche
+tañi kidulen ŋen·ofotəmkəlewean.
+2. Ñi pu peñi Kose kùme puwiŋn Egipto mapu meu.
+Feichi meu ñi pefiel Kose puulelŋen ñi inan peñi, fei
+piti ñi mayordomo: „Təkulfiŋe ruka meu təfachi pu
+wentru, kalli ñi iam iñche yeŋn raŋi antù", pi Kose.
+Mayordomo femi ñi werkùeteu ta Kose ka kùpalfi Simón
+cheu ñi məlemom ñi pu peñi.
+Akulu Kose ñi pu peñi ləpùnaqiŋn pùlli meu ka
+witrakənulgiŋn ñi yeyeel eŋn ñi eluafiel Kose. Ayùun-
+
+PAG 25
+
+kechi chalieyeu Kose, fei pi: „¿Petu moŋelei kai tamn
+chan? ¿Kùmelei kai?" pi Kose. Pu peñi lloudəŋuiŋn:
+Tami serfiñ, taiñ chau petu moŋelekai ka kùmel-
+kalei", piŋei Kose.
+Feichi mo Kose, pefilu Benjamín, fei pi: „Təfa kam
+tamn inan peñi? ¡Dios kùme piñmaiaimuchi, tañi
+fochəm!" pi Kose ka ñi pepi ŋenewenon meu ñi piuke
+tripai wekun ŋùmaialu.
+Ka kəllùmtukənutui ñi aŋe Kose, ka peputui ñi pu
+peñi, ka fei piputufi: „Kùpamn ka, iaiñ." Kose anùmfi
+ñi pu peñi ñi mesa meu, chumŋechi ñi weluinaun tri-
+pantu meu eŋn, femŋechi anùmkənuyefi , ka apo af-
+matun meu iŋn ka pùtuiŋn ayùunkechi.
+
+19. Deu ka ŋəneduamtufilu ñi pu peñi, Kose
+kimfaluwí ñi pu peñi meu.
+1. Kose ayùfui ñi kimal ñi rəf kùme che ŋefel chi
+deuma ñi pu peñi. Fei ñi fəla fei pifi ñi wədamketran-
+pelu: „Apolelfiŋe ñi kostal eŋn kachilla meu tunten ñi
+feyiken: kiduke ñi kostal meu təkufiŋe feichi plata
+tunten ñi falin feichi kachilla. Doi inan wentru ñi
+kostal meu elŋe kai iñche ñi plata kopa", pifi ñi mayor-
+domo Kose. Femŋei, ka feichi pu peñiwen amutuiŋn.
+Feimeu, ŋellu tripalu eŋn waria meu, fei pifi ñi mayordo-
+mo ta Kose: „Inaditufiŋe təfachi pu wentru ka fei pipu-
+fiŋe: ¿Chumŋelu kam weñeimn tañi kopa tañi patron?
+Fùcha kulpaimn, a pu wén."
+
+PAG 26
+
+Mayordomo dipufi feichi pu peñiwen ka elupufi dəŋu
+ñi fei pieteu Kose. Feyeŋn lloudəŋuiŋn: Chumŋelu
+kam weñeafuiñ plata kam milla chi ñi ruka meu tami
+patron? Tuchi rume ñi kostal meu peŋele feichi kopa,
+l·aiai məten, ka kom inchiñ feimeu tami esklafoŋeaiñ“,
+pi feichi pu peñiwen. Mayordomo mal·ùtui feichi kom
+kostal meu ka pei feichi kopa Benjamín ñi saku meu.
+Feimeu pu peñiwen wicharkənuyefi ñi takun eŋn llad-
+kùn meu ka wəñokonputuiŋn waria meu.
+2. Wəñoputulu eŋn Kose meu, lukunaqiŋn ñi puñma
+mo. Kose fei pi: „¿Chumŋelu kam femimn?"
+Judá lloudəŋui: „Dios peñmaéiñ meu taiñ kiñe wedá
+dəŋu ka feimeu werkùléiñ meu təfachi ellake dəŋu. Fau
+niemuiñ, tami esklafo ŋeaiñ kom iñchiñ," pi Judá. Kose
+lloudəŋui: „Feichi weñéuma kopa, fei esclafoyeafin, eimn
+amutuaimn kùmekechitamn chau meu", pifi ñi pu peñi Kose.
+Feimeu doi inafəlpui Judá Kose meu ka fei pipufi:
+„Iñiche lloudəŋuken tañi peñi fəla. Yeltunofiliñ təfa
+taiñ chau, feimu iñ chau yeafiiñ eltuwe meu. Iñche
+esklafoyeaquen təfachi pichi wentru ñi duam, ka eluñ-
+mafiŋe ñi amutual ñi pu peñi eŋn", pi Judá, piŋei Kose.
+3. Feimen Kose pepi ŋeneuwəlai yod al·ùñma ka pu
+ŋùmankechi fei pi: „Iñche Kose ŋen. ¿Petu moŋelei
+kai tañi chau?" Feichi pu peñiwen pepi lloudəŋulaiŋn ni
+pellken meu, welu Kose kùmekechi fei pifi: „Kùpamn iñche
+leu, iñche tamn Kose peñi, wəlmun ŋillakafe Egipto-
+mapu che meu. ¡Llùkakilmn! Dios ñi pin meu fau məle-
+pan ka ñidolkəlepan kom Egipto mapu meu. Matu
+
+PAG 27
+
+matu amuaimn tañi chau meu ka kùpalelmoan. Iñche ile-
+luaiñ feichi kechulewechi ŋəñun tripantu meu." Feimeu
+Kose rofəlfi Benjamín ka ŋùmayefi. Wəla trafwən·fi fill
+ñi pu peñi ka ŋùmai. Feola yafuluiŋn ñi dəŋuafiel Kose.
+Kose elufi ñi pu peñi kiñeke ruka karreta ka kake-
+ume we∫akelu, ka ñi chaliwədan meu eŋn fei pifi: „Ill-
+kumpeukilmn rəpù meu."
+
+20. Jakob amui Egiptomapu meu.
+Feichi puutuiŋn ruka meu Kose ñi pu peñi, fei piputu-
+fiŋn ñi chau: „Tami Kose fotəm petu moŋelekei ka
+
+PAG 28
+
+ñidolkəlei kom Egipto mapu meu." Jakob feyentulai.
+welu feyeŋn nùtramelfi ñi chau kom ñi chumŋemom
+eŋn ka peŋelfiŋn ñi ruka karreta, rey meu tuulu, ka
+feichi we∫akelu, werkùlelfiel ñi chau Kose. Feimeu Jakob
+fei pi: "Al·ùn kùme dəŋu mai, moŋelekarkei ñi fotəm.
+Amuan, pemeafiñ petu tañi l·anon. Ka elui rəpù meu,
+kom ñi we∫akelu yei.
+Judá wənelei ka nùtramelpufi Kose, ñi puwam ñi
+chau. Mùchai məten tripai Kose trafafilu ñi chau. Feichi
+meu Kose pefilu ñi chau, rùŋkùnaqi ñi ruka karreta
+meu, rofəlfi ñi lipaŋ meu ka ñi ayùun meu wirarùi ñi
+ŋùman. Fei pieyeu ñi chau Kose: Feola ayùunkechi
+l·aian, feola tami peñmatufiel meu tañi aŋe kiñe rupa
+rume.
+Kose elufi ñi chau ka ñi pu peñi Jesén mapu, məte
+kùme kachu mapu ŋei ta təfa, ka kellufi fill ñi duam-
+nieken meu eŋn.
+Wəláwəla l·arpui Jakob, ŋumayeeyeu Kose ka al·ùñma
+təkuniefui lladkùn təkuluun. Feichi moŋelerpufui fentren
+tripantu Kose ŋen·olladkùn, ka wəla l·arpui Kose.
+„Kùme pəllilei l·alu Señor meu." (Apoc. 14, 13.)
+
+21. Moisés montui l·an meu.
+1. Jakob ñi pu yall fùcha kùpal ŋetui Egipto mapu
+meu. Jakob lloufui Dios meu Israel ùi; feichi meu
+ñi kùpal pu Israelita kam Israel ñi pu fotəm piŋetuiŋn;
+kafei Hebreo piŋeiŋn.
+
+PAG 29
+
+Petu ñi felen pərafui rey ñi anùlepeyùm meu wé rey,
+fei miñchenaqəmtufi pu Israelita ka eluyefi fùcha we-
+dake kùdau. Iñaŋechi feichi Faraón rey mandai ñi
+itrəftəkuŋeal l·eufu meu itrofill pichike wentru ñi
+lleqəmel pu Israelita.
+2. Feichiwe meu lleqəmfi epu Israelita kine məte
+kùme adŋechi pichi wentru; apó mupiltun meu lluməm-
+niefuiŋu kùla kùyen; welu pepí femniewəlafuiŋu doi
+al·uñma. Feimeu feichi ŋen: pəñəñ, ñi ñuke feichi
+pichi wentru, tuí kiñe pichi sauce kulko, ŋel·fùkənofi
+ùpe meu ka resina meu, fei meu tranantəkuŋei feichi
+pichi poñen, ka kùlkontəkulen elŋei l·eufù meu, ùpəl
+l·eufù meu kənaikonkəlefui. Ñi lamŋen feichi pichi
+wentru lloftulefui inaumo, adkintulefui ñi chumiaun
+ni pichi lamŋen.
+Dios ñi adkanuel meu Faraón ñi ñawe ŋemei l·eufù
+meu ka pepufi feichi kùlko. Feimeu werkùfi ñi kiñe
+domo serfiñ ñi nentulŋemeal feichi kùlko. Nùlakənul-
+ŋei feichi kùlko, feimeu pefiŋn feichi pichi wentru,
+ŋùmaŋùmaŋəfui. Faraón ñi ñawe ŋùnaitufi feichi pichi
+wentru ka fei pi: „Ai, pu Israelita ñi pichi* cheye-
+mərke ta təfa.
+Feimeu pichi che ñi lamŋen inafəlpai ka fei pi:
+„¿Ayùimn kam iñche ñi mətrəmafiel kiñe Hebreo domo
+ñi trəməmateu təfachi pichi che?" „Mai, mətrəmfiŋe",
+pieyeu rey ñi ñawe.
+--
+* che (y)em ərke.
+--
+
+PAG 30
+Ayùukəlen lefamutui feichi wé domo ka yepafi
+ñi ñuke, fei təfa fei pieyeu rey ñi ñawe: „Tufiŋe təfachi
+pichi che ka treməmelaqen, kulliayu an·ai.
+Ñuke nùtui ñi pəñəñ ka yetufi. Fùcha tremlu feichi
+pichi weche yelŋetui Faraón ñi ñawe, fei təfa pəñəñyefi,
+fei pi: „Moisés piŋeai ñi ùi ñi montulfiel meu ko meu."
+
+22. Moisés lefí ka mətrəmeyeu Dios montulafiel
+ñi kùpal.
+1. Moisés rupañmai ñi wecheŋen Faraon ñi ñаwе ñi
+ruka meu ka trùr wentrui. Welu kutranpiukeyeniefui
+
+PAG 31
+
+ni we∫ake dəŋu ñi nien ñi pu kùpal ka ayùwəlai doi
+al·ùñma ñi pəñəñyeateu Faraón ñi ñawe. Feimen reyù-
+kontui ñi kiñe kùpal che yeŋn ka fùcha kellukefui.
+Fei ñi fəla Faraón illufi ñi l·aŋəmafiel Moisés. Feimeu
+lefí Moisés, amui Madián mapu meu, eheu fí rukan-
+kəlemom Jetro piŋechi sacerdote, ka təfachi mapu meu
+mǝlefui meli mari tripantu, serfinieñmafui ñi kechan-
+kulliñ ta Jetro.
+Kine antu fùcha koní feichi ùwe mapu meu ñi kulliñ-
+kəlen, feimeu peufalueyeu Dios kiñe ləfləfŋechi wayu-
+n·entu meu. Feimen afmatui Moisés, ayùi inafəlpualu
+
+PAG 32
+
+feichi ləfkechi wayun·entu meu, welu Señor fei pieyeu:
+„Inafəlpakilŋe, ñaififiŋe mi zapato tami n·amun· meu,
+təfachi məlewe santoŋei. Iñche tami pu chau em ñi
+Dios ŋen, ñi Dios ta Abrahán, Isaak ka Jakob." Moisés
+takukənuui ñi aŋe ka yafuluulai kintuwəlafilu Señor.
+Feimeu fei pi Señor: „Pefiñ ñi lladkùn dəŋu tami kùpal
+Egipto mapu meu ka amulafiñ Kanaán mapu meu. Faraón
+meu ŋemeaimi, ka nentumetuaimi tami kùpal Egipto ma-
+pu meu. iñche məlean eimi meu", pi ta Dios, piŋei Moisés.
+
+2. Moisés lloudəŋui: „Welu Israel ñi pu fotəm feyentu-
+laianeu ka fei pianeu eŋn: „Señor peufalaimeu“, piŋean.
+Feimeu Dios fei pifi Moisés: „Pùlli meu ùtrefnaqəmkənu-
+aimi retrù mi nùniel kuq meu. Femí Moisés, ka ñi
+retrù iwaifiluutui, feimeu lefí Moisés llùkan meu. Señor
+fei pifi Moisés: Norkanuŋe mi kuq ka nùtufiŋe." Moisés
+Señor ñi pieteu femŋechi femí ka feichi iwaifilu mamə-
+lluutui. Feimeu fei pieyeu Señor: Femaimi pu Israelita
+ñi ad meu, feimeu feyentunmaŋeaimi", piŋei Moisés.
+Moisés amui Egipto mapu meu. Dios ñi piel meu
+trafmeeyeu ñi Aarón peñi, ka ùiaq trawelfiŋu pu Israe-
+lita kùpal. Aarón kimelfi feichi kùpal ñi deŋumom Señor
+Moisés eŋu; fei təfa femí ñi retrù meu feichi afmatun
+dəŋu ka feichi kùpal feyentui ka ŋillatuñmawí Señor meu.
+
+23. Dios werkùi wenté Egipto mapu meu
+mari naluwan.
+Wəla Moisés eŋu Aarón pepufi feichi Faraón rey ka
+fei pipufi: „Feichi dəŋu pikei ñi Dios ta Israel: məñalel-
+
+PAG 33
+
+tuen tañi kùpal təfeichi mapu meu." Faraón lloudəŋui:
+„¿Inei kam feichi Señor iñche ñi maimaafiel ñi dəŋun ta
+təfa? Eluñmalaiafiñ ñi tripaial təfachi kùpal." Feimeu
+Aarón ùtrəfnakəmfi ñi retrùpeyùm pùlli meu, iwaifiluutui
+feichi retrù, welu ñi piuke ta rey doi newenkənuwí.
+Feimeu Dios werkùi wenté Egipto mapu meu mari
+naluwən, kake kiñeke doi llùkafalŋelu.
+Feichi l·eufù ko mollfùñkənuutui. Wefrumei fentren
+lləŋki, ka pichike pəl·ù ka pətrokiñ kom takui mapu
+ka ruka. Kiñe peste kom apəməñmafi ñi kulliñ Egipto
+mapu che. Wil·ən·kepi ñi trawa eŋn ka tripañmai ñi
+trorkəm eŋn che ka kom kulliñ.
+Kiñe llùkanŋechi pire teifufi ketran ka mawida.
+Rakifalnuchi chori naqpai wenté mapu meu ka teifufi
+
+PAG 34
+
+chem rume pire meu montulu. Wəla kupai dumin
+kùla antùi, ka fentrelefui, kiñe Egipto che no rume
+pepi neŋəmuwəlai cheu ñi məlepeyùm. Re məten cheu
+ñi rukaukəlen pu Israelita peloŋelefui.
+Welu feichi rey ñi piuke yafùlekafui ka pilai ñi
+taŋkùafiel Dios ñi dəŋu. Feimeu Moisés fei pifi Faraón:
+„Kiñe pun· meu məten l·aiai ñi itrofill wənen fotəm
+pu Egipto che.
+
+24. Pu Israelita ikefuiŋn feichi kordero paskual,
+ka tripakeiŋn Egiptomapu meu.
+Moisés eŋu Aarón trawəlfi kom ñi kùpal ka fei pifi
+pu trawən meu: „Fei tañi mandael Señor: Mari meli
+antù meu təfachi kuyen· meu re kiñeke ñidol ŋen·ruka
+tuai kiñe tremoŋechi kordero ka l·aŋəmafi, welu trafoñ-
+malaiafi ñi kiñe foro no rume. Mollfùñ kordero meu
+wiriŋeai wel·ŋiñ ruka. Kaŋkan ilo məten iaimn feichi
+pun· ka intəkuaimn podkolŋenuchi kofke. Feichi pun·
+l·aŋəmənmaiafiñ raŋiñ tañi Anjel meu fill ñi wǝnen
+fotəm pu Egipto che. Welu pefili feichi mollfùñ wəl·ŋiñ
+ruka meu, rumefeman ka konlaian ponwi ruka.“
+Mari meli antù amuchi kùyen· meu naqn antù pu
+Israelita femí ñi fei pimoeyi meu Señor. Epe raŋipun·
+Señor nalfi pu wənen fotəm Egipto mapu meu, Faraón
+ñi wənen fotəm ka ken·ù ñi wənen pu kùdaufe ka ñi
+wənen yall kom kulliñ kafei. Ñi llùkan ka ñi lladkùn
+meu wirarùpramei kom Egiptomapu, kiñe ruka meu no
+rume wallkəlelafui tañi məlenon l·a. Feimeu Faraón
+
+PAG 35
+
+pun·ŋefel meu rume mətrəmfi Moisés eŋu Aarón ka fei
+pifi: „Tripamu kom tamu kùpal eimu ka kùme piñ-
+mamoan", pi Faraón.
+Feimeu tripaiŋn Egiptomapu meu pu Israelita, kom
+ñi wefakelu yeiŋn, ka Moisés fei pi: „Təfachi antù
+meu rumel fiestalerpuaimn eimn ka itrokom tamn yallel."
+
+25. Pu Israelita n·oí Kelù L·afken· meu.
+1. Dios ki∫u peŋelfi pu Israelita feichi rəpù ñi inaiafiel
+eŋn raŋiñ kiñe witralechi tromù meu, feyeŋn ñi puñma
+meu wənelefui. Antù meu dumiñkəlefui feichi tromù,
+
+PAG 36
+
+pun· meu ka ləfkefui kùtral reke. Femŋechi puwiŋn
+Kelù L·afken· meu.
+Welu deu eluñmafilu ñi tripaial pu Israelita ka wall
+duamtui Faraón, mùchai məten inantəkufi, yeniei ñi
+karretatun aukan ka ñi kawell ka kom ñi tropa, epe
+naqnantù ditufi.
+Pu Israelita llùkaiŋn feimeu ka wirarùiŋn Señor
+meu. Moisés fei pi: „Llùkakilmn; Señor weichakənuaiñ
+men." Kiñe lel feichi witralechi tromù, pu Israelita
+ñi puñma meu amulefui, witraprai ka iñaŋekənuui ka
+
+PAG 37
+
+puñmakənufi feichi pu Egipcio. Pu Egipcio fùcha dumiñ-
+mai, pepi pewəlafiŋn pu Israelita, welu pu Israelita fùcha
+peloñmalefui dumiñ pun· meu. Feimeu Moisés ñi man-
+daeteu Dios witrañprami ñi retrùpeyùm wenté l·afken·
+meu, fei kiñe lel katrùwədai, ka epuñple wirkoprai pel·e
+malal reke feichi ko. Aré kùrəf piwəmfi pùlli mùchai
+məten, ka pu Israelita n·oíŋn piwən rəpù l·afken· meu.
+2. Wun·man meu Faraón kùpa inantəkufi pu Israe-
+lita raŋiñ l·afken· meu. Feimeu lləfke ka tralkan tripai
+tromù meu, ka Dios fei pifi Moisés: „Witrañpramfiŋe mi
+retrùupeyùm wente l·afken·." Femí Moisés, ka epuñple
+ùtrəfkonyetui ko ñi trawətuam, ka lləməmyefi karretatun
+ka kawellutun che ka kom ñi tropa Faraón, ka mon-
+tulai kiñe no rume.
+Femŋechi Señor montulfi pu Israelita che pu Egipcio
+ñi kuq meu. Feimeu pu Israelita kùpal llùkafi Dios
+ka feyentuiŋn fei meu, ka ñi Moisés serfiñ meu.
+
+26. Afmatun dəŋu ùwe mapu meu.
+Pu Israelita tripaiŋn Kelù L·afken· meu ka koniŋn
+kiñe ùwe mapu meu, cheu ŋelafui ko ka ŋelafui ilo,
+fei ñi fəla we∫aduamiŋn ka we∫ake dəŋuiŋn. Welu
+Señor fei pieyeu eŋn: „Təfachi naqnantù ilotuaimn ka
+wùle alù iaimn kofke."
+Naqn antù trananaqyepai werá pu kordorniz ùñəm,
+takunaqpai pùlli meu, nùnkepiŋei məten. Ka antù pu
+liwen kom feichi mapu takulefui pichike lùq kofke meu,
+ñapər traŋliñ rekelefui. Təfachi kofke „maná" piŋei,
+
+PAG 38
+
+kochii mi∫ki dulliñ reke kùmentuŋen meu. Təfachi wenu
+naqpachi kofke meu Dios ileltufui pu Israelita meli mari
+tripantu, tuntepu ñi puunon Kanaanmapu meu eŋu.
+Kiñe al·ùn meu pu Israelita puwiŋn kiñe məlewe
+meu feichi ùwe mapu meu, cheu ŋelafui ko. Feimeu
+dəŋuyefiŋn Moisés. Welu Señor fei pieyeu: „Tuŋe mi
+retrùpeyùm, amuŋe Horeb mawida meu, troŋkupuafimi
+lil, feimeu wefpaiai maŋiñ ko", piŋei Moisés. Femí
+Moisés, ka mùchai məten werá maŋiñ ko tripai, fentré
+ñi pətokokoam che ka kom kulliñ.
+
+
+PAG 39
+
+27. Dios wəli feichi kùpal meu feichi mari mandan
+dəŋu Sinai fùcha mawida meu.
+Ñi konn kùla kuyen· ñi tripamom Egipto mapu meu
+pu Israelita, feimeu puwiŋn Sinaí fùcha mawida meu,
+cheu elpui ñi ruka yeŋn. Moisés pərai mawida meu,
+ka Señor fei pieyeu: „Naqmetuŋe ka fei pimetufiŋe
+feichi kùpal: fachantù ka wùle santuluaiŋn ka kəchai-
+aiŋn itrokom ñi təkuluwən eŋn ka peutuleaiŋn kùla
+antù meu,"
+
+PAG 40
+
+Femí Moisés kom ñi pimoeyùm meu Señor.
+Feichi kùla antù meu epe wùn· yechi tralkarumei
+ka lləfkei. Dumiñ tromù takuniefui Sinaí piŋechi ma-
+wida, ka kom mawida llùkanŋefui, nùyùi ka ùtrəfen-
+tuyefui fitrun ka euləm kùtral. Dəŋufui trutruka ka
+doi newentu dəŋuyekùmefui. Feimeu feichi kùpal
+nùnieŋei fùcha llùkan meu.
+Moisés yefi feichi kùpal minche inaltu mawida meu,
+ka Dios dəŋui raŋiñ tromù meu pəle, fei pi:
+„I. Iñche tami Señor Dios ŋen. Nielaiaimi kake dios
+puñma iñche ñi aŋe meu, deumalaiaimi adentun
+adoraafiel.
+II. Tami Señor Dios ñi ùi refalta konəmpañmapra-
+laiafimi.
+III. Konəmpanieaimi mi santulafiel Sabado antù.
+IV. Yeweafimi tami chau ka tami ñuke mi nie-
+afiel kùmeke dǝŋu ka al·ùñma mi moŋeam tuema-
+pu meu.
+V. L·aŋəmchelaiaimi.
+VI. Ùñamtulaiaimi.
+VII. Weñelaiaimi.
+VIII. Koil·adəŋupipralaiaimi.
+IX. Ka che ñi kure duaməñmalaiafimi.
+X. Mi inauinauchi che fei tañi ruka, tañi mapu,
+tañi kon·a, tañi domo serfiñ, tañi man∫un·, tañi kiñe
+we∫akelu no rume duaməñmalaiafimi."
+Apó llùkan meu fei piŋn feichi kùpal: „Fill taiñ
+pieten Señor femaiñ."
+
+PAG 41
+
+Wəla Moisés ka pəratui mawida men ka məlepufui
+wenté mawida meli mari antù ka meli mari pun· kai,
+ilafui ka pətokokolafui. Señor elueyeu epu kura tafla
+cheu ñi wirimom Dios feichi mari mandan dəŋu.
+
+28. Pu Israelita ñi pikənuyelchi mapu meu.
+Rupan meli mari tripantu meu pu Israelita puwiŋn
+Kanaanmapu meu. Təfachi mapu meu məlepuiŋn ka
+elkənuyeiŋn pichike ka fùchake waria. Jerusalén ñidol-
+waria ŋei. Feimeu eli Salomón rey kiñe fùcha tutelu
+templo, fei təfa meu məlefui „Santo" piŋechi məlewe,
+ka mǝlefui „pu Santo ñi Santo" piŋechi ñidol fùcha məlewe.
+Pu templo meu elkefuiŋn kulliñ sakrificio pu sacer-
+dote.
+Ka al·ùn meu pu Israelita Judio piŋei kai. Təfachi
+kùpal məten muñku mapu meu mupiltukefui mupiñ Dios
+meu. Fill kake pu kùpal pagano kam morokùpal ŋefui.
+Adorafiŋn kakeumechi koil·á dios, ka wedañmaŋefui ñi
+admoŋen eŋn, ka fùcha we∫ake dǝŋu pepakefeyeu eŋn.
+Pu Judio mupiltufuiŋn mupiñ Dios meu, welu kiñeke
+məten inarumefuiŋn ñi mandan dənu ta Təfa. Doi
+fùcha trokiñ Israelita llùkawəlafiŋn Dios, fùcha kulpa-
+fiŋn məten, ka kùmekənuuwetulaiŋn.
+Itrokom tue mapu meu ñidolkəlefui werilkan ka
+we∫ake dəŋu, ka pu naqmapu che kidu pepi kelluulai.
+Feimeu Dios fərenenieləmkai ka wenuple werkùfi ñi
+kiñen Fotəm ñi montulafiel pu che ta Təfa.
+
+Ñi nùtram Wé Testamento.
+1. Gabriel arkanjel nùtramelpai ñi lleqam San Juan.
+Moŋelefui Judea mapu ñi mawida meu kine sacer-
+dote, Zakarías piŋelu. Ñi kure ñi ùi Isafel piŋefui.
+
+PAG 43
+
+Ùiaq nor kùme che ŋefuiŋn Dios ñi ad meu, ñi lif-
+piukelen kùdaufuiŋu, inarumefilu Dios ñi mandan dəŋu
+Deuma məte fùchafuiŋu, welu yall nielafuiŋu.
+Kiñe antù akutulu ñi serfituam templo meu Zaka-
+rías koní təfa meu ka amui altar sakrificio meu. Petu
+ni femn ta tofa, trawən che rezalekefui ùŋkontəku
+templo meu, pórtiko piŋelu.
+Feimeu peufalufi Zakarías altar ñi man pəle kine
+ánjel. Zakarías llukai pefilu feichi anjel; welu fei təfa
+fei pieyeu: „Llùkakilmi Zakarías. Allkùtuñmaŋeuyeimi
+mi ŋillatun. Tami Isafel kure nieai wentru pəñeñ,
+Juan piafimi. Llouaimi fùcha ayùwen dəŋu, fùchaialu
+mai puñma Señor meu tami fotəm ta təfa. Finu ka
+kake pùlku pùtulaiai, ka apoleai Espíritu Santo meu.
+Fentren chiwədrulpaiafi Señor Dios pole ñi pu fotəm
+Israel. Fei təfa amuleai puñma Señor meu, kùme eləñ-
+maiafilu kiñe santo kùpal."
+Fei pilu, ñamrumei feichi ánjel, ka Zakarías amutui
+ñi ruka meu.
+„Alun ditukei nor kùme che fei tañi rumel rezalen."
+(Santiago 5, 16.)
+
+2. Gabriel ánjel nùtrampai ñi lleqam Kesús.
+Rupamom kayu kùyen· Gabriel ánjel werkùeyen
+Dios ñi konal kiñe fírken meu, María piŋelu, ñi nieaten
+kiñe wentru, Kose piŋelu ñi ùi. Feichi ánjel konpui
+cheu ñi məlemom María, fei pipufi: „¡Afe María! Dios
+
+
+PAG 44
+
+ñi gracia meu apoleimi, Señor Dios eimi meu ta mǝlei,
+fill pu domo meu doi kùmeimi.“
+Ñi allkùfiel meu feichi ánjel ñi n·emel María llùkai.
+wǝlu ánjel fei pieyeu: „Llùkakilmi, María, peimi gracia
+Dios ñi ad meu. Eimi mai pǝñeñŋealu, Kesús ùi elela-
+fimi. Fei təfa fùchaiai, ka fillpepilfe Dios fei tañi
+fotəm piŋeai."
+Feimeu María fei pifi ánjel: „Chumŋechi pepi feleai
+ta tǝfei?" Feichi ánjel lloudǝŋui: „Estpíritu Santo
+kùpaiai wente eimi meu, ka ñi pepiluwǝn fillpepilfe-
+
+
+PAG 45
+
+ŋelu llaufeñmapaaimeu. Tami Isafel moŋeyel kafei
+nieai pǝñen ñi ku∫en meu wəla: Dios meu pepifalnulu
+ŋelai chem no rume."
+Feimeu María pi: „Təfa ñi mǝlen Dios ñi serfiñ;
+chumŋechi mi n·emǝl iñche femŋean." Ka ñamrumei
+feichi ánjel.
+Wəla puwí Kose meu feichi ánjel, fei pipufi: „Kose,
+eimi niefiǝŋe María. Espiritu Santo naqpauyei wente
+fei meu, pǝñeñŋeai, Kesús piŋeai feichi pǝñeñ, montula-
+filu ñi kùpal werilkan meu, feimeu fei piŋealu.
+
+3. María pemefi ñi santa Isafel moŋeyel.
+
+Feichiwe meu elui rǝpù meu María Fírken, ŋeñika
+amui mawida pǝle, pemeafilu Isafel, ka ñi puun meu
+ñi ruka meu təfa, chaliwǝlpufi. Fei təfa ñi allkùfiel ñi
+chaliwǝn feichi Fírken, apolŋei Espíritu Santo meu,
+witrañprami ñi dǝŋun, fei pi: „Fill pu domo meu doi
+kùmeimi, doi kùmei kai tami fən· aŋka. Chumtun
+kai ŋa iñche, iñche meu ŋa akui iñche ñi Señor ñi
+ñuke?"
+Feimeu fei pi María: „Ñi pəlli fùcha pramyekefi
+Señor, ka ñi kùrǝf trùyùulkaukei tañi Montulfe Dios
+meu; ñi kintuwǝlfiel meu ñi pichilkaukǝlen ñi serfiñ
+ta tǝfa. Fei təfa rumel mai kùme pǝllilelu pianeu itro-
+fill pu kùpal." María mǝlewepukafui kùla kúyen· Isafel
+ni ruka meu: feimeu wəla amutui kidu ñi ruka meu.
+Isafel niei kiñe wentru pǝñen, chumŋechi ñi fei
+pimopayí meu feichi ánjel. Llowiŋu fùcha trùyùwǝn
+
+PAG 46
+
+Zakarías eŋu Isafel, Juan ùi elelfiŋn, chumŋechi ñi
+mandamom feichi ánjel.
+Tremí pichi Juan, ka ñi pəlli niefui eluŋenchi newen.
+Kidu melepui ùwemapu meu, cheu mǝlekefui petu ñi
+puunon antù ñi peŋelual puñma Israel ñi kùpal meu.
+
+4. Ñi lleqn Taiñ Señor Kesukristo.
+
+Feichike antù meu Augusto piŋechi emperador man-
+dafi kom feichi mapu meu mǝlechi pu che ñi papeltǝ-
+kuŋeal ka femŋechi kom chillkantǝkuumeiŋn ñi lleq-
+
+PAG 47
+
+momchi waria meu. Kosé yeŋu María, Dafid ñi kùpalŋen
+meu amuiŋn Belén, Dafid ñi waria meu. Pelafuiŋu
+ñi umaiam pu waria meu, feimeu wekun tripaiŋu ñi
+umaiam kiñe niekulliñwe ruka meu. Feichi niekulliñwe
+ruka meu lleqí Dios ñi fotəm, Kesukristo piŋelu.
+María impolfi ñi peñen pichike ekull meu ka rekùl-
+kǝnufi kiñe pesebre meu.
+„Fentren ayùfi tuemapu ta Dios, təfa fəla wǝli ñi
+kiñen fotəm." (Juan 3, 16.)
+
+5. Kiñe ánjel nùtramelpafi pu kamañ ofi∫a ñi
+lleqn Kesús.
+
+Tiechi lelfùn meu mǝlefui kiñeke kamañ ofi∫a, cuida-
+kefuiŋn ñi kechan ofi∫a, feimeu kiñe lel peufalueyeu en
+Señor ñi kiñe anjel ka fei pieyeu eŋn: „Llùkakilmn.
+Mǝte ayùfal dǝŋu nùtrameluaiñ: Təfachi trafuya lleqi
+eimn mn duam Dafid ñi waria meu feichi Montulchefe,
+feichi Kristo Señor ta təfa. Femŋechi kimaimn: pea-
+fimn kiñe pichi che, impolkǝlei pichike ekull meu ka
+rekùlkǝlei kiñe pesebre meu."
+Ka kiñe lel wefrumei fùcha trawən kùrəf Wenuma-
+pu, pramyekefuiŋn ta Dios ka fei pikefuiŋn: „Sakiŋepe
+ta Dios wenu, ka kùmeletupe kùmeduamŋechi pu che
+tuemapu meu!"
+Feimeu ka pratuiǝŋn wenu feichi pu ánjel, ka pu
+kamañ ofi∫a epuñple fei piuiŋn: „¡Amuiñ Belén, pemea-
+fiiñ taiñ pieteu Señor!" Amuiŋn ka pefilu eŋn María
+
+PAG 48
+
+eŋu Kose ka feichi pichi che, rekùlkǝlefui pesebre
+meu, wǝñometuiŋn ka pramyefiŋn ka kùmepiñmafiŋn
+ta Dios.
+Rupan pura antù meu wallkatrùñmaŋei feichi pichi
+che ka lloufi Kesús ùi, fei ñi nùtramkamopam ánjel
+petu ñi lleqnon Kesús.
+1. Belén meu llegi Pichi Che,
+Jerusalén ayùukǝlei.
+
+PAG 49
+
+2. Man∫un· ka mula kimniei
+Təfa Dios ñi Fotəm ŋei.
+3. Ichu elŋei ŋǝtantual:
+¿Inei kam fenten kuñifal?
+4. María eŋu San Kosé
+Fenten ayùn afmatukei.
+5. Lelfùn meu allkùkei kamañ
+Pu Anjel ñi kùme nùtram:
+6. „Feichi trafuya santo ŋei,
+Lleqí tamn Montulfoe."
+7. Chuməl pu Anjel ùlkantui,
+Feikachi pun· pelon ŋetui.
+8. Fei ta piuiŋn pu kamañ:
+„Belén, Belén meu amuan."
+9. Matumatu femiŋn kai
+Kùmeduamlu trofùlai.
+10. Ka pepufiŋn Pichi Che,
+Dios Fotəm, Montulfoe.
+11. Məna tutei ka trùyùunŋei,
+Llùkanŋelai ta pichi che.
+12. Pefiŋn Dios ñi gloria,
+Kesús elueyeu gracia.
+13, Fei ta iñche kai amuan,
+Pichi Kesús be∫ituan.
+
+PAG 50
+
+6. Tripawe antù pəle kúpaiŋn kùla kimke
+che adoraiafilu Kesús.
+Chuməl Kesús lleqfui Belén meu, puwiəŋn Jerusalén
+meu kùla kimke che, tripawe antù pəle kùpaiŋn, fei
+pipaiŋn: „¿Cheu lleqi pu Judio ñi rey? Pefiiñ ñi wa-
+ŋəl·en tripawe antù mapu meu ka kùpaiñ taiñ adora-
+afiel." Herodes rey llùkai fei ñi allkùfiel meu, ka ñi
+trawəlfiel meu pu kimkecheŋelu ley meu, ramtufi, cheu
+ñi lleqafel feichi Kristo. „Belén meu, Judá ñi kùpal
+meu", piŋei.
+
+PAG 51
+
+Feimeu Herodes werkùfi feichi kùla kimke che Belén
+meu, ka fei pifi: „Amuaimn ka kùme ramtumeaimn
+cheu ñi məlen feichi piche che. Pelmn, nùtramelmo-
+patuan. Iñche kafei ayùn ñi adoraiafiel feichi pichi che."
+Pu kimke che tripatuiŋn Belén pəle, ka pefiŋn feichi
+waŋəl·en, amulefui ñi puñma meu eŋn, ka witralepui
+cheu ñi məlemom feichi pichi che. Ñi petufiel feichi
+waŋel·en pu kimke che fùcha ayùuiŋn. Konpuiŋn nie-
+kulliñwe ruka meu, ka peiŋn feichi pichi che yeŋu ñi
+María ñuke ta təfa. Feimeu lukunaqpuiŋn ka adora-
+fiŋn, ka witrakənulpafiŋn milla, incienso ka mirra,
+ki∫uke yeŋn ñi duamtufiùm pichi Kesús.
+Feichi pun·i, Dios mandafi feichi kùla kimkeche ñi
+rumewetunoam Herodes meu; fei ñi fəla ka rəpù meu
+amutuiŋn ñi mapu meu.
+7. Kesús elkənuŋei pu templo meu.
+Chuməl Kesús trafmai ñi meli mari antù, María eŋu
+Kose yefiŋu Jerusalén meu ñi elelŋeal Señor ka ñi
+eluŋeal epu we pichike paloma, fei ta wəlkefui feichi
+pu kuñifal che.
+Feichiwe meu məlefui Jerusalén meu kiñe fùcha
+wentru, məte llùkadiosfe ŋefui, Simeón piŋei ñi ùi;
+chuməl ùŋəmkəlefui fuchá duamkechi ñi akual Montul-
+chefe. Espíritu Santo ñi piel meu kùpai Simeón templo
+meu petu ñi konn María ka Kosé yeŋu pichi Kesús.
+Simeón metafi Kesús, ka kùme dəŋuyefi Senor, fei pi:
+
+PAG 52
+
+„Féola pepí l·aian tùŋkechi ñi leliwəlfiel meu ñi ŋe
+meu ta Montulchefe."
+Məlefui kai Jerusalén meu kiñe l·antudomo, pura
+mari meli tripantu niefui, Ana piŋei ñi ùi, antù ka
+pun· serfikefui Señor, ñi ayunalen ka ñi rezalen.
+Feichiwe meu Ana kafei amui templo meu ka kùme-
+dəŋuyefi Señor. Wəla nùtramelkefui pichi Kesús ñi
+dəŋu fill pu che ùŋəmkəlefulu feichi montun dəŋu meu.
+
+
+PAG 53
+
+8. Kesús tuamulu Egipto mapu meu.
+
+Feichiwe meu peufalufi San Kose Señor tañi ánjel
+ka fei pi: „Witraŋe, nùfiŋe feichi Pəñenwen ka tuamuŋe
+Egiptomapu meu. Feimeu məlekelleaimi, iñche fei pieliyu
+wəla. Herodes kintuafi feichi pichi che ñi l·aŋəmafiel.“
+Witrai Kose feichi pun·, nùfi feichi Pəñəñwen ka amuiŋu
+Egiptomapu ple.
+Herodes al·ùnma ùŋəmniefui feichi pu kimke che,
+welu ñi kimfiel meu ñi akunoal eŋn, apoli ñi illkun
+ka werkùi ñi pu kon·a ka ŋillal·aŋəmfi itrokom pichike
+wentru epu tripantu trafmanulu ka Belén meu ka
+wallon meu məlefulu. Femŋechi məlei fùcha lladkùn
+ka feichi ŋen·ke pu pəñəñ ñaufùlaiŋn.
+Pichin meu wəla l·ai Herodes. Feimeu Señor ñi
+anjel peufalufi Kose Egiptomapu meu, ka fei pifi:
+„Witraŋe, nùfiŋe feichi Pəñeñwen ka amutuŋe Israel
+ñi mapu meu." Kose witrai, nùfi Pəñeñwen ka amutui
+Israel ñi mapu meu. Amui Galilea pəle, ka məlepui
+Nazaret meu.
+
+9. Pichi Kesús məlekai kùla antù pu templo.
+Chumel Kesús trafmai ñi mari epu tripantu, amui
+ñi epu trem eŋu Jerusalén meu ñi konpual Paskua
+fiesta meu. Rupan fiesta meu María eŋu Kose amu-
+tuiŋu ruka meu, welu pichi Kesús məlekai Jerusalén
+meu, welu ñi kimnon ñi epu trem. Deu amutufuiŋu
+kiñe kom antù, kintufiŋu pichi Kesús raŋi ñi pu moŋeyel
+ka ñi pu kimelchi che meu, ka ñi penofiel meu eŋu
+wənoamutuiŋu Jerusalén meu ñi kintuafiel pichi Kesús.
+Rupan kùla antù meu María eŋu Kose pu templo
+petuiŋn Kesús, anùlefui raŋi pu kimche, doktor piŋelu,
+Kesús ramtukefui təfa eŋn. Ñi allkùñmapeeteuchi che
+afmalewefuiŋn ñi lloudəŋun meu.
+Fei pieyeu ñi ñuke: „Pəñeñ, chumŋelu kam fem-
+kənumúiyu? Fiñmaukiauiyu tayu kintuun tami chau
+iñchiú."
+
+PAG 55
+Kesús lloudəŋui: „Chumal kam kintumukefun?
+Kimlaimu kam tañi məleal iñche ñi Chau tañi dəŋu
+meu?"
+Feichi meu amutui ñi epu trem eŋn Nazaret meu,
+ka yedəŋufi eŋu. Ka tremkəlefui Kesús ñi tripantu
+meu ka ñi kimn meu ka ñi gracia meu puñma ta Dios
+ka pu che.
+Kesús məlei Nazaret meu ñi epu trem eŋn, feichi
+trafpai ñi kùla mari tripantu.
+
+PAG 56
+
+10. Juan, Kesús ñi wəneltuleffe nùtramtukei ka
+wətrukochekei.
+
+Feichi llekùpai Kesús ñi antù ñi peŋeluam raŋi che.
+feichi meu wefpai Juan rulu Jordán l·eufù meu ka fei
+meu nùtramtukefui ka wətrukochekefui. Feichi santu
+wəneltuleffe fei pi: „Lladkùlkaukəleaimn ñi pəllelen
+meu reino wenumapu."
+Takuntuniefui Juan trəlke kamello, trarintəkukəlefui
+korron trəlke meu ka moŋekefui chori meu ka mi∫ki
+∫iulliñ meu mawida meu məlelu. Jerusalén che ka kom
+Judea che amuiŋn Jordán l·eufù meu, cheu ñi məlepeyùm
+Juan, ka wətrukoŋeiŋn ka nentuiŋn ñi werilkan.
+Al·ùn pu che ta Juan feichi werkùalchi Montulche-
+feŋelu trokifuiŋn; feimeu fei pi Juan: „Iñche ta Kristo
+no, welu iñche ñi rupamom məlei ñi kùpaial kiñe doi
+newenŋelu iñche meu. Iñche re ko meu wətruñmacheken,
+welu Fei wətruñmaiaimn meu Espíritu Santo meu.
+
+11. Kesús wətrukoeyeu Juan.
+
+Feichiwe meu Kesús tripai Nazaret meu ka amui
+Jordán meu, ñi wətrukoateu Juan.
+Welu Juan mailafui ñi femal. fei pi: „Iñche
+duamyeken tañi wətrukoafiel Eimi, ka ¿Eimi Kù
+paimi iñche meu? Kesús lloudəŋui, fei pi: „Femaimi
+məten, Dios ñi piel ta təfa." Feimeu Juan wətrukofi
+Kesús.
+
+PAG 57
+
+Deu ñi wətrukoŋen meu Kesus tripatui ko meu ka
+rezai. Kiñe lelpe nùlawí wenumapu, ka feichi Espíritu
+Santo naqpai wenté Kesús, paloma ñi ad reke. Kiñe
+dəŋun allkùŋei wenuple, fei pi: „Təfa ñi məte ayùelchi
+Fotəm kom tañi tutekeeteu."
+„Eimi, fùcha Chau mai
+Tami Fotəm Llapəmchefe,
+Dios Espíritu Santo kai,
+Iñ yafulpiukefe:
+Kiñen Dios kùla chelei:
+Itrokom kristiano rəf mupiltukei.“
+
+PAG 58
+
+12. Kesús femí ñi wənen milaqro kureŋen ilelkawən
+meu Kaná pichi waria meu.
+
+Feichi trafmai ñi kùla mari tripantu ta Kesús koní
+raŋi pu che meu kai yechi milaqroi. Kesús fillple
+trawəlfi ñi wall meu kimelpeelchi che; raŋiñ təfa meu
+dullinentui mari epu fùchake werken, Apóstol piŋelu.
+Ñi wənen milaqro femí Kesús Kaná piŋechi pichi
+waria meu, Galilea mapu meu məlei. Eyé meu nen-
+tuŋei kiñe kureŋen ilelkawən, fei meu maŋelkonuŋei
+Kesús eŋn ñi pu kimelpeelchi che ka María kai.
+Ñi afn meu feichi finu pùlku María fei pifi Kesús:
+„Niewerkelaiŋn finu." Kesús lloudəŋui: „Petu akulai
+tañi antù."
+Feimeu María fei pifi wallolechi pu che: „Chem
+pielmn meu Təfa, femaimn."
+Məlefui kayu me∫eŋ təkupeyùm ko, kiñeke me∫eəŋ
+meu trafkefui epuke kam kùlake metawe. Kesús fei
+pifi wallolechi pu che: „Apolafimn ko meu kom feichi
+me∫eŋ." Femiŋn, wən· me∫eŋ meu akui ñi apon.
+Feimeu fei pi Kesús: „Féola nentuaimn təfa meu
+ka yelafimn ñidokənuelchi wentru."
+Feichi ñidokənuelchi wentru pətokokan·tufi finu
+pùlku ŋetuchi ko, welu kimlafi, cheuchi ñi kùpan feichi
+finu. Feimeu mətrəmfi feichi kureŋeachi wentru ka
+fei pifi: „Kake che wema elkənukei kùme finu,
+wəla we∫á finu, welu eimi petu ellkaniekafuimi kùme
+finu.“
+
+PAG 59
+
+Fei təfa ñi wənen milagro ta Kesús, femí Kaná pichi
+waria meu, Galilea mapu meu məlei. Təfachi milaqro
+meu peŋeli ñi fùchake dəŋu, ka ñi kiməlpeelchi che
+mupiltuiŋn Fei meu.
+
+13. Kesús kimelchekei ka llapəmkei pu kutran.
+
+Deu kimelchelu Kesús kiñe sábado pu sinagoga
+Kafarnaum meu, tripai feimeu, ka peŋepui tichi epu
+peñiwen, Pedro eŋu Andrés piŋelu, ñi kimelpeelchi epu
+wentru ta Təfa.
+Pedro ñi llalla tranalefui ŋətantu meu, aré kutran
+niefui, feimeu llellipuŋei Kesús ñi llafam feichi ku-
+
+PAG 60
+
+trankəlechi domo. Koní Kesús cheu ñi məlen feichi
+domo ka tufi kuq meu. Anùpramei feichi domo ka
+mùchai məten ñamtui ñi are, ka llaftulu witratui.
+feimeu ka serfitufi Kesús ka fei ñi kimelpeelchi pu
+che yeŋn.
+Naqnantù puwəlŋei Kesús meu itrofill pu kutran.
+Kesús elí ñi kuq wenté feichi pu kutran meu, feimeu
+llafyetuiŋn.
+Kesús Galilea meu kom rupai. nùtramtukefui, fei
+pikefui pu che meu: „Wəñoduamaimn ka mupiltuaimn
+feichi Efankelio meu."
+
+PAG 61
+
+Fill ankenŋelu ka fill pu kutran yeŋekefuiŋn Kesús
+meu, Fei kom llapəmfi.
+„Fill pəle kùmelkacheiaukefui" (Hech. 10, 38).
+
+14. Kesús moŋelmatufi ñi pəñeñ feichi l·antudomo
+Nain mo tuulu.
+
+Feichiwe meu puwí Kesus Nain piŋechi waria meu.
+Amui ñi kimelpeelchi che yeŋn ka werá pu che yeŋn.
+Chuməl Kesús puwí iná wəl·ŋiñ waria meu, pefi petu
+
+PAG 62
+
+entuŋechi kine l·a, kiñe l·antudomo ñi kiñen pəñeñ
+Werá pu wariache kompañyefui feichi l·apəñeñlu.
+Feimeu Señor pefi feichi l·apoñeñlu, ka mi fenten
+kutranduamyefiel feichi domo, „ŋùmakilne!" pifi.
+Feimeu fəlpulu ñi yepeyùm l·a, tupufi. Witrakənuui
+feichi yenielu l·a. Ka Kesús fei pi: „Weche, fei pieyu.
+witratuŋe." Mùchai məten witrapramei ka dəŋufemi.
+Kesús elutufi ñi pəñen feichi domo.
+Feichi meu məlechi kom pu che fùcha llùkaiəŋn
+ka kùme konəmpafiŋn ta Señor, fei piŋn: Kiñe fùcha
+profeta witrai raŋiñ iñchiñ meu, ka pepafi ñi kùpal
+ta Dios.
+
+15. Kesús ñi pin meu lladkəmtui fùcha kūrəf
+l·afken· meu.
+
+Kiñe antù meu Kesús puwi Genesaret piŋechi malliñ
+I'afken· meu. Inafiŋn Kesús fùcha trawən che. Kesús
+koní kiñe nafíu meu ka anùntəkukənuui, welu feichi
+pu che witralekafuiŋn ùpel malliñ l·afken· meu. Kesús
+kimelkefui che feichi nafíu meu.
+Naqantù Kesús fei pifi ñi pu kimelpeelchi che:
+„Amuin doi koneltu." Feyeŋn femkənuiŋn feichi nafíu,
+Kesús ñi miaupeyùm, kake nafíu ken·ù miaukefui, Rekùl-
+tripakənuui Kesús ñi nafíu meu, feimeu umautui.
+Kiñe lel kiñe fùcha kùrəf triparumei raŋiñ malliñ
+l·afken· meu ka fùcha reu ofluñmañmaeyeu ñi nafíu
+eŋn. Welu Kesús umaqkəlefui. Ñi pu kimelpeelchi
+
+PAG 63
+
+che pepueyeu ñi nepelateu: „Señor, kellumoiñ, ewem
+lan·aqpeaiñ em minché meu," piŋn.
+Feimeu fei pi Kesús: „¿Chumal kam llùkaimn, pichi
+mupiltufe che eimn?" Fei pilu feimeu witrai ka ŋənefi
+kùrəf ka feichi malliñ l·afken·, ka mùchai məten kom
+təŋrumetui.
+Itrofill pu che afmalewei, fei piŋn: „¿Inei məŋel
+kam təfa, katrùtui kùrəf ka reu?“
+
+16. Kesús al·ùlkei kofke.
+
+Ka antù meu Kesús amui n·ome malliñ l·afken· meu:
+ùwemapu meu amui, welu kiñe fùcha trawən che ina-
+eyeu feichi ùwemapu meu. Kesús, ñi fərenefiel feichi 
+pu che, kimelfi ka llapəmfi pu kutran che.
+
+PAG 64
+
+Deuma naqí antù, ka pu Apóstol fei pifiŋn Kesús:
+„Chaliwədafiŋe təfachi pu che ñi pepí amuam eŋn waria
+meu ka ñi ŋillaiaqelam," piŋei ta Kesús. Kesús pi:
+„Mufù kofke nieimn?"
+Andrés lloudəŋui: „Təfa ñi məlen kiñe weche, niei
+kechu kawella kofke ka epu challwa. Welu ¿tunteni
+kam təfa, fentren che ñi dituam?" Kesús pi: „Kùpalel-
+muchi feichi kofke ka feichi challwa, ka anùnaqpe pu
+che kachu meu."
+Anùnaqi pu che: kechu waraŋkalefui pu wentru,
+rakiŋelai domo ka pichike che.
+
+PAG 65
+
+Feimeu Kesús tufi feichi kechu kofke ka feichi epu
+challwa, prakintui wenuple, kùme piñmafi, tufi feichi
+kofke, wədkafi ka elufi ñi kimelpeelchi pu che, feyeŋn
+wədamelfiŋn pu che. Ka femŋechi Kesús wədamfi challwa.
+Fill iŋn kom ñi kùpa in.
+Chuməl itrokom wedalefuiŋn, Kesús fei pifi ñi pu
+kimelpeelchi che: „Feichi puchun kofke ŋələmtuaimn,
+ñi ŋənanoam." Pu kimelpeelchi che ñəmitufiŋn puchulu
+feichi kechu kofke meu ka feichi epu challwa meu,
+sofralu meu ka apoltuign mari epu kanasto.
+Chuməl trawən che pefi feichi milaqro, welukon fei
+pifiŋn Kesús: „Mupiñkechi, Təfa məten feichi profeta
+ŋei ñi kùpaafel feichi tuemapu meu.
+
+17. Kesús kimelkefi rezan ñi kimelpeelchi pu che.
+
+Rupan ñi rezamom Kesús, pepueyeu kiñe antù ñi
+kiñe kimelpeelchi che ka fei pipueyeu : „Señor, kimel-
+moiñ rezan." Feimeu Kesús lloudəŋui: „Femŋechi fei
+piai mn rezan:
+Iñchiñ taiñ Chau, wenumapu meu ta məleimi, santul-
+ŋepe tami ùi, eimi tami reino iñchiñ meu kùpape;
+chumŋechi tami piel femŋekei ta wenumapu meu, ka
+femŋepe kai ta tuemapu meu. Elumuiñ fachi antù taiñ
+fill antù kofke; perdonañmamoiñ taiñ pu werilkan,
+chumŋechi iñchiñ perdonakefiiñ taiñ pu werilkakeeteu:
+elmukiliñ taiñ werilkanoam; welukanoam; welukemai wedá meu
+montulmuiñ. Amén.“
+
+PAG 66
+
+Wəla Kesús ka fei pifi ñi kimelpeelchi pu che.
+„Llellipumn ka eluŋeaimn, kintumn ka peaimn, mətrə-
+maimn ka nùlalŋeaimn. Llellipulu mai fei eluŋekei
+kintulu fei pekei, ka mətrəmlu fei ta nùlaləŋekei."
+
+18. Kesús nùtramkakei feichi ùl·men che ka feichi
+kuñifalche ñi parábola (adentum nùtram).
+
+Raŋi pu che meu, allkùlefuiŋn Kesús ñi dəŋuken,
+məlefuiŋn kai kiñeke rəkùŋeumechi ùl·men che, feyeŋn
+fei pilelfi Señor:
+„Məlefui kiñe antù kiñe ùl·men, təkuniefui púrpura,
+kake təkuluwən ka, fùcha ùl·men ñi təkupeel, ka fill
+antù məte kùmeke ileluwən niekefui.
+Məlefui ka kiñe kuñifal che, Lázaro piŋefui ñi ùi,
+tranalefui apokutran tichi ùl·menche ñi iná wəl·ŋiñ
+ruka meu. Tuteŋeafui, eluŋefule pichike llaŋkùnaqchi
+kofke ñi wenté mesa meu feichi ùl·men che, welu pelai
+ñi rulelpaiateu. Al·ùn naq kùpakefui trewa ñi kəll-
+matùñmaafiel ñi kutran.
+Chumel l·alu ti kuñifal em, yepayeu ánjel, ka meta-
+kənuŋepui Abrahán ñi luku meu. Təfeichi riku kai
+ka l·ai, fei rəŋalŋei kùtral mapu meu.
+Raŋiñ ñi fùchake kutran meu lelinprami tichi ul·men
+che yem ka pefi al·ù mapu Abrahán, metaniefui Lázaro.
+Feimeu mətrami: „Chau Abrahán, fəreneqen, wer-
+kùlelen Lázaro, focholpe ko meu ñi kiñe wechun traŋəll-
+kuq ka fələmpaianeu tañi kewən· meu, fùcha kutran-
+kaukəlen iñche raŋiñ kùtral meu.
+
+PAG 67
+
+Abrahán lloudəŋui: „Konəmpanieŋe, fotəm, eimi re
+kùmeke dəŋu niefuimi petu mi moŋen, feichi meu Lá-
+zaro re kutrankaukəlefui məten. Eimi féola welukutran-
+kaukəletuimi, welu Lázaro ayùunkəletui. Yom məlei
+dəŋu. Raŋiñ iñchiñ meu ka eimn meu məlei kiñe fùchá
+wau fitufalnulu, rəfrəf pepí naqənŋelai cheu tami məlen.
+
+19. Kesús kùmepiñmafi pu pichike che.
+
+Feichi antù kiñeke pu domo yeyei ñi pu pəñeñ
+Kesús meu ñi tuñmaŋeal ka ñi kùme piñmaŋeal. Pu
+kimelpeelchi che wedatripadəŋufemfiŋn feichi pichike
+che, ñi amutuam eŋn. Feimeu Kesús fei pifi ñi pu
+kimelpeelchi che: „Kalli kùpape iñche meu feichi pichike
+
+PAG 68
+
+che, ka katrùtukifilmn, feyeŋn mai ŋen· ŋei reino wenu-
+mapu meu."
+Ka Kesús mətrəmfi feichi pichike che ka rofəlfi ñi
+lipaŋ, meu.
+20. Ñi moŋetun Lázaro.
+Betania meu iná Jerusalén moəŋelefui Lázaro eŋu
+ñi epu lamŋen, María yeŋu Marta. Fùcha tukutrani
+Lázaro. Feimeu feichi epu lamŋenwen fei pifalfiŋu
+Kesús: „Señor, tami ayùpeel kutrani." Kesús petu
+məlekafui epu antù cheu ñi məlemom. Kùla antù meu
+Kesús fei pi ñi pu kimelpeelchi che meu: „L·ai Lázaro,
+amuan ñi moŋelmetuafiel, piken."
+Chumel puwí Kesús, deuma meli antùfui ñi rəŋal-
+ŋemom Lázaro. Marta tripai trafmeafilu Kesús ka fei
+pifi: Señor, məleuyefulmi təfa meu, l·auyelaiafui tañi
+lamŋen." Feimeu Kesús lloudəŋui: „Moŋeai mi lamŋen,"
+pi. Marta pi: „Kimn ñi moŋetual afantù meu.“ Feimeu
+dəŋui Kesús: „Iñche moŋetun ŋen ka moŋen ŋen. Tuchi
+mupiltulu iñche meu, l·allefule rume, moŋeleai. Ka
+tuchi moŋelu ka mupiltulu iñche meu, rumel l·alaiai.“
+Feimeu amui Marta, mətrəmfi ñi lamŋen ka fei pifi:
+„Kimelchekelu məlepai fau ka mətrəmeimeu." Maria
+ŋeñika witrai, amui cheu ñi məlen Señor ka ñi ləpu-
+naqn meu ñi iná n·amun· fei pifi: „Señor, məleuyefulmi
+təfa meu l·alaiafui tañi lamŋen."
+María ŋùmai, ka məleyechi pu che kafei ináŋùmai
+Feichi meu lladkùduamtui Kesús, fei pi: „Cheu elŋei?"
+
+Ka lloudəŋuiŋn: „Kupaŋe, leliwəlpafiŋe." Kesús ŋùmai
+feimeu, ka pefilu ñi ŋùman fei piŋn pu Judio: „Kintu-
+wəlfimn, chumŋechi ayùperkefuichi."
+Feichi rəŋan məlefui pu lil, kura meu takulefui ñi
+wel·ŋiñ. Púulu Kesús eltuwe meu : „Entufimn kura,"
+pipui. Feimeu fei pi Marta: „Señor, deuma wedá
+n·ùmùi, meli antù meu l·alu kam."
+Kesús fei pifi: „¿Fei pipelayu amá: mupiltulmi,
+peafimi Dios ñi ŋen·ŋen?" Feimeu nentuŋei kura.
+Kesús lelinprami wenuple ka ŋillatuñmawí. Feimeu
+newentu fei pi: „Lázaro, tripane wekun." Ka feikachi
+tripai l·auma. Welu mən·ulkəlefui ñi n·amun· ka ñi
+kuq; feimeu fei pi Kesús: „Ñaitutufimn, ñi pepi amuam."
+
+PAG 70
+
+Fentren pu Judio, məlelu feichi meu, mupiltuiŋn
+Kesús meu. Welu kakelu amuyeiŋn pu Fariseo meu ka
+nutramelpufiŋn ñi chummom Kesús. Ka pu Fariseo eŋn
+ñidol pu sacerdote fei piŋn: „¿Chumain? Təfachi
+wentru mətewe deumai milaqro." Feimeu trokituiŋn
+ni l·aŋəmafiel Kesús eŋn; welu Kesús ùpeltripai.
+
+21. Kesús elí ayùn mandan dəŋu.
+
+Llekùpafui ñi Paskua fiesta pu Judio, feimeu amui
+Kesús Jerusalén meu. Petu kimelchelu pu templo meu
+ramtueyeu kiñe Fariseo: „¿Tuchi dəŋu məŋel kam
+mandakei feichi ley ?" Kesús lloudəŋui: „Ayùafimi tami
+Señor Dios kom tami piuke meu, kom tami pəlli meu,
+kom tami duam meu, kom tami newen meu. Fei təfa
+ñi wənen ka ñi ñidolmandael feichi ley. Kaŋelu mandan
+dəŋu ka femŋei: ayùafimi tami inauinauchi che, chu-
+mŋechi ki∫u ayùukeimi.
+
+22. Kesús nùtramkakei aframtun dəŋu.
+
+Kesús nùtramelfi ñi pu kimelpeelchi che feichi fù-
+chake dəŋu məlealu ñi ka kùpatual meu tuemapu meu.
+Fei pi Kesús: „Che ñi pəñeñ kùpaiai, walloñmaleai
+fùcha ñidoldəŋu meu, ka itrokom tuemapu kùpal tra-
+wəluai ñi puñma meu. Ka fei wichukekənuafi kiñeke
+pu che kake che meu, chumŋechi ta kamañ kulliñ wichu
+kekənuyekei pu kordero kaniru kapra meu. Pu kileke
+man pəle elkənuŋeai, feichi kake pu che weleple.
+Feimeu feichi Kesús rey fei piafi manpəle məlechi
+pu che: „Kùpamn, ñi kùme piñmael tañi Chau, ka
+
+PAG 71
+
+nùniemn feichi reino, ñi elŋemom mapu adkəlei eimn
+tamn duam."
+Welu welepəle məlechi pu che fei piafi: „Wədamn
+iñche meu, tamn maliciaŋen, rumel məlechi kùtral mapu
+meu, adkəlei wekufù ka ñi pu ánjel ñi duam."
+Ka təfachi pu che yeŋei turəpu məlechi kutran-
+kawən meu, welu feichi nor kùmeke pu che konai
+afnoachi moŋen meu.
+
+23. Kesús elí doi santuŋechi Sakramento Altar.
+
+Feichi pun· meu petu tañi l·anon, Kesús elí kiñe
+Sakramento apolelu kimfalnuchi dǝŋu meu.
+
+PAG 72
+
+Akui ñi antù, kimfui Montulchefe, ka kùpa elurpufi
+ni pu wen·ùi kine konəmpaniepeyùm ñi ayùn, wechualu
+kam ñi ayùafiel.
+Feichi pun· meu tulu Kesús kofke ñi santoke kuq
+meu, prakintui wenuple, gracias pifi ñi fillpepilfe Chau.
+kùme piñmafi kofke, wədamfi ka nùukelfi ñi pu kimel-
+peelchi che, fei pi: „Tumn ka imn, təfa iñche ñi anka
+ŋei, wǝlŋeai eimn tamn duam," pi ta Kesús.
+Rupan ilu eŋn, Kesús ka femŋechi tui kaliz, gracias
+ka pi, kùmepiñmafi ka elufi ñi pu kimelpeelchi che,
+fei pi : „Tumn ka pùtuaimn, təfa iñche ñi mollfùñ ŋei,
+wətruñmaŋeai eimn ka fentren pu che ñi duam ŋənai-
+tuŋeam werilkan. Eimn ka femaimn tañi konəmpa-
+ŋeam." Ka fill pùtuiŋn feimeu.
+
+24. Kesús arofmollfùñi malaltəku olifantu meu.
+
+Chuməl deuma təkuuyefui wekufù Judas ñi piuke
+meu, kiñelke feichi mari epu Apóstol, ñi wəlafiel ñi
+kimelpeeteu, amui ñidolke pu sacerdote meu, ka fei
+pipufi: „Chem elumoan, eluulin Kesús? Feyeŋn pi:
+„Kula mari moneda plata": ka Judas maí ñi chalin-
+təkuafiel Kesús fentren plata meu.
+Deuma pun·lu, Kesús amui ñi kake mari kiñe kimel
+peelchi che yeŋn, Olifantu winkul meu, cheu ñi məle
+mom Getsemaní piŋechi malaltəku mapu. Ka fei pifi
+Kesús ñi pu Apóstol: „Fau məlekellemn petu tañi ŋilla-
+tuñmaun." Ka yefilu Pedro, Santiago ka Juan, ponwi
+koní malaltəku olifantu meu.
+
+PAG 73
+
+Feimeu Kesús yechi lladkùnaqi ka fiñmawí ñi piuke
+ka fei pifi ñi kùla apóstol: „Lladkəlei tañi pəlli tañi
+l·aial meu. Fau məlekellemn, nepeleaimn ka ŋillatuñ-
+mauaimn." Ka pichike trekaiaulu traf pùlli kənui ñi
+aŋe, ŋillatuñmaui ka pi: „Tañi Chau, pepi femŋele.
+pəntùlfiŋne iñche meu feichi kaliz, welu iñche ñi piel
+felekilepe, Eimi mai piaimi. Kùla rupa femŋechi
+ŋillatuñmaui Kesús.
+Feimeu akurumei ñi fiñmawən, ka fenten arofùmoll-
+fùñi, maŋinaqyei pùlli meu ñi mollfùñ.
+
+PAG 74
+
+Petu ŋillatuñmaukəlekafui doi al·ùñma ka doi poyen-
+kechi. Feimeu peufalueyeu kiñe ánjel wenuple ka
+yafulduameyeu.
+Ka Kesús witrai ka fei pifi ñi pu kimelpeelchi che:
+„Witramn, amuiñ. Kintuwəlfimn, llekùlepai kùpalchelu."
+
+25. Kesús nùtuŋepai.
+Kesús petu ñi dəŋun pepayeu Judas, werá pu sol-
+dao yeŋn ka pu kon·a yeŋn, miawəliŋn fentanan-
+təkulechi kùde ka ùpe kùde, fuchá machete ka karoti.
+Judas aŋka rəpù fei pirpufi ñi pu soldao: „Iñche tuchi
+ñi be∫ítupuel fei tuafimn." Feimeu pepufi Kesús, chali-
+pufi ka pi: „Mari mari, kimelchekelu"; ka be∫itufi.
+Kesús fei pieyeu: „Wen·ùi, ¿chumal kam kùpaimi?
+¿Kiñe be∫itun meu kam chalintəkukefimi che ñi Pəñeñ?"
+Feimeu Kesús chiwədrupai trokiñ che pəle ka ram-
+tufi: „¿Inei kam kintukefimn?" „Kesús, Nazaret che,"
+llondəŋuŋei Kesús. Fei pi Kesús: „Iñche ta təfa."
+Feyeŋn wəñowitrawiŋn ka tranapuiŋn pùlli meu.
+Iñaŋechi ka ramtui Kesús: „¿Inei kam kintukefimn?"
+Ka feyeŋn lloudəŋuiŋn: „Kesús. Nazaret che." Kesús
+pi: „Deuma piuiñ: iñche ta təfa. Felele ñi kintumoke-
+fiel iñche, kalli amupe təfa yeŋn." Feimeu nùŋei Kesús.
+Welu Simón Pedro piŋelu nentupai ñi machete,
+chùŋarùŋepui Malko, Ñidolsacerdote ñi kon·a, rəpunen-
+tuñmaŋei ñi man pilun. Welu Kesús fei pifi Pedro:
+„Təkutuŋe mi machete faina meu. Feimeu tuñmafi
+ñi pilun Malko ka llapəmfi.
+
+PAG 75
+
+Wəla nùcheŋei ka trariŋei. Tichi pu kimelpeelchi
+che ki∫ukənofiŋn Kesús ka lefmawiŋn, Pedro eŋu Juan
+l·el·əmlaeyeu, wenche inalei.
+
+26. Kesús piñmaŋei ñi l·aial.
+
+Feichi trokiñ che puwəlfiŋn Kesús Kaifás piŋechi
+Ñidolsacerdote ñi ruka meu, cheu ñi trawəlumom feichi
+trawən fùchake juez. Ñidolsacerdote yeŋn ñi trawən
+ŋùlam kintufiŋn testiko, Kesús ñi trafdəŋuateu, fei ñi
+pepí piſmaneam ñi laial, welu pelainn.
+Feimeu witrapramei Ñidolsacerdote, ka fei piŋei
+Kesús: ,Ramtukadəŋuayu moŋen Dios fəla, fei pimoaiñ:
+„¿Eimi kam Kristo, Dios ñi Fotəm?"
+Kesús lloudəŋui: „Iñche mai", pi.
+Feimeu Ñidolsacerdote wichárùi ñi takun ka fei pi:
+„Təfa wedá dəŋui ta Dios meu. ¿Doi chumŋechi
+testiko kam peaimn?" Ka itrofill wirarùiŋn: „L·a-
+ŋəmfali."
+Feimeu Kesús yeŋei, kintuñmanieŋepui wùn·man meu
+wəla. Petu ñi femnieŋen wedá ayetumekefeyeu ñi
+kintuñmanieteuchi che: tofkùtuaŋeŋekefui, wiraftəkuŋe-
+kefui, ùweñilkənumekeŋekefui ka fill adkaŋekefui.
+Feimeu wəñoduami Judas ñi furi wəlfiel meu Kesús
+ka elutufi feichi kùla mari moneda plata pu Ñidol-
+sacerdote, fei pifi: „Kulpan tañi wəlfiel meu nor kùme-
+ŋelu ñi mollfùñ. “Welu feyeŋn lloudəŋuiŋn: „¿Iñchiñ
+chumiiñ feimeu? Eimi kidu mi dəŋu ta təfei." Judas
+
+PAG 76
+
+ùtrəftəkurputufi feichi plata pu templo meu, ka tripa-
+tui, feimeu ka pəltrùkənuwí.
+
+27. Kesús azotiŋei.
+
+Feichiwe meu Judea meu gofernador ŋefui ta Poncio
+Pilato, fei meu yefiŋn Kesús pu Judio pu liwen ñi dəŋu-
+ŋeal. Pilato kimniefui, re ñi itrùrùn meu pu sacer-
+dote nùtuŋefui Kesús, feimeu kintukefui dəŋu ñi pepí
+montulafiel ta Təfa. Welu pu sacerdote ŋədalkənufi
+pu trawən che, ka itrofill wirarùiŋn: „Krucificaŋepe,
+krucifikaŋepe."
+
+PAG 77
+
+Pilato pi: „Peñmalafiñ kulpa tañi l·aŋəmŋeam.
+Feimeu fəla ŋillaazotiafiñ, ka wəla məñatripatuai."
+Feimeu mandai ñi azotiŋeal Kesús.
+
+28. Kesus wayun· meu trariloŋkokənuŋei.
+
+Deu azotiŋelu Kesús nentuñmaeyeu ñi təkuluwən
+pu soldao ka təkukənuleleyeu kiñe púrpura makuñ.
+Damikənulfiŋn trariloŋko wayun· ka elelfiŋn Kesús ñi
+loŋko meu. Elelkənufiŋu kuq meu kiñe farilla cetro
+reke, lukunaqkantukefuiŋn puñma Kesús meu ka ñi
+
+PAG 78
+
+ayetufiel fei piŋn: „Mari mari, pu Judio ñi rey.“ Kakelu
+tofkùtueyeu ka ùweñileyeu, tuñmaŋetui ñi farilla ka
+feimeu wiraftəkuaŋeŋei.
+
+29. Kesús elkənuŋei puñma pu trawən che meu
+ka chalintəkuŋei ñi krucifikaŋeal.
+
+Petu kintukefui dəŋu ta Pilato ñi montuam Kesús.
+Fei ñi duam mandai ñi elkənuŋeam Kesús puñma pu
+trawən che, wayun·trariloŋkolefui, púrpura makuñ təku-
+niefui; ka fei pi Pilato: „Kintuwəlfimn, che ta təfa!"
+
+PAG 79
+
+Welu pu Ñidolsacerdote ka ñi pu kon·a yeŋn wira-
+rùiŋn: „Krucifikaŋepe, krucifikaŋepe", piŋn.
+Pilato fei pi: „iñche peñmalafiñ ñi kulpa." Welu
+pu Judio lloudəŋuiŋn: „Iñchiñ nieiñ taiñ ley, ka fei ñi
+fəla məlei ñi l·aial ta təfa, ki∫u Dios ñi fotəmuun
+meu."
+Feichi afpun rupa Pilato elí dəŋu ñi montuam Kesús;
+welu pu Israelita fei pifiŋn: „Deumalmi mi montuam
+Kesús, wen·ùi ŋelaimi César meu." Feimeu Pilato tuí
+ko, kəchakuqtui ka fei pi: „Kulpa nielan ñi mollfùñ
+meu təfachi norkùmeŋelu. Chumŋechi ayùlmn eimn,
+femaimn." Ka lloudəŋui feichi pu trawən che: „Kùpape
+ñi mollfùñ wenté iñchiñ meu ka taiñ pu yall meu",
+piŋn.
+Feimeu Pilato chalintəkufi Kesús ñi krucifikaŋeam.
+
+30. Kesús panùyeniei ñi kruz.
+
+Kesús walloñmaeyeu pu soldao, nentuñmaŋetui ñi
+púrpura makuñ, təkulelŋetui ki∫u mi təkuluwən, yeŋei
+cheu ñi krucifikaŋeal: ki∫u yei ñi kruz.
+Kesús pərai Gólgata kam Kalfario piŋechi wiŋkul
+meu, leŋleŋwe ñi fei piken tichi ùi. Kesús eŋn amui
+epu wedakecheŋelu ka ñi krucifikaŋeam eŋu.
+Kiñe wentru, Simón piŋelu, feimeu akui lelfùn meu.
+Pu soldao ŋeñikaeyeu, ñi kelluyekənuafiel ñi kruz
+ta Kesús.
+
+PAG 80
+
+Kiñe fùcha trokiñ che yeŋn tripai Kesús. Reyù-
+amulefui kai kiñeke kùmeduamŋechi pu domo, ñi kutran-
+duamyefiel meu Kesús ŋùmaiŋn.
+„Ofi∫a reke yeŋei l·aŋəmchewe meu, welu nùlalai
+ñi wən" (Hech. 8, 32).
+
+31. Kesús ñi krucifikalen meu.
+
+Epe raŋi antù Kesús puwi Kalfario piŋechi wiŋkul
+meu. Pu soldao elueyeu ùtrum ka finaqre ñi pùtual.
+
+PAG 81
+
+Kesús pətokokan·tui feichi we∫á pùlku, welu ayùlai
+pùtualu. Wəla krucifikanei.
+Kiñeun Kesús eŋn krucifikaŋei kai feichi epu wedá
+che, kiñe, Kesús ñi man pəle, kaŋelu Kesús ñi wele pəle.
+Feimeu pu soldao wədamfiŋn Kesús ñi təkuluwən,
+welu ñi túnika, dùwéntakun ŋefui, kùpá wədamlafiŋn,
+fei kudelŋei tuchi ñi weual.
+Pu soldao məlefui iná kruz ka peñiefuiŋn ñi kutran-
+tulkaŋen Kesús.
+
+PAG 82
+
+„Ayùeneu ka kidu wəlui ñi l·aial iñche mi duam."
+(Gal. 2, 10.)
+Dios ñi kordero, nentukefimi kom mapu ñi werilkan,
+fərenemoiñ.
+
+32. Kesús dəŋui ñi reqle afn·eməl ka l·ai.
+
+1. Ñidolsacerdote yeŋn fentren pu Judio ayetufiŋn
+Kesús ka fei piŋn: „Eimi Dios ñi fotəm ŋelmi, naq-
+paŋe kruz meu."
+„Kake pu che montulfi, welu kidu pepí montuluuke-
+lai ta təfei." Welu Kesús ŋillatuñmawí ka fei pi: „Chau,
+ŋùnaitufiŋe yeŋn, kimlai ñi chumken eŋn."
+2. Kiñeke feichi epu wedá che, krucifikaneuma Kesús
+eŋn, kafei ayetufeyeu, fei pi: „Eimi Dios ñi Fotəm
+ŋelmi, montuluŋe ka montulmoiyu kai." Welu kaŋelu
+fei pi: „Iñchiú tayu kulpaken meu nalŋeiyu, welu təfa
+chem rume wedá femlai." Ka chiwədrupalu Kesús
+pəle, fei pi: „Konəmpanieaqen, Señor, chuməl məle-
+putulmi paraiso meu." Kesús lloudəŋueyeu: „Mupiñ-
+kechi fei pikeyu: fachi antù məleaimi paraiso meu
+eimi inchií."
+3. Minchetu kruz meu witralefui Kesús ñi ñuke
+yeŋu ñi ayùn kimelpeelchi che. Kesús fei pifi María:
+„Dómoche. fei təfei tami pəñeñ." Feichi kimel-
+peelchi che fei piŋei kai: „Fei təfei tami ñuke."
+Feimeu turpu wədawelai María meu feichi ayùn kimel-
+peelchi che.
+
+PAG 83
+
+4. Raŋiantùlu dumiñrumei antù, ka fùcha dumiñ
+takuniefui muñku mapu kùla hora fentreñma. Feimeu
+Kesús wenuntui ñi dəŋun ka fei pi: „Tañi Dios, tañi
+Dios, ¿chumŋelu kam tranakənoen?"
+5. Pichi al·ùn meu fei pi Kesús: „Wiwùn." Feimeu
+kiñe soldao tufi kiñe esponja, wifontəkufi finaqre meu,
+elfi wechun rəŋi meu ka nùukəlfi Kesús ñi pətokoam.
+6. Deu pətokokantúuma Kesús fei pi: „Kom trùr
+deukəlei."
+7. Iñaŋechi Kesús newentu fei pi: „Señor, tami kuq
+meu chalintəkun tañi kùrəf." Ka ləpunaqkənui ñi
+loŋko ka chalintəkulelfi ñi pəlli ta Señor.
+Nùyùi mapu, traftralofui lil. Nùlankepi eltuwe, ka
+fentren l·a pu che ñi aŋka witratui. Feichi kapitan
+eŋn pu soldao fùcha trepewiŋn ka fei piŋn: „Mupiñ-
+kechi nor kùme che ŋeərkefuy em ta təfei, mupiñkechi
+Dios ñi fotəmerkefuy em." Kom che mətroŋùkantui
+ñi rəku ka dəŋunokechi amutui Jerusalén meu.
+
+33. L·a Kesús entuklafaŋetui ka rəŋalŋei.
+
+Allwe naqnantù kiñe feichi soldao tufi rəŋi ka
+nùlañmafi ñi kadi Kesús. Feikachi maŋitripai mollfùñ
+ka ko.
+Wəla ñi epu kimelpeelchi che Kesús entuklafañ-
+matufiŋn ñi l·a aŋka, mən·ulfiŋu lif ekull meu, ka təku-
+ŋei kiñe wé rəŋan lil meu. Wəl·ŋiñ rəŋan meu elŋei
+kiñe fùchá kura.
+
+PAG 84
+
+Ka antù meu kùpaiŋn pu nidolsacerdote, elfiŋn kui-
+daial feichi pu soldao iná rəŋan meu ka sellakanofiŋn
+feichi kura.
+
+34. Kesús wəñomoŋetui l·achi pu che meu.
+
+Kula antù wùn·man meu wəñomoŋetui Kesús raŋi
+pu l·a meu; ka tripai rəŋan meu apon fùchake dəŋu
+meu. Kiñe lel fùcha nùyùfemi mapu. Wenuple naqpai
+Señor ñi kiñe Anjel, entupai kura, ñi takulemom Wəl·ŋiñ
+rəŋan ka anùkənui wenté fei meu. Ni kintuwəln lləfke-
+femekefui, ka ñi lùq təkuluwən napər pire femŋefui.
+
+PAG 85
+
+Feichi kintunieeltuwelu trùntrùnùiŋn llùkan meu ka
+tranapuiŋn pùlli meu l·a femŋechi.
+Feichi meu akui kiñeke kùme duamŋechi pu domo,
+ayùfuiŋn ñi ŋəl·fùñmaiafiel Kesús ñi trawa ka pepufiŋn
+nùlalechi rəŋan. Feichi ánjel fei pi: „Kintukefimn Kesús
+Nazaret túulu krucifikaŋeuma? Wəñomoŋetui, ŋelai fau.
+Amumn ka fei piafimn pu kimelpeelchi che yeŋn Pedro."
+
+35. Kesús peufalufi ñi kimelpeelchi pu che ka elí
+Sakramento Penitencia.
+
+Feichi antù naqnantù meu traukəlefui kiñe fùcha
+katrùntǝku ruka meu Jerusalén meu feichi pu Apóstol
+
+PAG 86
+
+ka kiñeke kimelpeelchi pu che yeŋn. Ñi llùkafiel meu
+pu Judio nùrəfniefuiŋn ñi wəlŋiñ ruka. Kiñe lel peu-
+falwí Kesús raŋi pu feyeŋn meu ka fei pifi: „Kùmelen
+məletupe eimn meu. Iñche ŋen, llùkakilmn." Feichi
+kimelpeelchi pu che ayùuiŋn pefilu Señor.
+Ka fei pitui Kesús iñaŋechi: „Kùmelen məletupe
+eimn meu. Chumŋechi ñi Chau werkùuyeeneu iñche.
+ka femŋechi iñche kai werkùuain." Feimeu pimuñmafi
+feyeŋn ka fei pifi: „Lloufimn Espíritu Santo. Eimn
+inei rume perdonañmafilmn werilkan, perdonañmaŋeai;
+ka eimn inei rume nieñmakafilmn ñi werilkan, nieñ-
+maŋekaiai."
+Ka ñamrumetui Kesús puñma ñi pu Apóstol meu.
+
+36. Kesús chechùmkənofi Pedro, ñi ñidolŋeal təfachi
+Iqlesia dǝŋu meu.
+
+Deu moŋetulu Kesús məletui təfachi tuemapu meu
+meli mari antù, kakeumechi peŋelkefui ñi pu Apóstol
+meu rəf ñi fei ŋen, rəf ñi wəñowitrapramemotum ka
+rəf ñi moŋeletun, ka dəŋukefui feyeŋn Dios ñi reino
+dəŋu meu. Kafei peufaluwí Señor kake kimelpeelchi pu
+che meu ka kiñe rupa yaf kechu pataka che meu.
+Kiñe antù reqle kimelpeelchi che məlefuiŋn Gene-
+saret piŋechi malliñ meu, raŋiñ feyeŋn meu Pedro,
+Santiago ka Juan. Kiñe lelpe məlerumei Kesús raŋiñ
+feyeŋn meu ùpəl malliñ meu, ka nùtramkai ka i feyeŋn.
+Ka Kesús fei pifi Simón Pedro: „Simón, Juan ñi
+fotəm, ¿pu feyeŋn meu doi ayùpean eimi?" Pedro
+
+PAG 87
+
+lloudəŋui: „Deu kimimi, Señor, ayùkeeyu." Ka Kesús
+fei pieyeu: „Kintuñmanielaqen tañi pu kordero." Kawe
+fei pitui Kesús: „Simón, Juan ñi fotəm, ¿ayùkepeen
+chei?" Pedro lloudəŋui: „Eimi kimimi, Señor, ayù-
+keeyu." Ka Kesús fei pieyeu: „Kintuñmanielaqen tañi
+pu kordero."
+Kùla rupa ramtueyeu Kesús: „Simón, Juan ñi fotəm,
+¿ayùkepeen chei?- Feimeu lladkùnaqi Pedro ka fei
+lloudəŋufi Kesús: „Señor, eimi fill kimimi, ka kimimi
+kai tami ayùkefiel. Ka Kesús fei pieyeu: „Kintuñ-
+manielan ñi pu ofi∫a."
+
+PAG 88
+
+37. Kesús wechui wenumapu meu.
+
+Feuall Kesús peufaluwí ñi mari kiñe Apóstol meu
+ileluwən ruka meu Jerusalén meu. I pu feyeŋn ka
+mandalfi, Jerusalén meu ñi məlekaiam eŋn, lloufile eŋn
+wəla Espíritu Santo. Wəla məlefui ñi nùtramelmeafiel
+feichi efankelio pu Judio ka pu pagano. Fei pieyeu
+Kesús eŋn: „Iñche eluŋeuyen kom pepiluwən wenu-
+mapu ka tuemapu meu. Amuaimn ka kimelafimn itro-
+kom pu kùpal ka wətrukolafimn Chau ka Fotəm ka
+
+PAG 89
+
+Espíritu Santo kai ñi ùi meu, kiməlafimn kom dəŋu
+tamn allkùmom iñche meu. Iñche məlekaian eimn meu
+afpun tripantu meu. Tuchi mupiltule ka bautizaŋele,
+montuai. Welu tuchi mupiltunule, we∫á dəŋu meu
+elŋeai."
+Wəla Kesús yefi ñi pu Apóstol Olifoŋechi Wiŋkul
+meu, wenuntuprami ñi kuq ka kùme piñmafi feyeŋn.
+Petu ñi kùme piñmafiel pəntùkənui feyeŋn meu ka
+wechui wenumapu meu. Pu Apóstol ŋillatuñmaukəle-
+fuiŋn Kesús meu ka kintuwəlniefuiŋn deu ñamkonpulu
+wəla kiñe tromù meu.
+Petu ñi prakintulekan pu Apóstol, naqparumei epu
+Anjel, lùq təkuluwənŋ eiŋu, fei pifiŋu: „Təfachi Kesús
+pəntùkənui eimn meu ka wechui wenumapu meu; chum-
+ŋechi pefimn ñi pəramom, ka femŋechi kùpatuai."
+Feimeu pu Apóstol apó ayùun amutuiŋn Jerusa-
+lén meu.
+
+38. Kesús ñi kimelpeelchi pu che lloufiŋn Espíritu
+Santo.
+
+Jerusalén meu trawəluiŋn pu Apóstol ileluwən ruka
+meu. Tié meu ŋillatuñmaufuiŋn itrofill kiñeun. Feyeŋn
+mǝlefui María, Kesús ñi ñuke, kake kimelpeelchi pu
+che kai, pataka epu mari che fentenchi kam fenten-
+nochi.
+Mari antù meu wenuple naqpai rarakùn, fùcha kùrəf
+reke, apolpafi ruka cheu ñi traukəlemom feichi kimel-
+
+PAG 90
+
+peelchi pu che. Kùtralkewən· peufaluwí ka witralepui
+kiduke ñi senchu loŋko meu. Ka fill apolŋeiŋn
+Espíritu Santo meu ka deŋufemiŋn kakeumechi ke-
+wən·meu.
+Ñi allkùkefiel feichi fùcha rarakùn akuyei fùchake
+trokiñche. Feimeu wekun tripai Pedro ka nùtramtui
+Kesús ñi wəñomoŋemotum l·achi pu che meu ka ñi
+wechumom Dios Chau ñi man meu. Fentren pu
+mupiltui ka wətrukoŋei. Feichi antù meu kùla waraŋka
+che chi koní Iqlesia ñi kərpu meu.
+
+PAG 91
+39. Dios ñi Iqlesia fillple pùzi.
+
+Rupamom Paskuafiesta pu Apóstol amuiŋn nùtram-
+tulafilu muñku mapu meu pu Judio ka feichi pu pagano
+mupiltun Kesús meu ka fei tañi kimelelchi dəŋu. Kesús
+ñi ùi meu deumaiŋn fùchake afmatun dəŋu ta pu
+Apóstol; raŋiñ feichike milaqro meu Señor wəli ñi doi
+konəmpaŋeam ñi nùtramtun eŋn. Fill antù doi al·ùn-
+ŋetui mupiltuchi pu che, ka Kesús ñi Iqlesia amulei ñi
+tremn. Pu Apóstol elyefiŋn obispo ka sacerdote kai.
+
