@@ -7,44 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>sp</language>
     <copyright>&amp;copy; 2021 Benjamín Molineaux</copyright>
-    <lastBuildDate>Tue, 03 Feb 1643 16:45:54 +0000</lastBuildDate>
     
 	<atom:link href="https://benmolineaux.github.io/bookshelf/sp/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>17th Century</title>
-      <link>https://benmolineaux.github.io/bookshelf/sp/categories/17th-century/</link>
+      <title>Siglo Xix</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xix/</link>
+      <pubDate>Thu, 03 Feb 1898 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siglo Xvii</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xvii/</link>
       <pubDate>Tue, 03 Feb 1643 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/17th-century/</guid>
+      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xvii/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>18th Century</title>
-      <link>https://benmolineaux.github.io/bookshelf/sp/categories/18th-century/</link>
+      <title>Siglo Xviii</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xviii/</link>
       <pubDate>Tue, 03 Feb 1778 16:45:54 +0000</pubDate>
       
-      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/18th-century/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>19th Century</title>
-      <link>https://benmolineaux.github.io/bookshelf/sp/categories/19th-century/</link>
-      <pubDate>Fri, 03 Feb 1899 16:45:54 +0000</pubDate>
-      
-      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/19th-century/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>20th Century</title>
-      <link>https://benmolineaux.github.io/bookshelf/sp/categories/20th-century/</link>
-      <pubDate>Tue, 03 Feb 1925 16:45:54 +0000</pubDate>
-      
-      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/20th-century/</guid>
+      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xviii/</guid>
       <description></description>
     </item>
     
@@ -54,6 +44,15 @@
       <pubDate>Mon, 03 Feb 1930 16:45:54 +0000</pubDate>
       
       <guid>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siglos Xix</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/categories/siglos-xix/</link>
+      <pubDate>Fri, 03 Feb 1899 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/siglos-xix/</guid>
       <description></description>
     </item>
     

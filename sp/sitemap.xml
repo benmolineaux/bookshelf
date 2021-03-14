@@ -128,86 +128,6 @@
   </url>
   
   <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/categories/17th-century/</loc>
-    <lastmod>1643-02-03T16:45:54+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/categories/17th-century/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/categories/17th-century/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/categories/18th-century/</loc>
-    <lastmod>1778-02-03T16:45:54+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/categories/18th-century/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/categories/18th-century/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/categories/19th-century/</loc>
-    <lastmod>1899-02-03T16:45:54+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/categories/19th-century/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/categories/19th-century/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/categories/20th-century/</loc>
-    <lastmod>1925-02-03T16:45:54+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/categories/20th-century/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/categories/20th-century/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/academic-study/</loc>
-    <lastmod>1914-02-03T16:45:54+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/academic-study/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/academic-study/"
-                />
-  </url>
-  
-  <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/tags/biograf%C3%ADa/</loc>
     <lastmod>1930-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
@@ -215,7 +135,6 @@
   
   <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/categories/</loc>
-    <lastmod>1643-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -236,19 +155,15 @@
   </url>
   
   <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/ethnographic-material/</loc>
-    <lastmod>1914-02-03T16:45:54+00:00</lastmod>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/diario-de-viaje/</loc>
+    <lastmod>1863-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/ethnographic-material/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/ethnographic-material/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/elicitaci%C3%B3n-ling%C3%BC%C3%ADstica/</loc>
+    <lastmod>1897-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -268,35 +183,15 @@
   </url>
   
   <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/grammar/</loc>
-    <lastmod>1903-02-03T16:45:54+00:00</lastmod>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/genealogia/</loc>
+    <lastmod>1913-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/grammar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/grammar/"
-                />
   </url>
   
   <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/html-available/</loc>
-    <lastmod>1913-02-03T16:45:54+00:00</lastmod>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/gram%C3%A1tica/</loc>
+    <lastmod>1911-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/html-available/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/html-available/"
-                />
   </url>
   
   <url>
@@ -306,51 +201,33 @@
   </url>
   
   <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/huilliche/</loc>
-    <lastmod>1911-02-03T16:45:54+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/huilliche/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/huilliche/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/manuscript/</loc>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/manuscrito/</loc>
     <lastmod>1913-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/manuscript/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/manuscript/"
-                />
   </url>
   
   <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/religious-texts/</loc>
-    <lastmod>1925-02-03T16:45:54+00:00</lastmod>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/material-etnogr%C3%A1fico/</loc>
+    <lastmod>1914-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/religious-texts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/religious-texts/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xix/</loc>
+    <lastmod>1898-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xvii/</loc>
+    <lastmod>1643-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xviii/</loc>
+    <lastmod>1778-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -360,8 +237,14 @@
   </url>
   
   <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/categories/siglos-xix/</loc>
+    <lastmod>1899-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/tags/</loc>
-    <lastmod>1914-02-03T16:45:54+00:00</lastmod>
+    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -373,6 +256,18 @@
                 hreflang="sp"
                 href="https://benmolineaux.github.io/bookshelf/sp/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/textos-religiosos/</loc>
+    <lastmod>1925-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/textos-tradicionales/</loc>
+    <lastmod>1911-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -388,67 +283,15 @@
   </url>
   
   <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/travel-account/</loc>
-    <lastmod>1863-02-03T16:45:54+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/travel-account/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/travel-account/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/txt-available/</loc>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/traducci%C3%B3n/</loc>
     <lastmod>1913-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/txt-available/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/txt-available/"
-                />
   </url>
   
   <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/verse/</loc>
-    <lastmod>1913-02-03T16:45:54+00:00</lastmod>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/vocabulario/</loc>
+    <lastmod>1911-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/verse/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/verse/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/wordlist/</loc>
-    <lastmod>1878-02-03T16:45:54+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/wordlist/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/wordlist/"
-                />
   </url>
   
 </urlset>
