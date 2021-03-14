@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuentos on Fuentes para el Corpus Histórico del Mapudungun (CHM)</title>
+    <link>https://benmolineaux.github.io/bookshelf/sp/tags/cuentos/</link>
+    <description>Recent content in Cuentos on Fuentes para el Corpus Histórico del Mapudungun (CHM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sp</language>
+    <copyright>&amp;copy; 2021 Benjamín Molineaux</copyright>
+    <lastBuildDate>Fri, 03 Feb 1922 16:45:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://benmolineaux.github.io/bookshelf/sp/tags/cuentos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Félix de Augusta: Pismahuile</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-clave/pismahuile/</link>
+      <pubDate>Fri, 03 Feb 1922 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-clave/pismahuile/</guid>
+      <description>Transcrito
+Este es un texto tradicional mapuche recopilado por el sacerdote capuchino Sigifredo de Frauenhäusel en la zona de Panguipulli, Chile. El texto fue publicado por Félix de Augusta, luego de cuidadosa edición, a cargo del mismo y con la ayuda del informante original. Dicho informante es Domingo Segundo Huenuñamco de la parroquia de Panguipulli, quien era colaborador cercano y amigo de ambos sacerdotes. Huenuñamco asegura que la historia proviene, originalmente, del Puelmapu (Argentina).</description>
+    </item>
+    
+  </channel>
+</rss>

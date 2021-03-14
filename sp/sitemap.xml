@@ -177,7 +177,7 @@
   
   <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/categories/20th-century/</loc>
-    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <lastmod>1925-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -193,7 +193,7 @@
   
   <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/tags/academic-study/</loc>
-    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <lastmod>1914-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -208,19 +208,9 @@
   </url>
   
   <url>
-    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/biography/</loc>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/biograf%C3%ADa/</loc>
     <lastmod>1930-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://benmolineaux.github.io/bookshelf/tags/biography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="sp"
-                href="https://benmolineaux.github.io/bookshelf/sp/tags/biography/"
-                />
   </url>
   
   <url>
@@ -240,8 +230,14 @@
   </url>
   
   <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/cuentos/</loc>
+    <lastmod>1922-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/tags/ethnographic-material/</loc>
-    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <lastmod>1914-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -289,7 +285,7 @@
   
   <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/tags/html-available/</loc>
-    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <lastmod>1913-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -301,6 +297,12 @@
                 hreflang="sp"
                 href="https://benmolineaux.github.io/bookshelf/sp/tags/html-available/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/tags/html-disponible/</loc>
+    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -352,6 +354,12 @@
   </url>
   
   <url>
+    <loc>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-20/</loc>
+    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xx/</loc>
     <lastmod>1922-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
@@ -359,7 +367,7 @@
   
   <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/tags/</loc>
-    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <lastmod>1914-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -403,7 +411,7 @@
   
   <url>
     <loc>https://benmolineaux.github.io/bookshelf/sp/tags/txt-available/</loc>
-    <lastmod>1930-02-03T16:45:54+00:00</lastmod>
+    <lastmod>1913-02-03T16:45:54+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
