@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diario de Viaje on Fuentes para el Corpus Histórico del Mapudungun (CHM)</title>
+    <link>https://benmolineaux.github.io/bookshelf/sp/tags/diario-de-viaje/</link>
+    <description>Recent content in Diario de Viaje on Fuentes para el Corpus Histórico del Mapudungun (CHM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sp</language>
+    <copyright>&amp;copy; 2021 Benjamín Molineaux</copyright>
+    <lastBuildDate>Tue, 03 Feb 1863 16:45:54 +0000</lastBuildDate><atom:link href="https://benmolineaux.github.io/bookshelf/sp/tags/diario-de-viaje/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guillermo Cox: Viaje a la Patagonia</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/cox/</link>
+      <pubDate>Tue, 03 Feb 1863 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/cox/</guid>
+      <description>NOT Transcribed
+Relevant from p.242
+PDF Text (Image Scans) </description>
+    </item>
+    
+    <item>
+      <title>Thomas Falkner: A description of Patagonia</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/falkner/</link>
+      <pubDate>Thu, 03 Feb 1774 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/falkner/</guid>
+      <description>NOT Transcribed
+See pages 132-150, on Language.
+PDF Text (Image Scans) </description>
+    </item>
+    
+  </channel>
+</rss>

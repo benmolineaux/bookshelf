@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuentos on Fuentes para el Corpus Histórico del Mapudungun (CHM)</title>
+    <link>https://benmolineaux.github.io/bookshelf/sp/tags/cuentos/</link>
+    <description>Recent content in Cuentos on Fuentes para el Corpus Histórico del Mapudungun (CHM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sp</language>
+    <copyright>&amp;copy; 2021 Benjamín Molineaux</copyright>
+    <lastBuildDate>Fri, 03 Feb 1922 16:45:54 +0000</lastBuildDate><atom:link href="https://benmolineaux.github.io/bookshelf/sp/tags/cuentos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Félix de Augusta: Pismahuile</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-clave/pismahuile/</link>
+      <pubDate>Fri, 03 Feb 1922 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-clave/pismahuile/</guid>
+      <description>Transcrito
+Este es un cuento tradicional mapuche recopilado por el sacerdote capuchino Sigifredo de Frauenhäusel en la zona de Panguipulli, Chile. El texto fue publicado por Félix de Augusta, luego de cuidadosa edición, a cargo del mismo y con la ayuda del narrador original. Dicho narrador es Domingo Segundo Huenuñamco (Wenuñamko) de la parroquia de Panguipulli, quien era colaborador cercano y amigo de ambos sacerdotes. Sobre la vida de Huenuñamco tenemos abundantes noticias ya que varias décadas más tarde (1946-1961) él mismo trabajó con la antropóloga y monja benedictina Marie Inez Hilger, quien escribió un libro (Huenun Ñamko, 1966) acerca de las observaciones sobre la vida cotidiana de su comunidad que le compartió el ya anciano mapuche.</description>
+    </item>
+    
+    <item>
+      <title>Félix de Augusta: Lecturas Araucanas</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-clave/augustalecturas/</link>
+      <pubDate>Thu, 03 Feb 1910 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-clave/augustalecturas/</guid>
+      <description>Transcrito
+Esta es una de las colecciones más sustanciales y cuidadosas de materiales en mapudungun de principios del Siglo XX. Fue compilado por los Padres Félix de Augusta y Sigifredo de Fraunhäusl, ambos sacerdotes capuchinos bávaros. Por lo general, los textos son de carácter tradicional, tratando temas mapuche y dándo los nombres de cada informante, que eran conocidos de los misioneros.
+Los textos recopilados por Augusta son principalmente del área Lafkenche, cerca del Lago Budi, mientras que los textos recopilados por Fraunhäusl son del área de Panguipulli, ambas dentro del la zona del mapudungun central.</description>
+    </item>
+    
+  </channel>
+</rss>

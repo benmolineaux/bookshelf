@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>19th Century on Fuentes para el Corpus Histórico del Mapudungun (CHM)</title>
+    <link>https://benmolineaux.github.io/bookshelf/sp/categories/19th-century/</link>
+    <description>Recent content in 19th Century on Fuentes para el Corpus Histórico del Mapudungun (CHM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sp</language>
+    <copyright>&amp;copy; 2021 Benjamín Molineaux</copyright>
+    <lastBuildDate>Fri, 03 Feb 1899 16:45:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://benmolineaux.github.io/bookshelf/sp/categories/19th-century/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rudolf Lenz (ed): Manual de Piedad</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/manualpiedad/</link>
+      <pubDate>Fri, 03 Feb 1899 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/manualpiedad/</guid>
+      <description>NOT Transcribed</description>
+    </item>
+    
+    <item>
+      <title>Raoul de La Grasserie: Grammaire Langue Auca</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/grasserie/</link>
+      <pubDate>Thu, 03 Feb 1898 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/grasserie/</guid>
+      <description>NOT Transcribed</description>
+    </item>
+    
+    <item>
+      <title>Rudolf Lenz: Estudios Araucanos</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-clave/lenzestudios/</link>
+      <pubDate>Wed, 03 Feb 1897 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-clave/lenzestudios/</guid>
+      <description>NOT Transcribed
+A collection of late-19th-century texts compiled by the German-born linguist Dr. Rudlof Lenz in different regions of Chile. These constitute some of the first real samples of authentic Mapuche speech, as earlier texts were mostly religious prose translated into Mapudungun by Jesuit missionaries. Lenz&amp;rsquo;s &amp;ldquo;Estudios&amp;rdquo; are also important as they survey a number of different dialects and provide early, fairly-detailed phonetic transcriptions, using state-of-the-art notation techniques for the period.</description>
+    </item>
+    
+    <item>
+      <title>Federico Barbará: Manual o vocabulario de la lengua pampa</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/barbara/</link>
+      <pubDate>Sun, 03 Feb 1878 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/barbara/</guid>
+      <description>NOT Transcribed
+This is a brief grammar and Spanish-Mapudungun vocabulary focusing on the dialect of the pampas, east of the Andes (Puelmapu), written by Liutenant Colonel Carlos Federico Barbará, of the Argentinian army. The grammatical content follows Febrés (1765) quite closely.
+A version of the Vocabulary can be found at the following website: https://pueblosoriginarios.com/lenguas/pampa.php</description>
+    </item>
+    
+    <item>
+      <title>Guillermo Cox: Viaje a la Patagonia</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/cox/</link>
+      <pubDate>Tue, 03 Feb 1863 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/cox/</guid>
+      <description>NOT Transcribed Relevant from p.242</description>
+    </item>
+    
+    <item>
+      <title>Antonio Hernández Calzada: Confesionario</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/hernandez/</link>
+      <pubDate>Fri, 03 Feb 1843 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/hernandez/</guid>
+      <description>NOT Transcribed</description>
+    </item>
+    
+  </channel>
+</rss>

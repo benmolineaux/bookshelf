@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>18th Century on Fuentes para el Corpus Histórico del Mapudungun (CHM)</title>
+    <link>https://benmolineaux.github.io/bookshelf/sp/categories/18th-century/</link>
+    <description>Recent content in 18th Century on Fuentes para el Corpus Histórico del Mapudungun (CHM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sp</language>
+    <copyright>&amp;copy; 2021 Benjamín Molineaux</copyright>
+    <lastBuildDate>Tue, 03 Feb 1778 16:45:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://benmolineaux.github.io/bookshelf/sp/categories/18th-century/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Serviliano Orbanel: Doctrina Cristiana</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/orbanel/</link>
+      <pubDate>Tue, 03 Feb 1778 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/orbanel/</guid>
+      <description>NOT Transcribed</description>
+    </item>
+    
+    <item>
+      <title>Bernhard Havestadt: Chilidúģu</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-clave/havestadt1/</link>
+      <pubDate>Sat, 03 Feb 1776 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-clave/havestadt1/</guid>
+      <description>Partially Transcribed
+Fr. Bernhard Havestadt (1714-1778), a German Jesuit, was the author of one of the two 18th century grammars of Mapudungun. A native of Köln, he left the Westphalia monastery of Horst-Maria for the ‘Indies’ in 1746, taking up his post in the region of La Frontera in March of 1748. Here he remained for twenty-two years, leaving a lively record of his evangelisation work and travels.
+His grammar,though apparently available in a Spanish-language manuscript in the mid-1750’s, was published &amp;mdash; in Latin &amp;mdash; only in 1777 as Chilidúģu: Sive Tratcatus Linguæ Chilensis.</description>
+    </item>
+    
+    <item>
+      <title>Thomas Falkner: A description of Patagonia</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/falkner/</link>
+      <pubDate>Thu, 03 Feb 1774 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-adicionales/falkner/</guid>
+      <description>NOT Transcribed
+See pages 132-150, on Language.</description>
+    </item>
+    
+    <item>
+      <title>Andrés Febres: Arte de la Lengua General del Reyno de Chile</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/textos-clave/febres/</link>
+      <pubDate>Fri, 03 Feb 1764 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/textos-clave/febres/</guid>
+      <description>Transcribed
+This was the most widely used early work on Mapudungun. So much so that the HMS Beagle, in its famous travels with Captiain Fitz Roy and young Charles Darwing, carried a copy of it in 1831-6.
+Its author was the Catalan Jesuit Andrés Febrés (1732-1790), who arrived to the Mapuche-speaking territories in 1759 at the age of 27. He appears to have learnt the language and written his grammar less than five years after his arrival in Chile.</description>
+    </item>
+    
+  </channel>
+</rss>

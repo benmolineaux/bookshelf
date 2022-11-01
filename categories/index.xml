@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Source material for the Corpus of Historical Mapudungun (CHM)</title>
+    <link>https://benmolineaux.github.io/bookshelf/categories/</link>
+    <description>Recent content in Categories on Source material for the Corpus of Historical Mapudungun (CHM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021 Benjamín Molineaux</copyright>
+    <lastBuildDate>Tue, 03 Feb 1643 16:45:54 +0000</lastBuildDate>
+    
+	<atom:link href="https://benmolineaux.github.io/bookshelf/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>17th Century</title>
+      <link>https://benmolineaux.github.io/bookshelf/categories/17th-century/</link>
+      <pubDate>Tue, 03 Feb 1643 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/categories/17th-century/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18th Century</title>
+      <link>https://benmolineaux.github.io/bookshelf/categories/18th-century/</link>
+      <pubDate>Tue, 03 Feb 1778 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/categories/18th-century/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>19th Century</title>
+      <link>https://benmolineaux.github.io/bookshelf/categories/19th-century/</link>
+      <pubDate>Fri, 03 Feb 1899 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/categories/19th-century/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20th Century</title>
+      <link>https://benmolineaux.github.io/bookshelf/categories/20th-century/</link>
+      <pubDate>Mon, 03 Feb 1930 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/categories/20th-century/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

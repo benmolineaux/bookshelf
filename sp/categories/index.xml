@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Fuentes para el Corpus Histórico del Mapudungun (CHM)</title>
+    <link>https://benmolineaux.github.io/bookshelf/sp/categories/</link>
+    <description>Recent content in Categories on Fuentes para el Corpus Histórico del Mapudungun (CHM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sp</language>
+    <copyright>&amp;copy; 2021 Benjamín Molineaux</copyright>
+    <lastBuildDate>Mon, 03 Feb 1930 16:45:54 +0000</lastBuildDate><atom:link href="https://benmolineaux.github.io/bookshelf/sp/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Siglo XX</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xx/</link>
+      <pubDate>Mon, 03 Feb 1930 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siglo XIX</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xix/</link>
+      <pubDate>Fri, 03 Feb 1899 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siglo XVIII</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xviii/</link>
+      <pubDate>Tue, 03 Feb 1778 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xviii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siglo XVII</title>
+      <link>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xvii/</link>
+      <pubDate>Tue, 03 Feb 1643 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/sp/categories/siglo-xvii/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

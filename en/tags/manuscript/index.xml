@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript on Source material for the Corpus of Historical Mapudungun (CHM)</title>
+    <link>https://benmolineaux.github.io/bookshelf/en/tags/manuscript/</link>
+    <description>Recent content in Manuscript on Source material for the Corpus of Historical Mapudungun (CHM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2021 Benjamín Molineaux</copyright>
+    <lastBuildDate>Mon, 03 Feb 1913 16:45:54 +0000</lastBuildDate><atom:link href="https://benmolineaux.github.io/bookshelf/en/tags/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manuel Manquilef: A la Raza Araucana (Lillo, ms)</title>
+      <link>https://benmolineaux.github.io/bookshelf/en/bonus-texts/manquileflillo/</link>
+      <pubDate>Mon, 03 Feb 1913 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/en/bonus-texts/manquileflillo/</guid>
+      <description>Preliminary transcription by Benjamin Molineaux.
+PDF Text (Image Scans) TXT Text (Mapudungun) </description>
+    </item>
+    
+    <item>
+      <title>Serviliano Orbanel: Doctrina Cristiana</title>
+      <link>https://benmolineaux.github.io/bookshelf/en/bonus-texts/orbanel/</link>
+      <pubDate>Tue, 03 Feb 1778 16:45:54 +0000</pubDate>
+      
+      <guid>https://benmolineaux.github.io/bookshelf/en/bonus-texts/orbanel/</guid>
+      <description>NOT Transcribed
+PDF Text (Image Scans) </description>
+    </item>
+    
+  </channel>
+</rss>
